@@ -1,1 +1,5 @@
-date,product_name,category,traffic_source,views,purchase_intent_clicks,purchases,revenue_inr,conversion_rate,refunds,notes
+date,product_name,product_tier,source_post_id,source_pillar,source_paid_bridge,purchase_intent_clicks,inquiries,manual_sales_count,manual_revenue_inr,refund_count,qualitative_feedback,next_action
+TBD,Operator Visibility Kit,Low-ticket,POST-002,Corporate Leverage,Impact narrative tracker,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+TBD,Operator Visibility Kit,Low-ticket,POST-004,Corporate Leverage,Operator Visibility Kit,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+TBD,Decision Memo Kit,Low-ticket,POST-001,Strategy Systems,Decision memo template,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+TBD,Recurring Decision Tracker,Lead magnet or low-ticket,POST-003,Founder Leverage,Recurring decision tracker,TBD,TBD,TBD,TBD,TBD,TBD,TBD
