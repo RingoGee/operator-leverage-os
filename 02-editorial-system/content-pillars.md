@@ -10,4 +10,4 @@ Founder OS, solopreneur systems, proposal factories, control panels, and operati
 Fundraise prep, investor updates, narrative building, data room logic, and proof stacks.
 
 ## 4. Corporate Leverage
-Indian corporate professionals, MIS, appraisal season, stakeholder communication, upward visibility, and internal influence.
+Corporate professionals globally, MIS, appraisal season, stakeholder communication, upward visibility, and internal influence.
