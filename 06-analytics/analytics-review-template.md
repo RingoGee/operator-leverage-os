@@ -37,24 +37,24 @@ Track which visual structures create saves, shares, comments, profile visits, an
 | TBD | TBD | TBD | TBD | TBD |
 
 ## 5. Posts creating product interest
-Use this section to identify posts that create interest in Operator Visibility Kit or another implementation asset.
+Use this section to identify posts that create interest in Proof Stack or another implementation asset.
 
 | Post ID | Paid asset bridge | Purchase intent clicks | Inquiries | Qualitative signal | Next action |
 | --- | --- | --- | --- | --- | --- |
-| TBD | Operator Visibility Kit | TBD | TBD | TBD | TBD |
+| TBD | Proof Stack | TBD | TBD | TBD | TBD |
 
 ## 6. Weak posts and why they failed
 | Post ID | Topic | Likely issue | Reframe or retire? |
 | --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD |
 
-## 7. Signals for Operator Visibility Kit
+## 7. Signals for Proof Stack
 Review whether the audience is showing demand for the first recommended product direction.
 
 ### Demand signals to watch
 - Saves on visibility, evidence, work-to-impact, appraisal, stakeholder update, and upward communication posts.
 - Comments or replies mentioning visibility, proof, appraisal, manager updates, client updates, or stakeholder communication.
-- Purchase intent clicks from posts connected to Operator Visibility Kit.
+- Purchase intent clicks from posts connected to Proof Stack.
 - Inquiries asking for templates, trackers, examples, or implementation help.
 - Repeated qualitative language that suggests the same pain is showing up across segments.
 
@@ -75,8 +75,8 @@ Use the decision rules below.
 | Productize | Turn repeated demand into a lead magnet or paid implementation asset. | TBD |
 
 ## 9. Product decisions for next week
-- Should Operator Visibility Kit remain the first product direction? TBD
-- Which deliverable seems most wanted: evidence bank, work-to-impact canvas, weekly visibility panel, guide, or workflow prompt system? TBD
+- Should Proof Stack remain the first product direction? TBD
+- Which deliverable seems most wanted: evidence bank, work-to-impact canvas, weekly signal panel, guide, or workflow prompt system? TBD
 - Is the current price hypothesis still reasonable? TBD
 - What should be validated before building anything? TBD
 

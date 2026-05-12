@@ -9,12 +9,12 @@ Free content creates clarity. Paid products create implementation speed.
 Paid products should help people apply the free mental models faster through templates, trackers, canvases, SOPs, operating panels, evidence banks, implementation guides, and workflow-attached prompt systems.
 
 ## Recommended first paid product
-**Operator Visibility Kit** should be the first paid product direction.
+**Proof Stack** should be the first paid product direction.
 
 ### Why this goes first
 - It connects directly to free content about work-to-impact, visibility without bragging, appraisal evidence, stakeholder updates, MIS decision layers, and upward communication.
 - It can serve corporate professionals globally, strategy and growth operators, founder's office and chief-of-staff professionals, consultants, and advisory teams.
-- It solves a painful problem: doing valuable work but failing to make that value legible to decision-makers.
+- It solves a painful problem: turning invisible work into visible evidence, sharper updates, and career or business leverage.
 - It can be built as an implementation asset without requiring an app or complex software.
 
 ## Ladder overview
@@ -37,10 +37,10 @@ Paid products should help people apply the free mental models faster through tem
 **Role:** Let the audience try a lightweight implementation asset before buying.
 
 **Possible assets:**
-- One-page visibility self-audit
+- Proof self-audit
 - Work-to-impact worksheet
 - Decision-ready update checklist
-- Evidence bank starter sheet
+- Evidence Bank starter sheet
 - Stakeholder clarity checklist
 
 **Primary goal:** Convert passive readers into people who actively apply the models.
@@ -48,18 +48,16 @@ Paid products should help people apply the free mental models faster through tem
 ### 3. Low-ticket product layer
 **Role:** Sell focused implementation assets that solve one painful workflow.
 
-**Recommended first product:** Operator Visibility Kit.
+**Recommended first product:** Proof Stack.
 
 **Possible deliverables:**
-- Evidence bank tracker
-- Visibility panel template
-- Work-to-impact chain canvas
-- Stakeholder update template
-- Decision-ready communication checklist
-- Implementation guide
-- Example-filled walkthroughs
+- Evidence Bank
+- Work-to-Impact Chain
+- Weekly Signal Panel
+- Short implementation guide
+- Optional prompt system attached to the update workflow
 
-**Primary goal:** Help the buyer make useful work visible, credible, and decision-ready.
+**Primary goal:** Help the buyer convert useful work into proof, sharper updates, and visible leverage.
 
 ### 4. Core product layer
 **Role:** Package a complete operating system around a larger operator outcome.
@@ -97,4 +95,4 @@ Paid products should help people apply the free mental models faster through tem
 **Primary goal:** Turn the brand's frameworks into high-context review and advisory.
 
 ## Future products are secondary
-Do not build multiple products at once. Use the content bank to validate demand, then start with Operator Visibility Kit before expanding into founder, capital, or strategy products.
+Do not build multiple products at once. Use the content bank to validate demand, then start with Proof Stack before expanding into founder, capital, or strategy products.

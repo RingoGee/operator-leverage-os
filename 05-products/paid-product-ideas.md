@@ -8,24 +8,21 @@ Every paid product must help the buyer implement a mental model faster. Do not s
 
 ## First product
 
-### Operator Visibility Kit
+### Proof Stack
 **Audience:** Corporate professionals globally, strategy and growth operators, founder's office and chief-of-staff professionals, consultants, and small advisory teams.
 
-**Problem solved:** The buyer is doing valuable work, but their impact is not visible, structured, or decision-ready for managers, founders, clients, or stakeholders.
+**Problem solved:** The buyer is doing valuable work, but it is not converted into visible evidence, sharper updates, or career/business leverage for managers, founders, clients, or stakeholders.
 
 **Free content bridge:** Work-to-impact chain, visibility without bragging, appraisal evidence bank, stakeholder update map, MIS decision layer, upward communication ladder, and decision-ready email model.
 
 **Deliverables:**
-- Evidence bank tracker
-- Work-to-impact chain canvas
-- Visibility panel template
-- Stakeholder update template
-- Decision-ready update checklist
-- Weekly proof capture SOP
-- Example-filled implementation guide
+- Evidence Bank
+- Work-to-Impact Chain
+- Weekly Signal Panel
+- Short implementation guide
 - Optional prompt system attached to the update workflow
 
-**Why someone would pay:** They understand the free mental model but want a ready-to-use system to capture proof, communicate impact, and show operating value faster.
+**Why someone would pay:** They understand the free mental model but want a ready-to-use system to capture evidence, turn work into proof, and communicate operating value faster.
 
 **Risk/complexity:** Medium. The product must stay globally relevant while still feeling concrete enough for corporate and operator workflows.
 
@@ -160,4 +157,4 @@ Every paid product must help the buyer implement a mental model faster. Do not s
 **Risk/complexity:** High. It should come after the audience already trusts the brand's strategy content.
 
 ## Product sequencing note
-Start with Operator Visibility Kit. Use demand signals from saves, replies, comments, and lead magnet usage before building larger systems.
+Start with Proof Stack. Use demand signals from saves, replies, comments, and lead magnet usage before building larger systems.

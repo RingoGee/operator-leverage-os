@@ -4,7 +4,7 @@
 Use this file to think about a future recurring offer. Subscription is a later layer, not the first monetization move.
 
 ## Subscription principle
-Do not launch a subscription until free content and one-off products show demand. Start with Operator Visibility Kit, learn from buyer behavior, then consider recurring support.
+Do not launch a subscription until free content and one-off products show demand. Start with Proof Stack, learn from buyer behavior, then consider recurring support.
 
 ## When subscription may make sense
 A subscription may make sense after:
