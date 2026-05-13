@@ -4,7 +4,14 @@ This folder contains the Operator Leverage OS-specific Codex skill chain for run
 
 These are Markdown workflow instructions, not executable automations. Use them one step at a time so each stage remains reviewable and doctrine-compliant.
 
-## The 10-skill production chain
+## Orchestration skills
+
+- `00-master-orchestrator.md` — coordinates all skills and selects the right workflow.
+- `11-batch-carousel-builder.md` — handles multiple selected carousel topics.
+- `12-trend-to-carousel-pack-runner.md` — handles trend/theme-to-package workflows.
+- `13-weekly-content-system-runner.md` — handles weekly content cycles.
+
+## The 10 specialist skills
 
 1. `01-research-scan.md` — Research scan
 2. `02-idea-generator.md` — Idea generation
@@ -35,7 +42,7 @@ Grounded research
 
 ## Usage rules
 
-- Use the skills one step at a time.
+- Use the skills one step at a time. Use orchestration skills only to coordinate sequence, decision gates, stopping points, and allowed outputs.
 - Codex should not skip downstream steps unless explicitly asked.
 - Research and evidence must remain honest.
 - Examples must not be presented as research.

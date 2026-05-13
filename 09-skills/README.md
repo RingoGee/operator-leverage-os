@@ -11,6 +11,8 @@ These skills are **not executable automations**. They are Markdown operating pro
 
 The generic reusable Instagram carousel design-system skill family is intentionally **not included yet**. This pass only creates skills for the Operator Leverage OS brand and operating system.
 
+Some skills are specialist workflows for one production step. Others are orchestration workflows that coordinate multiple specialist skills without bypassing their guardrails.
+
 ## How to use these skills
 
 Use a skill by pasting or referencing the relevant file in a Codex task, for example:
