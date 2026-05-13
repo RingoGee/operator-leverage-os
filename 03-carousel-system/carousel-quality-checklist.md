@@ -7,6 +7,14 @@ This checklist follows `02-editorial-system/thought-leadership-doctrine.md`. A g
 
 ## Pass/fail checklist
 
+### Expert-reader clarity
+- [ ] Would a domain expert understand the business point quickly?
+- [ ] Is the argument specific enough for the domain?
+- [ ] Can the reader summarize the carousel in one sentence?
+- [ ] Is the practical consequence explicit?
+- [ ] Is the carousel useful even without admiring the design?
+- [ ] Does the reader know what to do differently?
+
 ### Argument-led diagnosis
 - [ ] The carousel starts with a real operator pressure.
 - [ ] The exact workplace problem is specific, not generic productivity pain.
@@ -21,10 +29,19 @@ This checklist follows `02-editorial-system/thought-leadership-doctrine.md`. A g
 - [ ] Any research captures source, year, claim supported, caveat, and citation/link.
 - [ ] No statistics are invented or vaguely attributed to “studies.”
 
+### One-sentence point and domain context
+- [ ] The carousel has a plain one-sentence point in this format: “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+- [ ] The point is plain, not just clever.
+- [ ] Finance, fundraising, investor communication, or investment strategy content states founder/operator/investor context.
+- [ ] Finance or investor content states the relevant stage, situation, or decision moment where needed.
+- [ ] The decision implication is clear.
+- [ ] The communication or behavior change is clear.
+
 ### Antithesis and mechanism
 - [ ] It includes an antithesis: default behavior versus high-leverage operator behavior.
 - [ ] The antithesis upgrades the reader without insulting them.
 - [ ] The framework explains a mechanism.
+- [ ] The framework clarifies rather than decorates.
 - [ ] The framework shows where value, clarity, proof, trust, or decision quality leaks.
 - [ ] The model improves thinking, diagnosis, communication, or decision quality.
 - [ ] The idea would still work if no AI tool was mentioned.
@@ -70,6 +87,12 @@ Reject or rework the carousel if:
 - The hook is mainly a tool name.
 - The carousel is a listicle with design applied.
 - The carousel is clean and polished but says little.
+- The carousel is visually polished but unclear to the intended expert reader.
+- The practical consequence is missing or vague.
+- The intended reader cannot summarize the point in one sentence.
+- Finance or fundraising content becomes abstract operator philosophy without domain context.
+- The framework requires too much explanation before the reader sees why it matters.
+- The framework is clearer to the creator than to the reader.
 - The visual object repeats every slide without new reasoning.
 - The hidden flaw is missing.
 - The piece prescribes before diagnosing.
@@ -95,6 +118,9 @@ Score each item from 0 to 2.
 | Antithesis | Missing | Present but generic | Sharp, respectful, and useful | TBD |
 | Hidden mechanism | Missing | Implied | Clearly explains why the issue repeats | TBD |
 | Framework quality | Common-sense label | Useful but familiar | Explains value leakage and behavior change | TBD |
+| Expert-reader clarity | Unclear to domain reader | Clear after effort | Clear quickly to intended expert reader | TBD |
+| Practical consequence | Missing | Implied | Explicit and domain-specific | TBD |
+| One-sentence point | Clever/vague | Mostly clear | Plain, specific, and memorable | TBD |
 | Visual argument | Decorative | Partly explanatory | Carries the reasoning | TBD |
 | Structured text | Cluttered or shallow | Mixed | High-signal and easy to read | TBD |
 | Stopping power | Summary headline | Some tension | Strong unresolved tension | TBD |
@@ -105,9 +131,17 @@ Score each item from 0 to 2.
 | Paid bridge | Confusing or bait-like | Somewhat clear | Optional and implementation-led | TBD |
 
 ## Approval rule
+The expert-reader clarity checks are a gate, not a nice-to-have. If a domain-aware reader cannot explain the point in one sentence, reject or rework before scoring.
+
+Original 14-item scorecard range:
 - **24-28:** Approve for design.
 - **18-23:** Rework before design.
 - **0-17:** Reject or reframe.
+
+Expanded 17-item scorecard range:
+- **30-34:** Approve for design.
+- **22-29:** Rework before design.
+- **0-21:** Reject or reframe.
 
 Generic clean infographics cannot pass. A carousel must earn approval through diagnosis, mechanism, visual reasoning, behavior shift, and performance logic.
 
@@ -137,6 +171,14 @@ Generic clean infographics cannot pass. A carousel must earn approval through di
 - [ ] Unsourced examples are not presented as research or statistics.
 - [ ] “Not a sourced statistic” is kept as an internal production note unless necessary.
 - [ ] Data, examples, and mini-cases directly support the argument.
+
+## Domain-reader audit checks
+- [ ] Would a domain expert understand the business point quickly?
+- [ ] Is the argument specific enough for the domain?
+- [ ] Does the framework clarify rather than decorate?
+- [ ] Is the practical consequence explicit?
+- [ ] Can the reader summarize the carousel in one sentence?
+- [ ] Is the carousel useful even without admiring the design?
 
 ## Framework ownability checks
 - [ ] **Mechanism test:** the framework explains why the problem happens.
@@ -206,6 +248,9 @@ Approved archetypes to check against:
 - [ ] Does brand memorability come from consistent grammar, not just bright color?
 
 ## Framework intensity and anti-monotony checks
+- [ ] Has the carousel tried a plain thesis, practical example, before/after, or decision implication before introducing a model?
+- [ ] Is a named model necessary, or would a sharper explanation work better?
+- [ ] Does the framework simplify the situation instead of making a simple point feel overbuilt?
 - [ ] Is the format intensity appropriate for the idea?
 - [ ] Is the carousel varied without becoming inconsistent?
 - [ ] Is a heavy framework reserved for an idea with real mechanism and reuse potential?

@@ -493,3 +493,44 @@ Reject diagrams that:
 - Use icons without analytical purpose.
 - Look like generic business-process graphics.
 - Are visually clear but intellectually shallow.
+
+## Expert-reader visual clarity rules
+A carousel can be visually polished and still fail if the intended expert reader cannot quickly see the business point.
+
+Before design, define:
+
+- the exact work or business situation;
+- the specific audience facing it;
+- the practical consequence if ignored;
+- the one-sentence point;
+- the behavior or communication change expected after reading.
+
+During design, the central visual object must make the point easier to understand, not merely more impressive.
+
+## One-sentence point visibility
+The visual system should support this sentence:
+
+> “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+
+If the visual metaphor cannot be traced back to that sentence, simplify the visual. Do not let the design become clearer than the argument.
+
+## Finance and fundraising visual specificity
+For finance, fundraising, investor communication, and investment strategy content, the design must make the situation visible.
+
+Use concrete visual anchors such as:
+
+- fundraising deck;
+- investor update;
+- board memo;
+- data room;
+- diligence checklist;
+- capital allocation funnel;
+- valuation conversation;
+- follow-up question trail.
+
+Avoid abstract operator diagrams when the domain reader needs a specific decision context. The visual should show what changes in the reader's communication, judgment, or behavior.
+
+## Anti-overframework visual rule
+Do not design a heavy model when the real need is a sharper explanation.
+
+Use a plain thesis, practical example, before/after artifact, or decision implication before introducing a named framework. Reject diagrams that make a simple point look sophisticated but do not help the reader act.

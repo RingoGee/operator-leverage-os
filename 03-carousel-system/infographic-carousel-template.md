@@ -42,6 +42,27 @@ Choose one:
 ## Audience segment
 TBD
 
+## One-sentence point
+Use this exact format before writing the carousel:
+
+> “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+
+Reject or rewrite if the sentence is clever but not plain.
+
+TBD
+
+## Domain context
+For finance, fundraising, investor communication, or investment strategy topics, specify:
+
+- founder/operator/investor context:
+- stage or situation:
+- decision implication:
+- what changes in communication or behavior:
+
+For non-finance topics, specify the relevant workplace or operating context.
+
+TBD
+
 ## Exact operator problem
 What specific workplace problem does the audience recognize?
 
@@ -60,6 +81,18 @@ What evidence will support the argument?
 - Claim supported:
 - Caveat:
 - Citation or link, if research is used:
+
+TBD
+
+## Practical consequence
+What practical consequence follows if the reader ignores this?
+
+Examples:
+
+- “This is why investors keep asking the same follow-up questions.”
+- “This is why a strong month still fails to become a fundable story.”
+- “This is why updates get read but do not build confidence.”
+- “This is why a data room can be complete but still weak.”
 
 TBD
 
@@ -83,6 +116,11 @@ What reusable model helps the reader think better?
 
 TBD
 
+## Plain-language version of the framework
+Explain the model without the name, metaphor, or branded language. If the plain version is stronger than the named framework, use the plain version.
+
+TBD
+
 ## Applied example
 How does this apply in a real work situation?
 
@@ -90,6 +128,15 @@ TBD
 
 ## Behavior shift
 What operating question, habit, or lens should the reader adopt after reading?
+
+TBD
+
+## What the reader should say after reading
+Write the plain sentence a domain-aware reader should be able to say after finishing the carousel.
+
+Example format:
+
+> “I understand that [situation] fails because [mechanism], so I should [behavior change].”
 
 TBD
 
@@ -202,15 +249,30 @@ Only include this if the paid asset helps the reader implement the free model fa
 - Why it helps implementation:
 - Boundary between free teaching and paid asset:
 
+## Expert-reader clarity test
+Before design, confirm:
+
+- [ ] The exact business/work situation is clear.
+- [ ] The specific audience is clear.
+- [ ] The practical consequence is explicit.
+- [ ] The one-sentence point is plain.
+- [ ] A domain-aware reader can explain the point in one sentence.
+- [ ] The framework clarifies the situation instead of decorating it.
+- [ ] The reader knows what to do differently.
+
 ## Final check before design
 - [ ] The carousel starts with tension, not a tool.
 - [ ] The exact operator problem is clear.
+- [ ] The one-sentence point is plain and specific.
+- [ ] The domain context is clear where relevant.
+- [ ] The practical consequence is explicit.
 - [ ] The first-principles cause is clear.
 - [ ] Evidence, data, or a concrete example supports the argument where relevant.
 - [ ] The common false solution is named.
 - [ ] The antithesis is respectful and useful.
 - [ ] The hidden mechanism explains why the problem repeats.
 - [ ] The framework explains a mechanism, not just common sense.
+- [ ] The plain-language version of the framework is clear.
 - [ ] The visual moves develop one central argument.
 - [ ] Slide text is structured and high-signal.
 - [ ] Each slide creates a reason to swipe.

@@ -18,3 +18,6 @@ Reusable Codex workflow instructions live in `09-skills/README.md`. Use them whe
 
 ## Research bank
 Use `08-research-bank/` for source logs, claim banks, example banks, and research-to-content mapping before turning research into topic ideas or carousel briefs.
+
+## Local exports
+Use `10-local-export-guides/publishing-pack-convention.md` when moving approved repo work into local access. The default local export is only the final visual generation prompt in `exports/visual-prompts/`, so it can be copied into ChatGPT Images or another image/design tool. Full publishing packs for final images, captions, and post archives are optional and should be used only when explicitly needed. GitHub stays the source of truth for Markdown/CSV planning files.

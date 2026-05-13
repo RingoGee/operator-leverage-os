@@ -582,3 +582,75 @@ Diagram rules:
 - A comparison table should sharpen a decision or behavior distinction.
 
 Reject diagrams that are merely boxes connected by arrows, restate the headline, use icons without analytical purpose, look like generic business-process graphics, or are visually clear but intellectually shallow.
+
+## AD. Expert-reader clarity layer
+Every carousel must pass an expert-reader clarity test before it becomes a brief, draft, or design prompt.
+
+A visually strong carousel can still fail if a domain-aware reader cannot quickly understand the business point. Depth is only useful when the intended reader can place the idea inside a real situation and act differently.
+
+Every major carousel should answer:
+
+- What exact business or work situation is this about?
+- Who faces this problem?
+- What is the practical consequence if they ignore it?
+- What does the reader now understand better?
+- What should the reader do differently?
+- Can a domain-aware reader explain the point in one sentence after reading it?
+
+If the reader only thinks “this looks smart” but cannot explain the point, reject or simplify the carousel.
+
+## AE. One-sentence point test
+Every carousel must have a plain one-sentence point before the framework, slide arc, or visual metaphor is built.
+
+Use this format:
+
+> “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+
+Reject the carousel if the point is clever but not plain.
+
+The sentence should be understandable without seeing the design. If it sounds like a brand slogan, consulting phrase, or abstract thought-leadership claim, rewrite it until a busy expert reader can immediately understand the business point.
+
+## AF. Domain specificity rule for finance and investor content
+If the topic involves finance, fundraising, investor communication, venture capital, private markets, investment strategy, or capital allocation, the carousel must clearly state:
+
+- the founder, operator, investor, or stakeholder context;
+- the stage, situation, or decision moment where relevant;
+- the decision implication;
+- what changes in the reader's communication, judgment, or behavior.
+
+Do not let finance content become abstract operator philosophy. A finance-aware reader should quickly understand whether the piece is about a fundraising deck, investor update, board memo, data room, valuation conversation, capital allocation decision, diligence process, or market narrative.
+
+## AG. Abstraction control and anti-overframework rule
+Frameworks should simplify reality, not obscure it.
+
+Before introducing a named model, first try:
+
+- a plain thesis;
+- a practical example;
+- a before/after contrast;
+- a decision implication;
+- a consequence line.
+
+Reject or rework:
+
+- over-named frameworks that hide a simple point;
+- frameworks that are clearer to the creator than to the reader;
+- language that sounds smart but does not change action;
+- concepts that need too much explanation before the reader sees why they matter;
+- heavy framework treatment when the real need is a sharper explanation.
+
+A framework earns its place only when it makes the expert reader's judgment faster, clearer, or more useful.
+
+## AH. Practical consequence requirement
+Every major carousel should include a practical consequence line.
+
+A practical consequence line explains why the point matters in real work. It turns abstraction into stakes.
+
+Examples:
+
+- “This is why investors keep asking the same follow-up questions.”
+- “This is why a strong month still fails to become a fundable story.”
+- “This is why updates get read but do not build confidence.”
+- “This is why a data room can be complete but still weak.”
+
+The consequence should be specific to the audience and situation. Avoid vague stakes such as “you lose leverage” unless the carousel explains what leverage is lost, where it is lost, and what decision or behavior changes.

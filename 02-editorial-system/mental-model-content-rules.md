@@ -88,3 +88,47 @@ Do not create a named framework for every post. Use:
 - **Execution tools** for checklists, scorecards, matrices, templates, or prompts that apply a deeper model.
 
 Reject a framework if it only renames common advice or has no mechanism, reuse potential, or behavior shift.
+
+## Expert-reader clarity rules
+A mental model is not approved until the intended expert reader can understand the practical point quickly.
+
+Before approving a carousel idea, answer:
+
+- What exact business or work situation is this about?
+- Who faces the problem?
+- What practical consequence follows if they ignore it?
+- What does the reader understand better after the post?
+- What should the reader do differently?
+- Can a domain-aware reader summarize the point in one sentence?
+
+## One-sentence point test
+Every idea must pass this sentence before becoming a carousel:
+
+> “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+
+If the sentence is abstract, clever, or brand-sounding but not plain, reject or rewrite the idea.
+
+## Domain specificity for finance and fundraising ideas
+For finance, fundraising, investor communication, or investment strategy topics, define the domain context before naming a framework.
+
+Required context:
+
+- founder, operator, investor, or stakeholder perspective;
+- stage or situation where relevant;
+- decision implication;
+- what should change in communication or behavior.
+
+Reject finance content that sounds like abstract operator philosophy but does not help a domain-aware reader make, explain, or evaluate a real decision.
+
+## Abstraction and framework control
+Use the lightest structure that clarifies the point.
+
+Prefer, in this order:
+
+1. plain thesis;
+2. practical consequence;
+3. before/after example;
+4. decision implication;
+5. named model only if the model adds clarity.
+
+Reject over-named frameworks, concepts that require too much explanation, or language that sounds smart but does not change action.

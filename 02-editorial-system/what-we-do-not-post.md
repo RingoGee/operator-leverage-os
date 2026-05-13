@@ -109,3 +109,19 @@ Do not post decks with:
 - Premium beige layouts with no distinctive Operator Leverage OS grammar.
 - Noisy orange layouts where every important word is highlighted.
 - Diagrams that are visually clear but intellectually shallow.
+
+## Expert-reader clarity rejection rules
+Reject or rework content that is visually polished but unclear to the intended reader.
+
+Do not post:
+
+- beautiful carousels where the business point does not land quickly;
+- over-abstracted finance, fundraising, investor communication, or investment strategy content;
+- frameworks that require too much explanation before the reader sees why they matter;
+- content where the intended reader cannot identify the practical use;
+- clever phrasing without a decision implication;
+- finance content that does not clarify founder, operator, investor, stage, situation, or decision context;
+- models that are clearer to the creator than to the reader;
+- concepts that sound expert but do not change communication, judgment, or behavior.
+
+If a domain-aware reader cannot summarize the carousel in one plain sentence, reject it even if the design is strong.
