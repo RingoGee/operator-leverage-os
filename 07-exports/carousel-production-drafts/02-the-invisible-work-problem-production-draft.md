@@ -18,6 +18,32 @@ This is not a designed slide file. It is a structured production direction for a
 - **Profile-entry trigger:** The final slide points to more operator leverage systems for people turning invisible work into visible proof.
 - **Optional bio-click bridge:** Intentionally soft. This may later connect to an Invisible Work Audit or Proof Stack waitlist, but the carousel should not sell directly.
 
+## Final generation control map
+This map controls the next visual attempt. If any earlier instruction conflicts with this map, use this map.
+
+| Slide | Composition archetype | Dominant element | Headline mode | Signature visual grammar |
+| --- | --- | --- | --- | --- |
+| 1 | Tension Split | Headline + proof gap split | Hero headline-led | Proof gap; memory decay texture; proof stamp; split contradiction |
+| 2 | Root-Cause System Map | Causal retrieval map | Analytical-headline-led, diagram-supported | Retrieval marker; root-cause system map; operator note; coordination vs retrieval distinction |
+| 3 | Mini-Case Panel | Mini-case comparison | Case-led title | Evidence cards; retrieval marker; mini-case panel; proof-trail marker |
+| 4 | Antithesis Table | Antithesis table | Comparison/table-led title | Antithesis table; proof stamp on high-leverage side; muted default side; behavior distinction markers |
+| 5 | Leakage / Breakpoint Map | Leakage diagram | Diagram-led title | Leakage markers; memory decay texture; conversion path; retained-vs-lost value signal |
+| 6 | Framework Gate Model | Proof Conversion Funnel model | Model-led title | Decision gates; conversion path; proof stamp; retrieval marker; model-led gate system |
+| 7 | Artifact Transformation | Weekly review artifact | Artifact-led / utility title | Artifact transformation; evidence card; proof trail; structured weekly review card; retrieval marker |
+| 8 | Behavior Checklist / Profile Bridge | Behavior checklist + operator-note profile bridge | Utility-led with strong behavior question | Operator note; behavior checklist; retrieval marker; profile/category promise module |
+
+Rules:
+
+- The archetype controls the slide layout. Do not improvise a generic big-headline-card layout.
+- The dominant element must visually lead the slide.
+- Headlines should not overpower the model, table, artifact, case, or diagram when those are the slide’s real value.
+- Only Slide 1 and Slide 8 may use hero-scale headline treatment.
+- Slides 2–7 must avoid giant headline dominance.
+- Slide 6 title must be smaller than the model; the model is the hero.
+- Slide 7 title must support the artifact; the artifact is the hero.
+- Orange emphasis should be used selectively, not on every important word.
+- Signature devices must carry meaning. Do not use proof, leakage, or decision icons as decoration.
+
 ## Slide 1: Tension / question
 ### Slide role
 Tension / question
@@ -65,48 +91,63 @@ This is the opening slide. It creates the central tension and reframes invisible
 ### Slide role
 First-principles diagnosis
 
+### Composition archetype
+Root-Cause System Map
+
+### Dominant element
+Causal retrieval map
+
+### Headline mode
+Analytical-headline-led, diagram-supported. Do not use hero-scale type.
+
 ### Slide objective
-Explain why invisible work exists structurally: organizations do not reliably remember effort.
+Explain why invisible work exists structurally: the problem is not recognition, it is retrieval.
 
 ### Structured slide text direction
-**Headline:**
-Organizations do not remember effort.
+**Main text:**
+The problem is not recognition. It is retrieval.
 
-**Body:**
-They remember proof, decisions, outcomes, and evidence that can be reused.
+**Support text:**
+Work gets forgotten when it stays in systems built for coordination, not retrieval.
 
-**Cause labels:**
-- Weak memory
-- Limited attention
-- Incomplete evidence trails
-- Decision moments that need reusable proof
+**Causal map inputs:**
+- Meetings
+- Chats
+- Scattered updates
+- Memory
+
+**Causal map output:**
+Hard to retrieve when decisions are made.
+
+**So what note:**
+Organizations do not forget randomly. They forget what was never converted into searchable, reusable evidence.
 
 ### Visual move
-Root-cause map
+Root-cause system map / causal retrieval map
 
 ### Visual layout direction
-Create a root-cause map with “Useful work gets missed” at the top. Under it, show four structural causes:
+Create a causal map where meetings, chats, scattered updates, and memory feed into “Hard to retrieve when decisions are made.” Use a retrieval marker at the output. Add one operator note that preserves the broader idea: organizations do not remember effort reliably; they remember reusable proof.
 
-1. Weak organizational memory
-2. Limited manager attention
-3. Scattered context
-4. No reusable proof trail
-
-Use arrows from these causes into “forgotten / undervalued / hard to advocate for.”
+### Signature visual grammar
+- Retrieval marker
+- Root-cause system map
+- Operator note
+- Coordination vs retrieval distinction
 
 ### Four-zone hierarchy
-- **Primary reading zone:** diagnosis headline.
-- **Secondary support zone:** four root causes.
-- **Annotation zone:** consequence label.
+- **Primary reading zone:** causal retrieval headline and map.
+- **Secondary support zone:** four coordination inputs.
+- **Annotation zone:** “Organizations do not forget randomly...” so-what note.
 - **Footer / brand zone:** quiet.
 
 ### What this slide adds that the previous slide did not
-It explains why the problem happens instead of only naming that it happens.
+It reframes invisible work from a recognition problem into a retrieval problem.
 
 ### What to avoid
-- Do not blame managers or organizations in a cynical way.
-- Do not reduce the diagnosis to “people are busy.”
-- Do not prescribe a solution yet.
+- Do not make this a generic list of reasons.
+- Do not blame managers.
+- Do not overload the map with arrows.
+- Do not make the old “organizations do not remember effort” line the only or dominant framing.
 
 ## Slide 3: Evidence / data / example
 ### Slide role
@@ -207,78 +248,119 @@ It translates the example into a reusable behavior contrast.
 ### Slide role
 Hidden mechanism
 
+### Composition archetype
+Leakage / Breakpoint Map
+
+### Dominant element
+Leakage diagram
+
+### Headline mode
+Diagram-led title. Do not use hero-scale type.
+
 ### Slide objective
-Reveal how work loses value before it becomes leverage.
+Reveal how work loses value when proof conversion breaks.
 
 ### Structured slide text direction
 **Headline:**
-Work loses value at every broken conversion point.
+Work loses value at every proof break.
 
-**Mechanism:**
+**Mechanism labels:**
 - Not captured → becomes memory
 - Not connected → becomes activity
 - Not verified → becomes a claim
 - Not stored → becomes scattered context
 - Not reused → loses leverage
 
+**Short leak labels:**
+- Capture leak
+- Outcome leak
+- Signal leak
+- Storage leak
+- Reuse leak
+
+**So what:**
+Value does not vanish at once. It leaks at every proof conversion break.
+
 ### Visual move
-Leakage map / waterfall
+Leakage / breakpoint map
 
 ### Visual layout direction
-Show a descending value-leakage path. Start with “Work done” at full value. At each stage, show a leakage point:
+Do not make this a simple numbered list with side labels. The slide must visually show value being lost. Use a visible value bar narrowing at each leak, muted red break markers, a proof-orange surviving path, memory decay texture near “becomes memory,” and a retained proof thread that continues toward the end. Add one clear “now I see it” callout.
 
-1. Capture leak
-2. Outcome leak
-3. Signal leak
-4. Storage leak
-5. Reuse leak
-
-End with “Low remembered value” if proof conversion fails.
+### Signature visual grammar
+- Leakage markers
+- Memory decay texture
+- Conversion path
+- Retained-vs-lost value signal
 
 ### Four-zone hierarchy
-- **Primary reading zone:** mechanism headline and leakage path.
+- **Primary reading zone:** leakage diagram and narrowing value path.
 - **Secondary support zone:** five leak labels.
-- **Annotation zone:** one “so what” note if needed.
+- **Annotation zone:** “Value does not vanish at once...” callout.
 - **Footer / brand zone:** quiet.
 
 ### What this slide adds that the previous slide did not
-It reveals the hidden mechanism behind the contrast: value leaks when work is not converted.
+It makes the hidden value loss visible and turns the contrast into a mechanism.
 
 ### What to avoid
 - Do not repeat the antithesis table in another form.
-- Do not make the mechanism a generic linear process with no leakage.
-- Do not use decorative arrows without showing value loss.
+- Do not make the mechanism a generic linear process with no visible value loss.
+- Do not use decorative arrows without showing breakpoints.
 
 ## Slide 6: Framework or decision tool
 ### Slide role
 Framework or decision tool
 
+### Composition archetype
+Framework Gate Model
+
+### Dominant element
+Proof Conversion Funnel model
+
+### Headline mode
+Model-led title. Keep the title smaller than Slide 1 and Slide 8.
+
 ### Slide objective
 Give the reader the reusable model: the Proof Conversion Funnel.
 
 ### Structured slide text direction
-**Headline:**
+**Title:**
 The Proof Conversion Funnel
 
-**Primary reading zone:**
-Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage
+**Subtitle:**
+How work becomes reusable proof.
 
-**Secondary support zone:**
+**Primary model stages:**
+- Work done
+- Captured
+- Connected to outcome
+- Verified by signal
+- Stored as proof
+- Reused for leverage
+
+**Secondary support:**
 Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
 
 **Annotation zone / so what:**
 Proof becomes useful when it can travel into decisions.
 
 ### Visual move
-Funnel model
+Framework gate model
 
 ### Visual layout direction
-Use a funnel or staged conversion system with the six stages as the primary visual. Keep the reuse moments as compact secondary support text. Use only one annotation: “Proof becomes useful when it can travel into decisions.”
+The six-stage gate model is the hero. Use gate shapes, conversion checkpoints, or a memo-style conversion ladder. Do not make this a generic funnel or worksheet. Keep reuse moments compact and secondary. Use only one annotation: “Proof becomes useful when it can travel into decisions.”
 
 Optional designer note only, not required visible text: the six stage questions are What moved? Where is it recorded? What outcome changed? What signal supports it? Where can it be retrieved? Where will it create leverage?
 
+### Signature visual grammar
+- Decision gates
+- Conversion path
+- Proof stamp
+- Retrieval marker
+- Model-led gate system
+
 ### Four-zone hierarchy
-- **Primary reading zone:** six Proof Conversion Funnel stages.
+- **Primary reading zone:** Proof Conversion Funnel gate model.
 - **Secondary support zone:** reuse moments.
 - **Annotation zone:** one “so what” line only.
 - **Footer / brand zone:** quiet.
@@ -290,6 +372,7 @@ It turns the hidden mechanism into a practical framework the reader can reuse.
 - Do not reduce the framework to “Work → Impact → Proof.”
 - Do not make it feel like a generic sales funnel.
 - Do not over-brand Proof Stack here.
+- Do not let the title overpower the model.
 
 ## Slide 7: Application / worked example
 ### Slide role
@@ -347,44 +430,55 @@ It demonstrates how the framework changes actual workplace communication in a st
 ### Slide role
 Behavior shift + profile reason
 
+### Composition archetype
+Behavior Checklist / Profile Bridge
+
+### Dominant element
+Behavior checklist + operator-note profile bridge
+
+### Headline mode
+Utility-led with strong behavior question. This slide may use strong type, but it should remain practical and non-salesy.
+
 ### Slide objective
-Leave the reader with a practical operating question and a reason to visit or follow the profile.
+Leave the reader with a practical operating question and a visible category promise.
 
 ### Structured slide text direction
 **Core behavior shift:**
 Before your next update, ask: what proof did this work create?
 
 **Weekly proof check:**
-- What changed?
-- What outcome did it connect to?
-- What signal verifies it?
-- Where will this proof be stored?
-- Where can it be reused later?
+- Captured?
+- Connected?
+- Verified?
+- Stored?
+- Reusable?
 
-**Profile-entry line:**
-More operator leverage systems for people turning invisible work into visible proof.
+**Operator-note / category-promise module:**
+More operator leverage systems for turning invisible work into visible proof.
 
 ### Visual move
-Behavior checklist / profile-entry slide
+Behavior checklist / profile bridge
 
 ### Visual layout direction
-Use a premium memo-style checklist with one strong central question. Add a small “operator note” box for the profile-entry line.
+Use a premium memo-style checklist with one strong central question. Place the profile-entry line in a visible operator-note / category-promise module, not tiny footer text. Make it visually connected to the checklist, not detached like a generic footer.
 
-If a soft future note is included, place it as a low-emphasis footer:
-
-“Future note: this may become an Invisible Work Audit.”
+### Signature visual grammar
+- Operator note
+- Behavior checklist
+- Retrieval marker
+- Profile/category promise module
 
 ### Four-zone hierarchy
 - **Primary reading zone:** core behavior question.
-- **Secondary support zone:** weekly proof checklist.
-- **Annotation zone:** optional operator note.
-- **Footer / brand zone:** profile-entry line.
+- **Secondary support zone:** five-point proof checklist.
+- **Annotation zone:** visible operator-note / category-promise module.
+- **Footer / brand zone:** quiet locked chrome only.
 
 ### What this slide adds that the previous slide did not
-It converts the argument into a habit and gives the reader a reason to enter the profile.
+It converts the argument into a habit and gives the reader a clear reason to enter the profile.
 
 ### What to avoid
 - Do not hard-sell Proof Stack.
-- Do not use a loud CTA like “DM me now.”
+- Do not use “DM me,” “follow now,” fake urgency, or product language.
 - Do not end with generic “save this post” copy only.
 - Do not add a payment or product link.

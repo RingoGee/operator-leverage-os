@@ -30,6 +30,58 @@ Use different visual moves across slides:
 - Worked example / proof trail
 - Behavior checklist / profile-entry slide
 
+## Locked slide chrome standard
+Use locked slide chrome across all 8 slides. The top-left brand line, top-right brand lockup, memo marker, slide number, footer brand line, footer code marker, safe margins, baseline grid, and content-safe area must remain fixed across the deck. Do not shift, resize, or rebalance these elements slide-to-slide. Content may vary; chrome must remain stable.
+
+Fixed chrome convention:
+
+- **Top-left:** OPERATOR LEVERAGE OS
+- **Subline:** FIELD MANUAL // VISUAL MEMO 001
+- **Slide number:** 01/08 through 08/08 in the same top header position
+- **Top-right:** stable Operator Leverage OS lockup area
+- **Footer-left:** OPERATOR LEVERAGE OS
+- **Footer subline:** Make the work visible. Prove the impact. Build leverage.
+- **Footer-right:** OL-OS://VISUAL-MEMO-001
+- **Safe margins:** consistent across all slides
+- **Header/footer behavior:** quiet, fixed, and never competing with content
+
+Chrome QA checklist:
+
+- [ ] Top-left header locked
+- [ ] Top-right lockup locked
+- [ ] Slide number format consistent
+- [ ] Memo marker consistent
+- [ ] Footer baseline consistent
+- [ ] Footer code marker consistent
+- [ ] Content does not invade chrome
+- [ ] Brand chrome stays quiet
+
+## Final generation control map
+This map controls the next visual attempt. If any earlier instruction conflicts with this map, use this map.
+
+| Slide | Composition archetype | Dominant element | Headline mode | Signature visual grammar |
+| --- | --- | --- | --- | --- |
+| 1 | Tension Split | Headline + proof gap split | Hero headline-led | Proof gap; memory decay texture; proof stamp; split contradiction |
+| 2 | Root-Cause System Map | Causal retrieval map | Analytical-headline-led, diagram-supported | Retrieval marker; root-cause system map; operator note; coordination vs retrieval distinction |
+| 3 | Mini-Case Panel | Mini-case comparison | Case-led title | Evidence cards; retrieval marker; mini-case panel; proof-trail marker |
+| 4 | Antithesis Table | Antithesis table | Comparison/table-led title | Antithesis table; proof stamp on high-leverage side; muted default side; behavior distinction markers |
+| 5 | Leakage / Breakpoint Map | Leakage diagram | Diagram-led title | Leakage markers; memory decay texture; conversion path; retained-vs-lost value signal |
+| 6 | Framework Gate Model | Proof Conversion Funnel model | Model-led title | Decision gates; conversion path; proof stamp; retrieval marker; model-led gate system |
+| 7 | Artifact Transformation | Weekly review artifact | Artifact-led / utility title | Artifact transformation; evidence card; proof trail; structured weekly review card; retrieval marker |
+| 8 | Behavior Checklist / Profile Bridge | Behavior checklist + operator-note profile bridge | Utility-led with strong behavior question | Operator note; behavior checklist; retrieval marker; profile/category promise module |
+
+Rules:
+
+- The archetype controls the slide layout. Do not improvise a generic big-headline-card layout.
+- The dominant element must visually lead the slide.
+- Headlines should not overpower the model, table, artifact, case, or diagram when those are the slide’s real value.
+- Only Slide 1 and Slide 8 may use hero-scale headline treatment.
+- Slides 2–7 must avoid giant headline dominance.
+- Slide 6 title must be smaller than the model; the model is the hero.
+- Slide 7 title must support the artifact; the artifact is the hero.
+- Orange emphasis should be used selectively, not on every important word.
+- Signature devices must carry meaning. Do not use proof, leakage, or decision icons as decoration.
+
 ## Premium analytical identity
 The carousel should feel like:
 
@@ -81,70 +133,81 @@ The signature accent should appear consistently but selectively. Amber / proof o
 
 ## Slide-by-slide visual directions
 ### Slide 1: Tension / question
+- **Composition archetype:** Tension Split.
+- **Dominant element:** Headline + proof gap split.
+- **Headline mode:** Hero headline-led.
+- **Signature grammar:** Proof gap; memory decay texture; proof stamp; split contradiction.
 - **Visual direction:** Use a contradiction split / memory gap. The visual should create tension, not solve the proof conversion system.
 - **Layout:** Left side: “Work that mattered.” Right side: “Work that got remembered.” Middle gap label: “Proof gap.”
-- **Key visual cue:** The gap is the point; do not show proof conversion mechanics yet.
-- **Text hierarchy:** Large status-threat headline, one tension line, one small annotation.
-- **Four-zone hierarchy:** Primary reading zone = headline + tension line; secondary support zone = contradiction split; annotation zone = “Proof gap”; footer/brand zone = quiet or absent.
 - **Avoid:** Generic laptop illustration, motivational quote, or full funnel reveal.
 
 ### Slide 2: First-principles diagnosis
-- **Visual direction:** Root-cause map showing why useful work gets missed.
-- **Layout:** Top node: “Useful work gets missed.” Four cause nodes below: weak memory, limited attention, scattered context, no reusable proof trail.
-- **Key visual cue:** Multiple structural causes feeding into invisibility.
-- **Text hierarchy:** Diagnosis headline plus compact cause labels.
-- **Four-zone hierarchy:** Primary reading zone = diagnosis headline; secondary support zone = root-cause nodes; annotation zone = consequence label; footer/brand zone = quiet.
-- **Avoid:** Blaming managers or turning the slide into a complaint list.
+- **Composition archetype:** Root-Cause System Map.
+- **Dominant element:** Causal retrieval map.
+- **Headline mode:** Analytical-headline-led, diagram-supported.
+- **Main text:** “The problem is not recognition. It is retrieval.”
+- **Support text:** “Work gets forgotten when it stays in systems built for coordination, not retrieval.”
+- **Causal map:** Meetings, chats, scattered updates, and memory all feed into “Hard to retrieve when decisions are made.”
+- **So what note:** “Organizations do not forget randomly. They forget what was never converted into searchable, reusable evidence.”
+- **Signature grammar:** Retrieval marker; root-cause system map; operator note; coordination vs retrieval distinction.
+- **Avoid:** Blaming managers, generic cause boxes, or making this only a list of reasons.
 
 ### Slide 3: Evidence / data / example
+- **Composition archetype:** Mini-Case Panel.
+- **Dominant element:** Mini-case comparison.
+- **Headline mode:** Case-led title.
+- **Signature grammar:** Evidence cards; retrieval marker; mini-case panel; proof-trail marker.
 - **Visual direction:** Evidence card using an honest mini-case.
 - **Layout:** Two mini-case cards side by side: “Memory-based review” vs “Proof-trail review.”
-- **Key visual cue:** Same work, different evaluability.
 - **Reader-facing label:** “Mini-case: same work, different proof trail.”
-- **Internal production note:** illustrative example, not a sourced statistic.
 - **Avoid:** Invented numbers, “studies show,” or unrelated statistics.
 
 ### Slide 4: Antithesis / contrast
-- **Visual direction:** Antithesis table comparing default operator behavior with high-leverage operator behavior.
-- **Layout:** Two-column table. Keep rows aligned and easy to scan.
-- **Key visual cue:** Right side should feel like an upgrade path, not a judgment.
-- **Suggested contrast labels:** Memory → evidence trail; activity → outcome; review season → weekly capture; claim → before/after change; interpretation → reusable proof.
-- **Four-zone hierarchy:** Primary reading zone = antithesis headline; secondary support zone = comparison table; annotation zone = subtle upgrade cue; footer/brand zone = quiet.
+- **Composition archetype:** Antithesis Table.
+- **Dominant element:** Antithesis table.
+- **Headline mode:** Comparison/table-led title.
+- **Signature grammar:** Antithesis table; proof stamp on high-leverage side; muted default side; behavior distinction markers.
+- **Visual direction:** Two-column table comparing default operator behavior with high-leverage operator behavior.
 - **Avoid:** Harsh language, shaming, or too many comparison rows.
 
 ### Slide 5: Hidden mechanism
-- **Visual direction:** Leakage map or waterfall showing proof conversion failure points.
-- **Layout:** Descending path from “Work done” to “Low remembered value.” Add leakage points at capture, connection, verification, storage, and reuse.
-- **Key visual cue:** Work loses value at every broken conversion point.
-- **Text hierarchy:** Mechanism headline, short leak labels, small “so what?” callout.
-- **Four-zone hierarchy:** Primary reading zone = mechanism headline and leakage path; secondary support zone = leak labels; annotation zone = one so-what note; footer/brand zone = quiet.
-- **Avoid:** A simple linear arrow with no visible value loss.
+- **Composition archetype:** Leakage / Breakpoint Map.
+- **Dominant element:** Leakage diagram.
+- **Headline mode:** Diagram-led title.
+- **Headline:** “Work loses value at every proof break.”
+- **So what note:** “Value does not vanish at once. It leaks at every proof conversion break.”
+- **Signature grammar:** Leakage markers; memory decay texture; conversion path; retained-vs-lost value signal.
+- **Visual direction:** Do not make this a simple numbered list with side labels. Show visible value loss through a narrowing value bar at each leak, muted red break markers, a proof-orange surviving path, memory decay texture near “becomes memory,” and a retained proof thread that continues toward the end.
+- **Avoid:** A cluttered technical flowchart or a plain linear arrow.
 
 ### Slide 6: Framework or decision tool
-- **Visual direction:** The Proof Conversion Funnel.
-- **Layout:** Funnel or staged conversion system with six stages only as the primary visual: Work done, Captured, Connected to outcome, Verified by signal, Stored as proof, Reused for leverage.
-- **Key visual cue:** Proof quality increases as work moves through the funnel.
+- **Composition archetype:** Framework Gate Model.
+- **Dominant element:** Proof Conversion Funnel model.
+- **Headline mode:** Model-led title.
+- **Visual direction:** The six-stage gate model is the hero. Keep the title smaller than Slide 1 and Slide 8.
+- **Stages:** Work done; Captured; Connected to outcome; Verified by signal; Stored as proof; Reused for leverage.
 - **Secondary support:** Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
-- **Annotation zone:** Use only one “so what” line: “Proof becomes useful when it can travel into decisions.”
-- **Designer note:** Stage questions may inform layout, but should not be required visible slide text.
-- **Four-zone hierarchy:** Primary reading zone = funnel stages; secondary support zone = reuse moments; annotation zone = one so-what line; footer/brand zone = quiet.
-- **Avoid:** Making it look like a sales funnel, reducing it to a generic three-step chain, or turning it into a cramped worksheet.
+- **So what note:** “Proof becomes useful when it can travel into decisions.”
+- **Signature grammar:** Decision gates; conversion path; proof stamp; retrieval marker; model-led gate system.
+- **Avoid:** Generic funnels, worksheets, or a headline that overpowers the model.
 
 ### Slide 7: Application / worked example
-- **Visual direction:** Before/after update plus proof trail.
-- **Layout:** Left panel: weak weekly update. Right panel: structured weekly review artifact with fields for risk/problem, action taken, ownership/alignment, signal/proof, and reuse moment. Bottom strip: note → artifact → signal → update → review.
-- **Key visual cue:** The same work becomes more useful when proof is structured and reused in a review moment.
-- **Text hierarchy:** Clear weak update label, structured proof artifact, and one so-what note.
-- **Four-zone hierarchy:** Primary reading zone = weak update vs structured artifact; secondary support zone = five artifact fields; annotation zone = “Same work. More reusable proof.”; footer/brand zone = quiet.
-- **Avoid:** Invented metrics, inflated impact language, or AI tool references.
+- **Composition archetype:** Artifact Transformation.
+- **Dominant element:** Weekly review artifact.
+- **Headline mode:** Artifact-led / utility title.
+- **Signature grammar:** Artifact transformation; evidence card; proof trail; structured weekly review card; retrieval marker.
+- **Layout:** Left panel: weak weekly update. Right panel: structured weekly review artifact with fields for risk/problem, action taken, ownership/alignment, signal/proof, and reuse moment.
+- **Avoid:** Long quote blocks, invented metrics, inflated impact language, or AI tool references.
 
 ### Slide 8: Behavior shift + profile reason
-- **Visual direction:** Memo-style behavior checklist and profile-entry slide.
-- **Layout:** Central operating question, five small checklist items, one low-pressure profile-entry line.
-- **Key visual cue:** The reader leaves with a weekly operating habit.
-- **Four-zone hierarchy:** Primary reading zone = behavior question; secondary support zone = checklist; annotation zone = optional operator note; footer/brand zone = profile-entry line.
-- **Profile-entry line:** “More operator leverage systems for people turning invisible work into visible proof.”
-- **Avoid:** Hard selling, payment references, product CTA, or generic “save this” ending only.
+- **Composition archetype:** Behavior Checklist / Profile Bridge.
+- **Dominant element:** Behavior checklist + operator-note profile bridge.
+- **Headline mode:** Utility-led with strong behavior question.
+- **Core question:** “Before your next update, ask: what proof did this work create?”
+- **Checklist:** Captured? Connected? Verified? Stored? Reusable?
+- **Profile module:** Place “More operator leverage systems for turning invisible work into visible proof” in a visible operator-note / category-promise module, not tiny footer text.
+- **Signature grammar:** Operator note; behavior checklist; retrieval marker; profile/category promise module.
+- **Avoid:** Hard selling, payment references, product CTA, “DM me,” “follow now,” fake urgency, or generic “save this” ending only.
 
 ## Evidence slide direction
 The evidence slide should use reader-friendly language: “Mini-case: same work, different proof trail.”
@@ -170,7 +233,7 @@ Avoid labels like:
 The goal is to make the reader feel, “I can upgrade how I communicate my work,” not “I am being attacked.”
 
 ## Framework slide direction
-The framework slide should make the Proof Conversion Funnel feel practical and memorable.
+The framework slide should make the Proof Conversion Funnel feel practical, memorable, and explicitly model-led.
 
 Use the six-stage model:
 
@@ -181,7 +244,7 @@ Use the six-stage model:
 5. Stored as proof
 6. Reused for leverage
 
-The funnel should communicate that value leaks when stages are skipped and leverage increases when proof is reusable. Keep the primary visual to the six stages. Keep the reuse layer concrete as secondary support: weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies. Use one annotation only: “Proof becomes useful when it can travel into decisions.”
+The funnel should communicate that value leaks when stages are skipped and leverage increases when proof is reusable. Keep the six-stage gate model as the visual hero. The title must stay smaller than the model. Keep the reuse layer concrete as secondary support: weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies. Use one annotation only: “Proof becomes useful when it can travel into decisions.”
 
 ## Application slide direction
 The application slide should show how proof conversion changes an actual weekly stakeholder update.
@@ -211,9 +274,9 @@ The core behavior shift:
 
 The profile-entry reason:
 
-> More operator leverage systems for people turning invisible work into visible proof.
+> More operator leverage systems for turning invisible work into visible proof.
 
-Keep the tone calm and category-led. If a future bridge is included, it should be a small optional note, not the main CTA.
+Place the profile-entry reason in a visible operator-note / category-promise module connected to the checklist, not in tiny detached footer text. Keep the tone calm and category-led. If a future bridge is included, it should be a small optional note, not the main CTA.
 
 ## What to avoid
 - Do not create images or final slide designs in this file.

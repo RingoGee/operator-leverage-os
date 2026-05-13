@@ -94,7 +94,7 @@ Then capture one proof signal weekly:
 - Where can it be reused later?
 
 ## Profile-entry reason
-More operator leverage systems for people turning invisible work into visible proof.
+More operator leverage systems for turning invisible work into visible proof.
 
 ## Optional bio-click bridge
 Do not force a bio-click bridge in the main carousel.
@@ -105,7 +105,7 @@ Do not force a bio-click bridge in the main carousel.
 
 ## Visual argument path
 1. Start with a status-relevant tension: useful work can disappear even when it mattered.
-2. Diagnose the structural cause: organizations remember reusable proof, not raw effort.
+2. Diagnose the structural cause: the problem is not recognition, it is retrieval; work gets forgotten when it stays in systems built for coordination, not retrieval.
 3. Ground the argument with a concrete workplace example.
 4. Show the antithesis between memory-based operators and proof-building operators.
 5. Reveal where work loses value through the proof conversion mechanism.
@@ -113,17 +113,43 @@ Do not force a bio-click bridge in the main carousel.
 7. Apply it to a realistic operator example.
 8. End with a behavior shift and profile-entry reason.
 
+## Final generation control map
+This map controls the next visual attempt. If any earlier instruction conflicts with this map, use this map.
+
+| Slide | Composition archetype | Dominant element | Headline mode | Signature visual grammar |
+| --- | --- | --- | --- | --- |
+| 1 | Tension Split | Headline + proof gap split | Hero headline-led | Proof gap; memory decay texture; proof stamp; split contradiction |
+| 2 | Root-Cause System Map | Causal retrieval map | Analytical-headline-led, diagram-supported | Retrieval marker; root-cause system map; operator note; coordination vs retrieval distinction |
+| 3 | Mini-Case Panel | Mini-case comparison | Case-led title | Evidence cards; retrieval marker; mini-case panel; proof-trail marker |
+| 4 | Antithesis Table | Antithesis table | Comparison/table-led title | Antithesis table; proof stamp on high-leverage side; muted default side; behavior distinction markers |
+| 5 | Leakage / Breakpoint Map | Leakage diagram | Diagram-led title | Leakage markers; memory decay texture; conversion path; retained-vs-lost value signal |
+| 6 | Framework Gate Model | Proof Conversion Funnel model | Model-led title | Decision gates; conversion path; proof stamp; retrieval marker; model-led gate system |
+| 7 | Artifact Transformation | Weekly review artifact | Artifact-led / utility title | Artifact transformation; evidence card; proof trail; structured weekly review card; retrieval marker |
+| 8 | Behavior Checklist / Profile Bridge | Behavior checklist + operator-note profile bridge | Utility-led with strong behavior question | Operator note; behavior checklist; retrieval marker; profile/category promise module |
+
+Rules:
+
+- The archetype controls the slide layout. Do not improvise a generic big-headline-card layout.
+- The dominant element must visually lead the slide.
+- Headlines should not overpower the model, table, artifact, case, or diagram when those are the slide’s real value.
+- Only Slide 1 and Slide 8 may use hero-scale headline treatment.
+- Slides 2–7 must avoid giant headline dominance.
+- Slide 6 title must be smaller than the model; the model is the hero.
+- Slide 7 title must support the artifact; the artifact is the hero.
+- Orange emphasis should be used selectively, not on every important word.
+- Signature devices must carry meaning. Do not use proof, leakage, or decision icons as decoration.
+
 ## Slide-by-slide argument sequence
 | Slide | Argument role | Visual move | Structured text plan | Swipe reason | Notes |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Tension / question | Tension visual | “The work that gets remembered is not always the work that mattered most. It is the work that became proof.” | Creates a stronger status threat and unresolved explanation. | Do not summarize the full funnel yet. |
-| 2 | First-principles diagnosis | Root-cause map | “Organizations do not remember effort. They remember proof, decisions, outcomes, and evidence that can be reused.” | Explains why the problem exists. | Show weak organizational memory and limited attention. |
+| 2 | First-principles diagnosis | Root-cause system map | “The problem is not recognition. It is retrieval.” + “Work gets forgotten when it stays in systems built for coordination, not retrieval.” | Explains the causal retrieval problem. | Show meetings, chats, scattered updates, and memory feeding into “hard to retrieve when decisions are made.” |
 | 3 | Evidence / data / example | Evidence card / mini-case | Mini-case: same work, different proof trail. Internal note: illustrative example, not a sourced statistic. | Grounds the claim without fake statistics. | Make it concrete, not academic. |
 | 4 | Antithesis / contrast | Antithesis table | Default operator vs high-leverage operator. | Creates shareability through recognition. | Keep tone respectful. |
-| 5 | Hidden mechanism | Leakage map / waterfall | Work loses value when not captured, connected, verified, stored, or reused. | Reveals the mechanism behind invisible work. | This is the “aha” slide. |
-| 6 | Framework or decision tool | Funnel model | The Proof Conversion Funnel stages only, plus compact reuse moments and one “so what” line. | Gives a reusable model worth saving. | Keep this as a framework slide, not a worksheet. |
+| 5 | Hidden mechanism | Leakage / breakpoint map | Work loses value when not captured, connected, verified, stored, or reused. | Reveals the mechanism behind invisible work. | Make value loss visible with narrowing value bar, muted red break markers, proof-orange surviving path, memory decay texture, and retained proof thread. |
+| 6 | Framework or decision tool | Framework gate model | The Proof Conversion Funnel stages only, plus compact reuse moments and one “so what” line. | Gives a reusable model worth saving. | Make the six-stage gate model the hero; title stays smaller than the model. |
 | 7 | Application / worked example | Weekly review artifact / proof trail | Weekly stakeholder update example: weak update plus structured proof-converted artifact. | Shows proof conversion as information design. | Keep the full sentence as reference, not the main visual block. |
-| 8 | Behavior shift + profile reason | Behavior checklist / profile-entry slide | “Before your next update, ask: what proof did this work create?” + category promise. | Converts insight into habit and profile visit. | Keep Proof Stack out except optional future note if needed. |
+| 8 | Behavior shift + profile reason | Behavior checklist / profile bridge | “Before your next update, ask: what proof did this work create?” + visible operator-note category promise. | Converts insight into habit and profile visit. | Put “More operator leverage systems for turning invisible work into visible proof” in a visible profile/category promise module, not a tiny footer. |
 
 ## Structured text plan
 - **Slide-level text style:** Structured, memo-like, high-signal text with short headings, labels, and compact explanations.
@@ -136,14 +162,14 @@ Do not force a bio-click bridge in the main carousel.
 ## Visual moves by slide
 | Slide | Visual move | Intellectual function | Performance function |
 | --- | --- | --- | --- |
-| 1 | Tension visual | Names the invisible work problem as a proof-conversion failure. | Stopping power through status threat. |
-| 2 | Root-cause map | Explains weak organizational memory and limited attention. | Swipe-through because the reader wants the diagnosis. |
-| 3 | Evidence card / mini-case | Shows how the same work is evaluated differently when proof exists. | Trust / save. |
-| 4 | Antithesis table | Compares memory reliance with evidence-trail behavior. | Share / comment. |
-| 5 | Leakage map / waterfall | Reveals where work loses value. | Save. |
-| 6 | Funnel model | Gives the reusable Proof Conversion Funnel. | Save / profile visit. |
-| 7 | Worked example / proof trail | Shows the model in a real operator situation. | Trust / application. |
-| 8 | Behavior checklist / profile-entry slide | Turns the argument into a weekly operating habit. | Profile visit / optional bio click. |
+| 1 | Tension Split | Names the invisible work problem as a proof-conversion failure. | Stopping power through status threat. |
+| 2 | Root-Cause System Map | Reframes the problem from recognition to retrieval. | Swipe-through because the reader gets a sharper diagnosis. |
+| 3 | Mini-Case Panel | Shows how the same work is evaluated differently when proof exists. | Trust / save. |
+| 4 | Antithesis Table | Compares memory reliance with evidence-trail behavior. | Share / comment. |
+| 5 | Leakage / Breakpoint Map | Reveals where and how value visibly leaks. | Save. |
+| 6 | Framework Gate Model | Gives the reusable Proof Conversion Funnel as a model-led gate system. | Save / profile visit. |
+| 7 | Artifact Transformation | Shows the model in a real operator artifact. | Trust / application. |
+| 8 | Behavior Checklist / Profile Bridge | Turns the argument into a weekly operating habit and profile/category promise. | Profile visit / optional bio click. |
 
 ## Optional paid asset bridge
 Keep this soft and optional.
