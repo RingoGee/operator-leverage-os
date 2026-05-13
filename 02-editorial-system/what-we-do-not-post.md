@@ -125,3 +125,24 @@ Do not post:
 - concepts that sound expert but do not change communication, judgment, or behavior.
 
 If a domain-aware reader cannot summarize the carousel in one plain sentence, reject it even if the design is strong.
+
+## Brand identity rejection rules
+Reject or rework content that breaks Brand Identity Lock v1.
+
+Do not post:
+
+- Random palette shifts from carousel to carousel.
+- Inconsistent typography personality.
+- Changing chrome placement from post to post.
+- Generic SaaS visuals.
+- MBA-template visuals.
+- Pseudo-premium minimalism that is unclear.
+- Overdesigned visuals that increase interpretation cost.
+- Diagrams that look good but do not explain the point.
+- Abstract finance or fundraising slides without plain-English translation.
+- Beautiful slides where a reader cannot explain the point quickly.
+- Random illustration styles or generic corporate stock metaphors.
+- Orange used as generic decoration instead of controlled emphasis.
+- Red/rust used for anything other than risk, leakage, false path, friction, or warning.
+
+Reject outputs that feel either too unrelated to the house style or so templated that the argument disappears.

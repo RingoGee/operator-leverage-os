@@ -98,3 +98,16 @@ Brief must include:
 6. Evidence/example layer
 7. Strategic choices needing human input
 8. Confirmation of no out-of-scope work
+
+## Brand Identity Lock v1 requirements
+Every brief must apply `01-brand-foundation/visual-identity.md` Brand Identity Lock v1.
+
+The brief must state:
+
+- Brand identity lock applied: yes/no.
+- Primary accent for the carousel and why it fits the argument.
+- Supporting accents and what each one means, if used.
+- Visual variation from house style, while staying inside the locked identity.
+- Plain-language shadows for major framework terms.
+
+Guardrail: visual variation must happen through slide archetype, visual metaphor, framework intensity, evidence treatment, or diagram type — not through a new palette, typography personality, chrome system, or surface style.

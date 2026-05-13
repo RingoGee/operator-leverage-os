@@ -63,3 +63,24 @@ Execution pack must include:
 3. Key generation constraints
 4. Visual choices needing human input
 5. Confirmation of no out-of-scope work
+
+## Brand Identity Lock v1 requirements
+Visual execution packs must carry Brand Identity Lock v1 into every slide prompt.
+
+Each execution pack must preserve:
+
+- locked palette family;
+- locked typography direction;
+- stable slide chrome;
+- spacing discipline;
+- clean diagram/icon language;
+- restrained surface treatment;
+- mobile readability.
+
+Guardrails:
+
+- Do not allow random palette changes slide to slide.
+- Do not allow type personality changes.
+- Do not move chrome positions.
+- Do not create a new visual identity for a single carousel.
+- Vary slide composition, visual object, and argument structure instead.

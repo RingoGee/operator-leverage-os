@@ -79,3 +79,22 @@ Production draft must include:
 4. Evidence/antithesis/framework notes
 5. Readiness for design prompt generation
 6. Confirmation of no out-of-scope work
+
+## Brand Identity Lock v1 requirements
+Production drafts must preserve Brand Identity Lock v1 from `01-brand-foundation/visual-identity.md`.
+
+Slide-by-slide production notes must respect:
+
+- locked palette family;
+- locked typography direction;
+- stable slide chrome;
+- generous spacing and mobile-first hierarchy;
+- clean diagram/icon language;
+- restrained surface treatment.
+
+Each abstract term in the draft must be translated into plain English before design. Framework terms should have plain-language shadows so the expert reader does not have to decode the model.
+
+Final QA:
+
+- Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?

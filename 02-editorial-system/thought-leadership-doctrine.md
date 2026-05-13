@@ -654,3 +654,40 @@ Examples:
 - “This is why a data room can be complete but still weak.”
 
 The consequence should be specific to the audience and situation. Avoid vague stakes such as “you lose leverage” unless the carousel explains what leverage is lost, where it is lost, and what decision or behavior changes.
+
+## Brand Identity Lock v1 application
+All Operator Leverage OS carousel work must apply `01-brand-foundation/visual-identity.md` Brand Identity Lock v1.
+
+The house style is a premium analytical publication / visual strategy memo for operators. Keep the identity stable while varying the argument structure.
+
+Locked constants:
+
+- Warm Ivory / Soft Paper White background family.
+- Deep Charcoal / Near Black primary text.
+- Dark Forest Green main brand accent.
+- Slate Blue for evidence/research/data support.
+- Proof Orange / Controlled Amber for decisive emphasis only.
+- Muted Red / Rust only for risk, leakage, wrong path, friction, or warning.
+- Editorial display serif for major conceptual headlines.
+- Clean modern sans-serif for body, labels, diagrams, notes, and source lines.
+- Stable top-left label, top-right slide number, bottom-left Operator Leverage OS mark, and optional footer source/caveat line.
+- Generous safe margins, consistent baselines, and mobile-first hierarchy.
+- Clean line diagrams, structured panels, restrained icons, purposeful arrows, evidence cards, decision gates, and proof trails.
+
+Allowed variation:
+
+- Slide archetype.
+- Visual metaphor.
+- Framework intensity.
+- Narrative structure.
+- Evidence treatment.
+- Diagram type.
+- Headline tone.
+- Single-post accent emphasis.
+
+Do not invent a new visual identity per carousel. Vary composition, not identity.
+
+Final QA:
+
+- Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?

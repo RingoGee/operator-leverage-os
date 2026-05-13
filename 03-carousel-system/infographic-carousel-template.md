@@ -156,6 +156,90 @@ Only include this if the carousel has lead-magnet, waitlist, or product relevanc
 
 TBD
 
+
+## Brand Identity Lock v1 fields
+Complete these before design prompting.
+
+### Brand identity lock applied?
+TBD — confirm this carousel uses Brand Identity Lock v1 from `01-brand-foundation/visual-identity.md`.
+
+### Primary accent for this carousel
+Choose one main accent from the locked system and explain why it fits the argument.
+
+TBD
+
+### Supporting accents and their meaning
+Use supporting accents only when they carry meaning.
+
+- Slate Blue for evidence/research/data support:
+- Proof Orange / Controlled Amber for bottlenecks, active gates, key questions, or decisive highlights:
+- Muted Red / Rust for leakage, risk, false path, friction, or warning:
+- Deep Green for verified, trusted, reusable, or high-conviction elements:
+
+TBD
+
+### Typography hierarchy
+Define:
+
+- Display serif use for major conceptual headlines / thesis slides:
+- Clean modern sans-serif use for body, labels, diagrams, notes, source lines:
+- Optional mono-style use for small source tags, memo codes, or field-manual markers:
+
+TBD
+
+### Slide chrome requirements
+Confirm:
+
+- Top-left series/channel label:
+- Top-right slide number:
+- Optional memo/category label:
+- Bottom-left Operator Leverage OS mark or label:
+- Optional footer source/caveat line:
+- Safe margins and baseline alignment:
+
+TBD
+
+### Diagram family
+Select the main diagram family:
+
+- evidence cards
+- decision gates
+- proof trails
+- funnel
+- stack
+- matrix
+- map
+- ladder
+- loop
+- teardown panel
+- operating memo
+- other, if justified
+
+TBD
+
+### Allowed variation from house style
+What changes for this specific argument while staying inside the locked identity?
+
+TBD
+
+### Plain-language shadows for framework terms
+List each abstract term and its plain-English translation.
+
+Example:
+
+- Allocation readiness → ready to earn investor conviction
+- Traction quality → proof that growth is real, not noisy
+- Capital logic → why this amount, and what it unlocks
+- Next proof → what we will prove next
+- Proof stack → the evidence that removes investor doubt layer by layer
+
+TBD
+
+### Visual clarity risk
+What could make this carousel beautiful but unclear? How will the design reduce interpretation cost?
+
+TBD
+
 ## Visual argument path
 What visual moves will develop the argument from tension to behavior shift?
 
@@ -259,6 +343,18 @@ Before design, confirm:
 - [ ] A domain-aware reader can explain the point in one sentence.
 - [ ] The framework clarifies the situation instead of decorating it.
 - [ ] The reader knows what to do differently.
+
+## Brand identity final QA
+- [ ] Brand Identity Lock v1 is applied.
+- [ ] The palette stays inside the locked color system.
+- [ ] Typography uses the locked editorial pairing.
+- [ ] Slide chrome is stable and quiet.
+- [ ] Spacing uses generous safe margins and clear hierarchy.
+- [ ] Diagram/icon language is clean, restrained, and meaningful.
+- [ ] Surface treatment supports clarity and premium feel.
+- [ ] Plain-language shadows are included for major framework terms.
+- [ ] This feels like the same publication as other Operator Leverage OS posts, while still having a distinct argument.
+- [ ] A reader would recognize the brand without every carousel using the same template.
 
 ## Final check before design
 - [ ] The carousel starts with tension, not a tool.

@@ -86,3 +86,22 @@ Audit criteria:
 5. Must-fix issues
 6. Nice-to-fix issues
 7. Recommended next action
+
+## Brand Identity Lock v1 audit checks
+Audit every carousel for Brand Identity Lock v1 consistency:
+
+- Palette follows the locked system.
+- Typography follows the locked editorial pairing.
+- Chrome placement is stable.
+- Spacing and safe margins are consistent.
+- Diagram/icon style is clean, restrained, and meaningful.
+- Surface treatment is warm, subtle, and premium.
+- Mobile readability is preserved.
+- House style is recognizable.
+- The carousel varies argument, slide structure, or visual object without becoming visually unrelated.
+
+Final audit questions:
+
+- Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?
+- Is the balance right: same brand, different argument?

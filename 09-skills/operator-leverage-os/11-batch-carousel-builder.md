@@ -78,3 +78,19 @@ Do not create outputs beyond the requested depth.
 5. Format variety notes
 6. Stopping point reached
 7. Out-of-scope work avoided
+
+## Brand Identity Lock v1 batch requirements
+Batch outputs must share one Brand Identity Lock v1 while varying slide archetypes, visual objects, and argument structures.
+
+Across a batch:
+
+- Keep palette family, typography direction, slide chrome, spacing discipline, diagram style, and premium editorial feel consistent.
+- Vary visual metaphor, framework intensity, evidence treatment, diagram type, and narrative structure.
+- Avoid creating 10 carousels that look unrelated.
+- Avoid creating 10 carousels that look like the same template with new words.
+
+Final batch QA:
+
+- Does the batch feel like one publication system?
+- Does each carousel still have a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?

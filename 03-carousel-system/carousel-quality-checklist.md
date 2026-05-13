@@ -7,6 +7,19 @@ This checklist follows `02-editorial-system/thought-leadership-doctrine.md`. A g
 
 ## Pass/fail checklist
 
+### Brand Identity Lock v1
+- [ ] The carousel uses the locked Operator Leverage OS visual identity.
+- [ ] Palette stays inside Warm Ivory / Soft Paper White, Deep Charcoal / Near Black, Dark Forest Green, Slate Blue, Proof Orange / Controlled Amber, Muted Red / Rust, and Deep Green.
+- [ ] One main accent is used, with supporting accents only when they carry meaning.
+- [ ] Typography uses the locked editorial pairing: display serif for major conceptual headlines, clean modern sans-serif for body/labels/diagrams, and optional mono-style only for small technical labels.
+- [ ] Slide chrome is stable: top-left label, top-right slide number, bottom-left Operator Leverage OS mark, optional footer source/caveat line.
+- [ ] Safe margins, baseline alignment, and spacing discipline are consistent.
+- [ ] Diagram style uses clean line diagrams, restrained icons, structured cards/panels, purposeful arrows, evidence cards, decision gates, and proof trails.
+- [ ] Surface treatment is warm, clean, subtle, and premium.
+- [ ] Visual variation changes slide archetype, metaphor, or diagram type without creating a new brand identity.
+- [ ] Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- [ ] Would a reader recognize the brand without every carousel using the same template?
+
 ### Expert-reader clarity
 - [ ] Would a domain expert understand the business point quickly?
 - [ ] Is the argument specific enough for the domain?
@@ -83,6 +96,16 @@ This checklist follows `02-editorial-system/thought-leadership-doctrine.md`. A g
 
 ## Red flags: reject or rework
 Reject or rework the carousel if:
+
+- The palette shifts randomly from the locked brand system.
+- Typography personality changes from post to post.
+- Slide chrome moves or changes without a clear system reason.
+- The carousel feels like generic SaaS, an MBA-template deck, or a corporate training deck.
+- Pseudo-premium minimalism makes the point less clear.
+- Overdesigned visuals increase interpretation cost.
+- Diagrams look good but do not explain the point.
+- Abstract finance/fundraising slides lack plain-English translation.
+- A beautiful slide cannot be explained quickly by the intended reader.
 
 - The hook is mainly a tool name.
 - The carousel is a listicle with design applied.
@@ -171,6 +194,12 @@ Generic clean infographics cannot pass. A carousel must earn approval through di
 - [ ] Unsourced examples are not presented as research or statistics.
 - [ ] “Not a sourced statistic” is kept as an internal production note unless necessary.
 - [ ] Data, examples, and mini-cases directly support the argument.
+
+## Brand identity audit checks
+- [ ] Does the carousel preserve palette, typography, chrome, spacing, diagram style, and mobile readability?
+- [ ] Does it feel like Operator Leverage OS without using the exact same template as every post?
+- [ ] Is the balance right: same brand, different argument?
+- [ ] Would a reader recognize the brand without every carousel using the same template?
 
 ## Domain-reader audit checks
 - [ ] Would a domain expert understand the business point quickly?

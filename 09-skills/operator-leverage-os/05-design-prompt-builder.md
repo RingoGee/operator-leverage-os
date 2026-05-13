@@ -74,3 +74,23 @@ Design prompt file must include:
 4. Chrome/signature grammar notes
 5. Readiness for visual execution pack
 6. Confirmation of no out-of-scope work
+
+## Brand Identity Lock v1 requirements
+Every design prompt must include a dedicated Brand Identity Lock v1 block.
+
+That block must specify:
+
+- Palette: Warm Ivory / Soft Paper White, Deep Charcoal / Near Black, Dark Forest Green, Slate Blue, Proof Orange / Controlled Amber, Muted Red / Rust, and Deep Green.
+- Typography: display serif for major conceptual headlines; clean modern sans-serif for body, labels, diagrams, notes, and source lines; optional mono-style only for small source tags, memo codes, or field-manual markers.
+- Chrome: stable top-left series/channel label, top-right slide number, optional memo/category label, bottom-left Operator Leverage OS mark, optional footer source/caveat line, consistent safe margins, and baseline alignment.
+- Spacing: generous margins, clear separation between headline/explanation/visual object, mobile-first sizing, and no unreadable tiny labels.
+- Diagram language: clean line diagrams, restrained icons, consistent line weights, structured cards/panels, purposeful arrows, before/after comparisons, evidence cards, decision gates, and proof trails.
+- Surface treatment: warm paper-like background, subtle texture only, soft minimal shadows, and meaningful stamps/labels/manual marks only.
+- Allowed variation: slide archetype, visual metaphor, framework depth, information density, evidence treatment, diagram type, headline tone, or single-post accent emphasis.
+
+Design prompts must not invent new visual identities. Vary composition, not identity.
+
+Final QA:
+
+- Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?

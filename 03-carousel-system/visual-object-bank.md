@@ -414,3 +414,45 @@ Reject diagrams that:
 - Use icons without analytical purpose.
 - Look like generic business-process graphics.
 - Are visually clear but intellectually shallow.
+
+## Brand Identity Lock v1 for visual objects
+All visual objects must live inside the same Operator Leverage OS house style: premium editorial restraint, warm paper-like surfaces, deep charcoal text, dark forest green brand accent, controlled supporting accents, stable chrome, clean line diagrams, and expert-reader readability.
+
+Use different visual objects to serve different arguments, but do not change the underlying identity.
+
+### Locked visual-object language
+
+Preferred object families:
+
+- Evidence cards
+- Decision gates
+- Proof trails
+- Funnels
+- Stacks
+- Matrices
+- Maps
+- Ladders
+- Loops
+- Before/after teardown panels
+- Operating memos
+- Field-manual notes
+- Structured cards/panels
+
+### Visual object rules
+
+- Use clean line diagrams and consistent line weights.
+- Use restrained icons only when they carry meaning.
+- Use purposeful arrows that explain relationship, movement, tradeoff, or sequence.
+- Use soft, minimal shadows only when they clarify hierarchy.
+- Keep texture subtle and warm-paper-like.
+- Avoid random illustration styles, generic stock metaphors, and decorative icon sets.
+- Avoid overusing the same funnel or stack across posts.
+
+### Same brand, different argument test
+
+Before selecting a visual object, ask:
+
+- Does this object explain the relationship better than a list would?
+- Does it stay inside the same Operator Leverage OS publication style?
+- Is it distinct enough for this argument without becoming a new visual identity?
+- Would a reader recognize the brand without every carousel using the same template?

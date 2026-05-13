@@ -63,3 +63,22 @@ Prompt file must include:
 3. Key generation constraints
 4. Whether ready for visual generation
 5. Confirmation of no out-of-scope work
+
+## Brand Identity Lock v1 requirements
+Final master prompts must include a locked identity block.
+
+The prompt must explicitly preserve brand identity across all slides:
+
+- Same palette family.
+- Same typography direction.
+- Same slide chrome positions.
+- Same spacing discipline.
+- Same diagram/icon language.
+- Same restrained surface treatment.
+
+The prompt must say: vary composition, not identity.
+
+Final QA language to include:
+
+- Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?

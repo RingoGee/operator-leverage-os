@@ -103,3 +103,19 @@ Decision gates:
 5. Output depth completed
 6. Format variety notes
 7. Next decision gate
+
+## Brand Identity Lock v1 trend-package requirements
+Trend-based packages must apply Brand Identity Lock v1 while varying visual logic by theme.
+
+For every trend package:
+
+- Preserve the locked palette, typography, chrome, spacing, diagram language, and surface treatment.
+- Choose the visual metaphor based on the trend's actual business logic.
+- Keep finance/fundraising content expert-readable, plain-English, and decision-oriented.
+- Avoid over-abstract finance/fundraising visuals that look sophisticated but do not clarify the situation.
+- Avoid visually overcomplicated trend packages.
+
+Final QA:
+
+- Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
+- Would a reader recognize the brand without every carousel using the same template?
