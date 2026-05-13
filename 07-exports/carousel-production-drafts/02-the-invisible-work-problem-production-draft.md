@@ -39,14 +39,21 @@ Invisible work is usually a proof problem, not an effort problem.
 Tension visual
 
 ### Visual layout direction
-Show the gap between work that mattered and work that got remembered. Use a split visual:
+Use a contradiction split / memory gap. The visual should create tension, not solve the proof conversion system.
 
-- Left: meaningful work exists as effort, notes, meetings, decisions, fixes, and coordination.
-- Right: only the smaller subset that became proof reaches stakeholder memory.
-- Add a small label: “Remembered work is work that became evidence.”
+- Left side: “Work that mattered.”
+- Right side: “Work that got remembered.”
+- Middle gap label: “Proof gap.”
+- Do not show full proof cards, the full conversion process, all consequences, or proof mechanics on this slide.
 
 ### What this slide adds that the previous slide did not
 This is the opening slide. It creates the central tension and reframes invisible work as a proof-conversion issue.
+
+### Four-zone hierarchy
+- **Primary reading zone:** headline and tension line.
+- **Secondary support zone:** contradiction split between work that mattered and work that got remembered.
+- **Annotation zone:** small “Proof gap” label only.
+- **Footer / brand zone:** quiet or absent.
 
 ### What to avoid
 - Do not open with the full funnel.
@@ -87,6 +94,12 @@ Create a root-cause map with “Useful work gets missed” at the top. Under it,
 
 Use arrows from these causes into “forgotten / undervalued / hard to advocate for.”
 
+### Four-zone hierarchy
+- **Primary reading zone:** diagnosis headline.
+- **Secondary support zone:** four root causes.
+- **Annotation zone:** consequence label.
+- **Footer / brand zone:** quiet.
+
 ### What this slide adds that the previous slide did not
 It explains why the problem happens instead of only naming that it happens.
 
@@ -104,7 +117,7 @@ Ground the argument with a concrete workplace example without inventing statisti
 
 ### Structured slide text direction
 **Headline:**
-Example-based evidence: same work, different proof trail.
+Mini-case: same work, different proof trail.
 
 **Mini-case:**
 Two operators contribute to the same project.
@@ -127,7 +140,13 @@ Use a two-card mini-case layout:
 - Card 1: “Memory-based review” with sparse evidence and a fading trail.
 - Card 2: “Proof-trail review” with visible artifacts: decision note, signal, stakeholder comment, shipped asset, before/after marker.
 
-Add a small label: “Example-based evidence, not a sourced statistic.”
+Use the reader-facing label “Mini-case: same work, different proof trail.” Keep this internal production note off the prominent slide copy unless needed: “Internal note: illustrative example, not a sourced statistic.”
+
+### Four-zone hierarchy
+- **Primary reading zone:** “Mini-case: same work, different proof trail.”
+- **Secondary support zone:** two-card comparison.
+- **Annotation zone:** short “so what” note.
+- **Footer / brand zone:** quiet.
 
 ### What this slide adds that the previous slide did not
 It makes the diagnosis believable through a concrete work situation.
@@ -170,6 +189,12 @@ Add subtle icons or stamps only if they clarify the contrast:
 - Review season calendar vs weekly proof rhythm
 - Claim vs before/after signal
 
+### Four-zone hierarchy
+- **Primary reading zone:** antithesis headline.
+- **Secondary support zone:** default vs high-leverage table.
+- **Annotation zone:** subtle upgrade cue only.
+- **Footer / brand zone:** quiet.
+
 ### What this slide adds that the previous slide did not
 It translates the example into a reusable behavior contrast.
 
@@ -210,6 +235,12 @@ Show a descending value-leakage path. Start with “Work done” at full value. 
 
 End with “Low remembered value” if proof conversion fails.
 
+### Four-zone hierarchy
+- **Primary reading zone:** mechanism headline and leakage path.
+- **Secondary support zone:** five leak labels.
+- **Annotation zone:** one “so what” note if needed.
+- **Footer / brand zone:** quiet.
+
 ### What this slide adds that the previous slide did not
 It reveals the hidden mechanism behind the contrast: value leaks when work is not converted.
 
@@ -229,29 +260,28 @@ Give the reader the reusable model: the Proof Conversion Funnel.
 **Headline:**
 The Proof Conversion Funnel
 
-**Funnel stages:**
+**Primary reading zone:**
 Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage
 
-**Reuse annotation:**
+**Secondary support zone:**
 Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
 
-**Operating note:**
-The goal is not to brag more. The goal is to make useful work easier to verify.
+**Annotation zone / so what:**
+Proof becomes useful when it can travel into decisions.
 
 ### Visual move
 Funnel model
 
 ### Visual layout direction
-Use a funnel or staged conversion system. Each stage should show the conversion question:
+Use a funnel or staged conversion system with the six stages as the primary visual. Keep the reuse moments as compact secondary support text. Use only one annotation: “Proof becomes useful when it can travel into decisions.”
 
-1. **Work done:** What moved?
-2. **Captured:** Where is it recorded?
-3. **Connected:** What outcome changed?
-4. **Verified:** What signal supports it?
-5. **Stored:** Where can it be retrieved?
-6. **Reused:** Where will it create leverage?
+Optional designer note only, not required visible text: the six stage questions are What moved? Where is it recorded? What outcome changed? What signal supports it? Where can it be retrieved? Where will it create leverage?
 
-Show that proof gets stronger as it moves through the funnel. Keep reuse moments as compact support text: weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
+### Four-zone hierarchy
+- **Primary reading zone:** six Proof Conversion Funnel stages.
+- **Secondary support zone:** reuse moments.
+- **Annotation zone:** one “so what” line only.
+- **Footer / brand zone:** quiet.
 
 ### What this slide adds that the previous slide did not
 It turns the hidden mechanism into a practical framework the reader can reuse.
@@ -275,7 +305,14 @@ What proof conversion sounds like in a weekly review.
 **Weak update:**
 “Worked on reducing customer escalations this week.”
 
-**Proof-converted update:**
+**Structured weekly review artifact:**
+- **Risk / problem:** Repeat escalation risk.
+- **Action taken:** Identified top 3 recurring handoff gaps.
+- **Ownership / alignment:** Aligned support + product on ownership.
+- **Signal / proof:** Closed 2 process gaps and captured before/after escalation signals.
+- **Reuse moment:** Next week’s stakeholder review.
+
+**Production reference only, not the main visual block:**
 “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.”
 
 **So what:**
@@ -287,14 +324,21 @@ Worked example / proof trail
 ### Visual layout direction
 Create a before/after communication panel:
 
-- Left: one vague weekly activity statement.
-- Right: proof-converted stakeholder update with highlighted pieces: risk, handoff gaps, ownership alignment, process gaps closed, before/after signals.
-- Beneath the right side, show a small proof trail: note → artifact → signal → update → review.
+- Left: weak update quote.
+- Right: structured weekly review artifact with five fields: risk/problem, action taken, ownership/alignment, signal/proof, reuse moment.
+- Beneath the artifact, show a small proof trail: note → artifact → signal → update → review.
+
+### Four-zone hierarchy
+- **Primary reading zone:** weak update vs structured weekly review artifact.
+- **Secondary support zone:** five proof-converted fields.
+- **Annotation zone:** “Same work. More reusable proof.”
+- **Footer / brand zone:** quiet.
 
 ### What this slide adds that the previous slide did not
 It demonstrates how the framework changes actual workplace communication in a stakeholder update or weekly review.
 
 ### What to avoid
+- Do not make the long proof-converted sentence the main visual block.
 - Do not turn the example into a fake case study with invented metrics.
 - Do not make the improved version sound inflated.
 - Do not add AI tools or templates.
@@ -329,6 +373,12 @@ Use a premium memo-style checklist with one strong central question. Add a small
 If a soft future note is included, place it as a low-emphasis footer:
 
 “Future note: this may become an Invisible Work Audit.”
+
+### Four-zone hierarchy
+- **Primary reading zone:** core behavior question.
+- **Secondary support zone:** weekly proof checklist.
+- **Annotation zone:** optional operator note.
+- **Footer / brand zone:** profile-entry line.
 
 ### What this slide adds that the previous slide did not
 It converts the argument into a habit and gives the reader a reason to enter the profile.

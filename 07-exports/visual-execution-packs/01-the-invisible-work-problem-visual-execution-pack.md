@@ -44,7 +44,10 @@ The deck should not feel like:
 > Useful work disappears when it is not converted into reusable proof.
 
 ### Evidence label
-> Example-based evidence, not a sourced statistic.
+> Mini-case: same work, different proof trail.
+
+### Internal evidence note
+> Internal note: illustrative example, not a sourced statistic.
 
 ### Weak update
 > Worked on reducing customer escalations this week.
@@ -63,24 +66,26 @@ The deck should not feel like:
 
 ## Visual identity direction
 ### Background direction
-Use a calm off-white, warm grey, or muted charcoal background system. The background should feel like a high-end strategy document, not a bright social media template.
+Use a warm off-white / ivory base. The background should feel like a high-end strategy document, not a bright social media template or generic beige consulting deck.
 
 Recommended background approach:
 
-- Primary slides: off-white or light warm grey.
-- Mechanism / leakage slide: slightly darker analytical panel.
+- Primary slides: warm off-white / ivory.
+- Mechanism / leakage slide: slightly deeper ivory or muted charcoal panel.
 - Final slide: calm, confident, memo-like finish.
 
 ### Accent colors
-Use restrained analytical accents:
+Use a distinctive signature accent system:
 
-- Deep navy, charcoal, or ink black for core text.
-- Muted amber or signal orange for proof stamps, leakage points, and “so what?” notes.
-- Muted blue or slate for evidence cards and decision gates.
-- Soft red only for value leakage, never for alarmist drama.
-- Muted green only for verified proof or reusable leverage.
+- **Base:** warm off-white / ivory.
+- **Primary text:** deep navy-charcoal.
+- **Signature accent:** electric amber / proof orange.
+- **Secondary support:** slate blue for evidence.
+- **Leakage accent:** muted red.
+- **Verified proof accent:** deep green.
+- **Footer and grid lines:** quiet warm grey.
 
-Avoid neon gradients, glowing AI blues, rainbow palettes, and loud startup-style colors.
+The signature accent should appear consistently but selectively. Amber / proof orange should mark proof stamps, key gates, emphasis lines, and profile-entry moments. Muted red should be used only for leakage or loss. Slate blue should support evidence and analytical structures. Do not let the palette become generic beige consulting. Avoid neon gradients, glowing AI blues, rainbow palettes, and loud startup-style colors.
 
 ### Typography direction
 Use a premium editorial hierarchy:
@@ -127,7 +132,8 @@ Annotations should add interpretation, not decoration.
 ### Evidence card style
 Evidence cards should look credible and restrained:
 
-- Clearly labeled “Example-based evidence, not a sourced statistic.”
+- Reader-facing label: “Mini-case: same work, different proof trail.”
+- Internal note only: illustrative example, not a sourced statistic.
 - Two-card comparison structure.
 - Small caveat line.
 - No fake charts, fake percentages, or fake research citations.
@@ -177,11 +183,12 @@ Examples:
   - Tension line: “It is the work that became proof.”
   - Small annotation: “Invisible work is usually a proof problem, not an effort problem.”
 - **Main visual move:** Tension visual.
-- **Layout wireframe description:** Split the slide into two zones. Left zone shows meaningful work artifacts: notes, decisions, fixes, coordination, stakeholder pings. Right zone shows what actually reaches memory: a smaller set of proof cards. Use a narrowing path or fading trail between them.
-- **Visual hierarchy:** Large headline first, proof-memory contrast second, small annotation third.
+- **Layout wireframe description:** Use a contradiction split / memory gap. Left side: “Work that mattered.” Right side: “Work that got remembered.” Middle gap label: “Proof gap.” The visual should create tension, not solve the proof conversion system.
+- **Visual hierarchy:** Large headline first, contradiction split second, “Proof gap” label third.
+- **Four-zone hierarchy:** Primary reading zone = headline + tension line; secondary support zone = contradiction split; annotation zone = “Proof gap”; footer/brand zone = quiet or absent.
 - **What the reader should understand after this slide:** Being valuable is not enough if the work never becomes proof.
 - **Performance job of the slide:** Stopping power through status threat and unresolved tension.
-- **What to avoid:** Do not show the full funnel yet. Do not use a generic laptop person. Do not use motivational language. Do not make the visual simply repeat the headline.
+- **What to avoid:** Do not show the full funnel yet. Do not show full proof cards reaching stakeholder memory. Do not show the full conversion process, all consequences, or proof mechanics. Do not use a generic laptop person or motivational language.
 
 ### Slide 2: First-principles diagnosis
 - **Slide title direction:** Organizations do not remember effort.
@@ -192,21 +199,24 @@ Examples:
 - **Main visual move:** Root-cause map.
 - **Layout wireframe description:** Put “Useful work gets missed” as the top node. Under it, show four structural causes feeding into “forgotten / undervalued / hard to advocate for.”
 - **Visual hierarchy:** Diagnosis headline, cause map, bottom consequence label.
+- **Four-zone hierarchy:** Primary reading zone = diagnosis headline; secondary support zone = root-cause nodes; annotation zone = consequence label; footer/brand zone = quiet.
 - **What the reader should understand after this slide:** Invisible work is structural, not simply a personal branding problem.
 - **Performance job of the slide:** Swipe-through by giving the deeper reason behind Slide 1.
 - **What to avoid:** Do not blame managers. Do not make it a complaint list. Do not prescribe before diagnosing.
 
 ### Slide 3: Example-based evidence
-- **Slide title direction:** Example-based evidence: same work, different proof trail.
+- **Slide title direction:** Mini-case: same work, different proof trail.
 - **Structured text blocks:**
-  - Evidence label: “Example-based evidence, not a sourced statistic.”
+  - Reader-facing label: “Mini-case: same work, different proof trail.”
+  - Internal note: “Illustrative example, not a sourced statistic.”
   - Mini-case: “Two operators contribute to the same project.”
   - Operator A: “Waits until review season and says, ‘I worked on the launch.’”
   - Operator B: “Keeps a weekly trail of decisions influenced, before/after signals, shipped assets, and stakeholder responses.”
   - So what: “The second person is easier to remember, evaluate, and advocate for.”
 - **Main visual move:** Evidence card / mini-case card.
 - **Layout wireframe description:** Use two side-by-side evidence cards. Left card is sparse and memory-based. Right card has visible proof artifacts: decision note, signal, stakeholder comment, shipped asset, before/after marker.
-- **Visual hierarchy:** Evidence label, two-card comparison, “so what?” note.
+- **Visual hierarchy:** Mini-case label, two-card comparison, “so what?” note.
+- **Four-zone hierarchy:** Primary reading zone = mini-case label and two-card structure; secondary support zone = card details; annotation zone = so-what note; footer/brand zone = quiet.
 - **What the reader should understand after this slide:** Similar work can be remembered differently depending on whether proof exists.
 - **Performance job of the slide:** Trust-building and save value without fake statistics.
 - **What to avoid:** Do not use invented numbers. Do not use “studies show.” Do not create fake charts. Do not make this a decorative case study.
@@ -225,6 +235,7 @@ Examples:
 - **Main visual move:** Antithesis table.
 - **Layout wireframe description:** Two-column table with aligned rows. Use a subtle upgrade arrow between columns. Make the right side feel like a higher-leverage operating behavior, not moral superiority.
 - **Visual hierarchy:** Slide title, column headers, contrast rows.
+- **Four-zone hierarchy:** Primary reading zone = antithesis headline; secondary support zone = comparison table; annotation zone = subtle upgrade cue; footer/brand zone = quiet.
 - **What the reader should understand after this slide:** The stronger behavior is not louder self-promotion; it is better proof behavior.
 - **Performance job of the slide:** Shareability because readers recognize themselves or their workplace.
 - **What to avoid:** Do not shame the default operator. Do not use harsh labels. Do not turn it into hustle advice.
@@ -240,6 +251,7 @@ Examples:
 - **Main visual move:** Leakage map / waterfall.
 - **Layout wireframe description:** Show a descending path from “Work done” to “Low remembered value.” Add leakage points at capture, outcome, signal, storage, and reuse. Use subtle leakage markers where value drops.
 - **Visual hierarchy:** Mechanism headline, descending leakage path, short leak labels, bottom consequence.
+- **Four-zone hierarchy:** Primary reading zone = mechanism headline and leakage path; secondary support zone = leak labels; annotation zone = one so-what note; footer/brand zone = quiet.
 - **What the reader should understand after this slide:** Work does not vanish all at once; it loses value at specific proof-conversion points.
 - **Performance job of the slide:** Save trigger through a reusable diagnostic lens.
 - **What to avoid:** Do not repeat the antithesis table. Do not use a plain linear arrow with no leakage. Do not overcomplicate the diagram.
@@ -247,34 +259,37 @@ Examples:
 ### Slide 6: Proof Conversion Funnel
 - **Slide title direction:** The Proof Conversion Funnel.
 - **Structured text blocks:**
-  - Funnel stages: “Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage.”
-  - Stage questions:
-    - “What moved?”
-    - “Where is it recorded?”
-    - “What outcome changed?”
-    - “What signal supports it?”
-    - “Where can it be retrieved?”
-    - “Where will it create leverage?”
-  - Reuse annotation: “Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.”
+  - Primary reading zone: “Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage.”
+  - Secondary support zone: “Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.”
+  - Annotation zone: “Proof becomes useful when it can travel into decisions.”
+  - Optional designer note only: stage questions may inform layout, but should not be required visible slide text.
 - **Main visual move:** Funnel model / staged conversion system.
-- **Layout wireframe description:** Use a vertical or diagonal funnel with six distinct stages. Each stage should have a short label and tiny question. At the bottom or side, show reuse moments as small decision gates.
-- **Visual hierarchy:** Framework name, funnel stages, stage questions, reuse annotation.
+- **Layout wireframe description:** Use a vertical or diagonal funnel with six distinct stages as the primary visual. At the bottom or side, show reuse moments as compact decision gates. Use only one so-what annotation.
+- **Visual hierarchy:** Framework name, funnel stages, reuse moments, one so-what annotation.
+- **Four-zone hierarchy:** Primary reading zone = six funnel stages; secondary support zone = reuse moments; annotation zone = one so-what line; footer/brand zone = quiet.
 - **What the reader should understand after this slide:** The reader now has a reusable model for turning work into proof.
 - **Performance job of the slide:** Primary save trigger and profile-visit trigger.
-- **What to avoid:** Do not make it look like a sales funnel. Do not reduce it to “Work → Impact → Proof.” Do not over-brand Proof Stack.
+- **What to avoid:** Do not make it look like a sales funnel. Do not reduce it to “Work → Impact → Proof.” Do not over-brand Proof Stack. Do not turn it into a cramped full worksheet.
 
 ### Slide 7: Stakeholder update / weekly review application
 - **Slide title direction:** What proof conversion sounds like in a weekly review.
 - **Structured text blocks:**
   - Weak update: “Worked on reducing customer escalations this week.”
-  - Proof-converted update: “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.”
+  - Structured weekly review artifact:
+    - Risk / problem: “Repeat escalation risk.”
+    - Action taken: “Identified top 3 recurring handoff gaps.”
+    - Ownership / alignment: “Aligned support + product on ownership.”
+    - Signal / proof: “Closed 2 process gaps and captured before/after escalation signals.”
+    - Reuse moment: “Next week’s stakeholder review.”
+  - Production reference only, not main visual block: “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.”
   - So what: “Same work. More reusable proof.”
 - **Main visual move:** Worked example / proof trail.
-- **Layout wireframe description:** Use a before/after update panel. Left side has one weak activity update. Right side has the proof-converted update with highlighted components: risk, handoff gaps, ownership alignment, process gaps closed, before/after signals. Add a small proof trail below: note → artifact → signal → update → review.
-- **Visual hierarchy:** Slide title, weak update, proof-converted update, highlighted proof components, “so what?” note.
+- **Layout wireframe description:** Use a before/after update panel. Left side has one weak update quote. Right side is a structured weekly review artifact with five fields: risk/problem, action taken, ownership/alignment, signal/proof, reuse moment. Add a small proof trail below: note → artifact → signal → update → review.
+- **Visual hierarchy:** Slide title, weak update, structured artifact, “so what?” note.
+- **Four-zone hierarchy:** Primary reading zone = weak update vs structured artifact; secondary support zone = five artifact fields; annotation zone = “Same work. More reusable proof.”; footer/brand zone = quiet.
 - **What the reader should understand after this slide:** The framework changes how work is communicated in a real weekly review.
 - **Performance job of the slide:** Application clarity and trust-building.
-- **What to avoid:** Do not invent metrics. Do not inflate the impact. Do not add AI tools or templates. Do not make this a fake case study.
+- **What to avoid:** Do not make the long proof-converted sentence the main visual block. Do not invent metrics. Do not inflate the impact. Do not add AI tools or templates. Do not make this a fake case study.
 
 ### Slide 8: Behavior shift + profile reason
 - **Slide title direction:** Before your next update, ask: what proof did this work create?
@@ -290,6 +305,7 @@ Examples:
 - **Main visual move:** Behavior checklist / profile-entry slide.
 - **Layout wireframe description:** Use a memo-style checklist. Put the core question in a large central box. Put the weekly proof check underneath as compact checklist items. Put the profile-entry line in a calm footer or operator-note box.
 - **Visual hierarchy:** Core question, checklist, profile-entry line.
+- **Four-zone hierarchy:** Primary reading zone = behavior question; secondary support zone = checklist; annotation zone = optional operator note; footer/brand zone = profile-entry line.
 - **What the reader should understand after this slide:** The reader has a concrete weekly habit and a reason to visit the profile.
 - **Performance job of the slide:** Profile-entry trigger and save trigger.
 - **What to avoid:** Do not hard-sell Proof Stack. Do not use aggressive CTA language. Do not end with only “save this post.” Do not add a product or payment link.
@@ -297,30 +313,30 @@ Examples:
 ## Copyable master prompt for image/design tool
 Create an **8-slide Instagram portrait-friendly 4:5 carousel deck**, not one poster, for a premium analytical Instagram brand called Operator Leverage OS. The carousel title territory is **The Invisible Work Problem**. The deck should feel like a strategic field manual, high-signal operator memo, and premium analytical system. It should use structured visual reading, consulting-style visual thinking, and evidence-backed visual argumentation. Do not make it a generic SaaS carousel, first-year MBA template, AI-tools aesthetic, motivational productivity post, stock corporate infographic, or generic business-person slideshow.
 
-Use a calm premium visual identity: off-white / warm grey / muted charcoal backgrounds, deep navy or charcoal typography, restrained amber or signal-orange accents for proof and leakage, muted blue or slate for evidence cards and decision gates, and subtle green only for verified proof. Use clean sans-serif typography, strong hierarchy, generous margins, structured grid, memo-like annotations, proof stamps, leakage points, decision gates, and “so what?” notes. Avoid neon gradients, glowing AI/robot imagery, decorative icons, stock business people, repeated same-layout slides, and visuals that merely mimic the headline.
+Use a distinctive premium visual identity: warm off-white / ivory base, deep navy-charcoal typography, electric amber / proof orange as the signature accent, slate blue for evidence, muted red only for leakage, deep green for verified proof, and quiet warm grey for footer and grid lines. Use clean sans-serif typography, strong hierarchy, generous margins, structured grid, memo-like annotations, proof stamps, leakage points, decision gates, and “so what?” notes. Avoid neon gradients, glowing AI/robot imagery, decorative icons, stock business people, repeated same-layout slides, and visuals that merely mimic the headline.
 
 This deck has 8 slides and every slide must advance the argument:
 
-1. **Tension / question:** Use the exact slide text: “The work that gets remembered is not always the work that mattered most. It is the work that became proof.” Show a split visual where meaningful work artifacts narrow into the smaller set that reaches stakeholder memory as proof.
+1. **Tension / question:** Use the exact slide text: “The work that gets remembered is not always the work that mattered most. It is the work that became proof.” Show a contradiction split / memory gap: left “Work that mattered,” right “Work that got remembered,” middle label “Proof gap.” Do not show the full conversion system yet.
 2. **First-principles diagnosis:** Headline: “Organizations do not remember effort.” Explain that they remember proof, decisions, outcomes, and evidence that can be reused. Use a root-cause map with weak memory, limited attention, scattered context, and no reusable proof trail.
-3. **Example-based evidence:** Use the exact evidence label: “Example-based evidence, not a sourced statistic.” Show two operators / two evidence cards: memory-based review vs proof-trail review. Make clear that similar work is easier to remember, evaluate, and advocate for when proof exists.
+3. **Example-based evidence:** Use the reader-facing label: “Mini-case: same work, different proof trail.” Show two operators / two evidence cards: memory-based review vs proof-trail review. Keep the internal note: illustrative example, not a sourced statistic. Make clear that similar work is easier to remember, evaluate, and advocate for when proof exists.
 4. **Antithesis / contrast:** Use a two-column antithesis table: Default operator vs High-leverage operator. Contrast memory with evidence trails, activity with outcomes, review-season reconstruction with weekly proof capture, claims with before/after change, and interpretation with reusable proof.
 5. **Hidden mechanism:** Show a leakage map / waterfall. Use these labels: not captured becomes memory, not connected becomes activity, not verified becomes a claim, not stored becomes scattered context, not reused loses leverage.
-6. **Proof Conversion Funnel:** Show the six-stage model: Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage. Add compact reuse annotation: “Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.”
-7. **Stakeholder update / weekly review application:** Show before/after update. Weak update: “Worked on reducing customer escalations this week.” Proof-converted update: “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.” Add “Same work. More reusable proof.”
+6. **Proof Conversion Funnel:** Show the six-stage model only as the primary visual: Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage. Add compact reuse annotation: “Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.” Add one so-what line: “Proof becomes useful when it can travel into decisions.” Do not make this a full worksheet.
+7. **Stakeholder update / weekly review application:** Show before/after update. Weak update: “Worked on reducing customer escalations this week.” Convert the proof-converted update into a structured weekly review artifact with fields: Risk/problem: Repeat escalation risk; Action taken: Identified top 3 recurring handoff gaps; Ownership/alignment: Aligned support + product on ownership; Signal/proof: Closed 2 process gaps and captured before/after escalation signals; Reuse moment: Next week’s stakeholder review. Add “Same work. More reusable proof.”
 8. **Behavior shift + profile reason:** Use the exact behavior shift: “Before your next update, ask: what proof did this work create?” Add weekly proof checklist: what changed, what outcome did it connect to, what signal verifies it, where will this proof be stored, where can it be reused later. End with the exact profile-entry line: “More operator leverage systems for people turning invisible work into visible proof.”
 
 Preserve structured text. Use different visual moves across slides. Do not create ultra-minimal empty slides. Do not invent statistics. Do not use vague “studies show” language. Do not use decorative icons, AI robots, glowing AI visuals, generic business people, or repeated chain diagrams with different words. Make the deck feel analytical, calm, premium, and useful enough to save and share.
 
 ## Individual slide prompt blocks
 ### Slide 1 prompt
-Design Slide 1 of an 8-slide Instagram 4:5 carousel deck. Style: premium analytical memo / strategic field manual. Use a calm off-white or warm grey background, deep charcoal typography, restrained amber proof accents. Text must read: “The work that gets remembered is not always the work that mattered most.” Then: “It is the work that became proof.” Add small annotation: “Invisible work is usually a proof problem, not an effort problem.” Visual: split field showing meaningful work artifacts on the left narrowing into a smaller set of proof cards reaching stakeholder memory on the right. Avoid generic people, motivational tone, AI imagery, and full funnel reveal.
+Design Slide 1 of an 8-slide Instagram 4:5 carousel deck. Style: premium analytical memo / strategic field manual. Use a calm off-white or warm grey background, deep charcoal typography, restrained amber proof accents. Text must read: “The work that gets remembered is not always the work that mattered most.” Then: “It is the work that became proof.” Add small annotation: “Invisible work is usually a proof problem, not an effort problem.” Visual: contradiction split / memory gap. Left side says “Work that mattered,” right side says “Work that got remembered,” middle gap label says “Proof gap.” Do not show proof cards, the full conversion process, or all consequences yet. Avoid generic people, motivational tone, AI imagery, and full funnel reveal.
 
 ### Slide 2 prompt
 Design Slide 2 of an 8-slide Instagram 4:5 carousel deck. Role: first-principles diagnosis. Headline: “Organizations do not remember effort.” Body: “They remember proof, decisions, outcomes, and evidence that can be reused.” Use a root-cause map with “Useful work gets missed” feeding from four causes: weak memory, limited attention, scattered context, no reusable proof trail. End consequence: “forgotten / undervalued / hard to advocate for.” Style: premium analytical memo, clear grid, structured text, no decorative icons or stock people.
 
 ### Slide 3 prompt
-Design Slide 3 of an 8-slide Instagram 4:5 carousel deck. Role: example-based evidence. Required label: “Example-based evidence, not a sourced statistic.” Use two evidence cards: left card “Memory-based review” with sparse context: “I worked on the launch.” Right card “Proof-trail review” with visible artifacts: decision note, before/after signal, shipped asset, stakeholder response. Add so-what note: “The second person is easier to remember, evaluate, and advocate for.” Keep the slide honest, calm, and analytical. No fake statistics, no “studies show,” no fake chart.
+Design Slide 3 of an 8-slide Instagram 4:5 carousel deck. Role: mini-case / honest example. Reader-facing label: “Mini-case: same work, different proof trail.” Internal note only: illustrative example, not a sourced statistic. Use two evidence cards: left card “Memory-based review” with sparse context: “I worked on the launch.” Right card “Proof-trail review” with visible artifacts: decision note, before/after signal, shipped asset, stakeholder response. Add so-what note: “The second person is easier to remember, evaluate, and advocate for.” Keep the slide honest, calm, and analytical. No fake statistics, no “studies show,” no fake chart.
 
 ### Slide 4 prompt
 Design Slide 4 of an 8-slide Instagram 4:5 carousel deck. Role: antithesis / contrast. Headline: “The difference is not effort. It is proof behavior.” Create a two-column table: left column “Default operator,” right column “High-leverage operator.” Rows: Relies on memory → Builds evidence trails; Reports activity → Connects work to outcomes; Waits until review season → Captures proof weekly; Says “I worked on X” → Shows before/after change; Depends on interpretation → Reuses proof in decisions. Make the right side feel like an upgrade path, not judgment. Avoid shaming tone.
@@ -329,10 +345,10 @@ Design Slide 4 of an 8-slide Instagram 4:5 carousel deck. Role: antithesis / con
 Design Slide 5 of an 8-slide Instagram 4:5 carousel deck. Role: hidden mechanism. Headline: “Work loses value at every broken conversion point.” Create a leakage map or waterfall from “Work done” to “Low remembered value.” Leakage labels: not captured → becomes memory; not connected → becomes activity; not verified → becomes a claim; not stored → becomes scattered context; not reused → loses leverage. Use restrained amber/red leakage indicators. Add a small “so what?” note: “Work does not vanish all at once. It leaks value when proof conversion breaks.” Avoid a plain linear arrow.
 
 ### Slide 6 prompt
-Design Slide 6 of an 8-slide Instagram 4:5 carousel deck. Role: framework. Headline: “The Proof Conversion Funnel.” Show six stages: Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage. Add compact stage questions: What moved? Where is it recorded? What outcome changed? What signal supports it? Where can it be retrieved? Where will it create leverage? Add reuse annotation: “Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.” Style: premium analytical funnel, not sales funnel.
+Design Slide 6 of an 8-slide Instagram 4:5 carousel deck. Role: framework. Headline: “The Proof Conversion Funnel.” Show six stages: Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage. Do not show the six stage questions as required visible text; use them only as optional layout guidance. Add reuse annotation: “Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.” Add one so-what line: “Proof becomes useful when it can travel into decisions.” Style: premium analytical funnel, not sales funnel or cramped worksheet.
 
 ### Slide 7 prompt
-Design Slide 7 of an 8-slide Instagram 4:5 carousel deck. Role: stakeholder update / weekly review application. Headline: “What proof conversion sounds like in a weekly review.” Use before/after panel. Left weak update: “Worked on reducing customer escalations this week.” Right proof-converted update: “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.” Highlight risk, handoff gaps, ownership alignment, process gaps closed, and signals. Add “Same work. More reusable proof.” No fake metrics, no AI tools, no inflated case study.
+Design Slide 7 of an 8-slide Instagram 4:5 carousel deck. Role: stakeholder update / weekly review application. Headline: “What proof conversion sounds like in a weekly review.” Use before/after panel. Left weak update: “Worked on reducing customer escalations this week.” Right side should be a structured weekly review artifact, not a long quote. Fields: Risk/problem: Repeat escalation risk; Action taken: Identified top 3 recurring handoff gaps; Ownership/alignment: Aligned support + product on ownership; Signal/proof: Closed 2 process gaps and captured before/after escalation signals; Reuse moment: Next week’s stakeholder review. Add “Same work. More reusable proof.” No fake metrics, no AI tools, no inflated case study.
 
 ### Slide 8 prompt
 Design Slide 8 of an 8-slide Instagram 4:5 carousel deck. Role: behavior shift + profile reason. Core text: “Before your next update, ask: what proof did this work create?” Add weekly proof checklist: What changed? What outcome did it connect to? What signal verifies it? Where will this proof be stored? Where can it be reused later? End with profile-entry line: “More operator leverage systems for people turning invisible work into visible proof.” Use memo-style checklist layout and calm footer. Avoid hard-selling, product CTA, payment references, or generic “save this” ending only.
@@ -356,7 +372,7 @@ Before generating or designing, check:
 
 ## Final pre-generation checklist
 - [ ] **Stopping power:** Slide 1 creates a clear status threat and reason to swipe.
-- [ ] **Evidence honesty:** Slide 3 is labeled “Example-based evidence, not a sourced statistic.”
+- [ ] **Evidence honesty:** Slide 3 uses reader-facing label “Mini-case: same work, different proof trail” and keeps “not a sourced statistic” as an internal note.
 - [ ] **Antithesis clarity:** Slide 4 shows default operator vs high-leverage operator without insulting the reader.
 - [ ] **Mechanism strength:** Slide 5 explains where work loses value.
 - [ ] **Framework distinctiveness:** Slide 6 presents the Proof Conversion Funnel as more than common-sense labels.

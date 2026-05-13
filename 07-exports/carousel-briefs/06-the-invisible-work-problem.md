@@ -118,17 +118,17 @@ Do not force a bio-click bridge in the main carousel.
 | --- | --- | --- | --- | --- | --- |
 | 1 | Tension / question | Tension visual | “The work that gets remembered is not always the work that mattered most. It is the work that became proof.” | Creates a stronger status threat and unresolved explanation. | Do not summarize the full funnel yet. |
 | 2 | First-principles diagnosis | Root-cause map | “Organizations do not remember effort. They remember proof, decisions, outcomes, and evidence that can be reused.” | Explains why the problem exists. | Show weak organizational memory and limited attention. |
-| 3 | Evidence / data / example | Evidence card / mini-case | Two operators, same project: memory-based review vs proof trail review. Mark as example-based evidence. | Grounds the claim without fake statistics. | Make it concrete, not academic. |
+| 3 | Evidence / data / example | Evidence card / mini-case | Mini-case: same work, different proof trail. Internal note: illustrative example, not a sourced statistic. | Grounds the claim without fake statistics. | Make it concrete, not academic. |
 | 4 | Antithesis / contrast | Antithesis table | Default operator vs high-leverage operator. | Creates shareability through recognition. | Keep tone respectful. |
 | 5 | Hidden mechanism | Leakage map / waterfall | Work loses value when not captured, connected, verified, stored, or reused. | Reveals the mechanism behind invisible work. | This is the “aha” slide. |
-| 6 | Framework or decision tool | Funnel model | The Proof Conversion Funnel: work done → captured → connected → verified → stored → reused. Add reuse moments as annotation. | Gives a reusable model worth saving. | Show value narrowing unless proof is converted. |
-| 7 | Application / worked example | Worked example / proof trail | Weekly stakeholder update example: weak update vs proof-converted update. | Shows how the model changes real work communication. | Keep it specific but not too detailed. |
+| 6 | Framework or decision tool | Funnel model | The Proof Conversion Funnel stages only, plus compact reuse moments and one “so what” line. | Gives a reusable model worth saving. | Keep this as a framework slide, not a worksheet. |
+| 7 | Application / worked example | Weekly review artifact / proof trail | Weekly stakeholder update example: weak update plus structured proof-converted artifact. | Shows proof conversion as information design. | Keep the full sentence as reference, not the main visual block. |
 | 8 | Behavior shift + profile reason | Behavior checklist / profile-entry slide | “Before your next update, ask: what proof did this work create?” + category promise. | Converts insight into habit and profile visit. | Keep Proof Stack out except optional future note if needed. |
 
 ## Structured text plan
 - **Slide-level text style:** Structured, memo-like, high-signal text with short headings, labels, and compact explanations.
 - **Key labels:** Effort, proof, outcome, signal, memory, evidence trail, leverage, reusable.
-- **Evidence wording:** “Example-based evidence: same project, different proof trail.”
+- **Evidence wording:** “Mini-case: same work, different proof trail.” Internal note: illustrative example, not a sourced statistic.
 - **Antithesis wording:** “Default operator” vs “High-leverage operator.”
 - **Behavior-shift wording:** “Before your next update, ask: what proof did this work create?”
 - **Text to avoid:** “Just work smarter,” “document everything,” “hack your appraisal,” “use AI to prove your work,” and any invented statistic.
