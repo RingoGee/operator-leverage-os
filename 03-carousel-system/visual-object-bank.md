@@ -213,3 +213,71 @@ Before choosing a visual, answer:
 4. What intellectual function does it serve?
 5. What performance function does it support?
 6. Will repeating the object reveal new reasoning, or only new wording?
+
+## Visual move taxonomy by intellectual job
+Use this taxonomy to choose visual moves based on what the slide must make the reader understand. Do not choose a visual move because it looks impressive.
+
+### A. Tension moves
+**Examples:** contradiction split, disappearing work map, memory gap, status threat visual.
+
+- **When to use:** Slide 1 or any opening move that must create unresolved tension.
+- **What it should explain:** The named problem, status risk, contradiction, or felt-but-unframed pressure.
+- **What to avoid:** Showing the full framework, all consequences, and the full answer too early.
+
+### B. Diagnosis moves
+**Examples:** root-cause map, issue tree, decay map, attention / memory system.
+
+- **When to use:** When the reader needs to understand why the problem exists structurally.
+- **What it should explain:** Causes, system conditions, attention limits, memory decay, ownership gaps, or process failure.
+- **What to avoid:** Complaint lists, blame maps, or category boxes that do not reveal causes.
+
+### C. Evidence moves
+**Examples:** evidence card, mini-case, before/after proof trail, benchmark card, observed pattern card.
+
+- **When to use:** When a claim needs credibility through evidence, example, data, or pattern recognition.
+- **What it should explain:** Why the argument is grounded and believable.
+- **What to avoid:** Fake statistics, vague “studies show” language, decorative data, or internal-sounding labels as prominent slide copy.
+
+### D. Antithesis moves
+**Examples:** default vs high-leverage operator table, weak vs strong behavior map, before/after operating system.
+
+- **When to use:** When the reader needs to see the behavior gap between default and stronger operators.
+- **What it should explain:** What strong operators do differently and why the higher-leverage behavior works.
+- **What to avoid:** Shaming the reader, moralizing, or making the contrast feel like hustle content.
+
+### E. Mechanism moves
+**Examples:** leakage map, waterfall, conversion-break map, bottleneck chain, decay funnel.
+
+- **When to use:** When the post needs an “now I see it” slide that reveals how the problem actually happens.
+- **What it should explain:** Where value leaks, breaks, decays, gets misread, or fails to convert into proof, clarity, decision quality, or leverage.
+- **What to avoid:** Plain linear arrows with no breakpoint, decorative chains, or diagrams that only restate the framework name.
+
+### F. Framework moves
+**Examples:** 2x2 matrix, funnel, ladder, decision tree, operating model map, conversion gates, proof stack.
+
+- **When to use:** When the idea deserves a reusable model that can be applied across situations.
+- **What it should explain:** The named model, its stages or dimensions, and how the reader can use it.
+- **What to avoid:** New named frameworks for one-off ideas, generic productivity frameworks, or gimmicky labels without mechanism.
+
+### G. Application moves
+**Examples:** annotated memo, weak vs proof-converted update, weekly review card, decision note, proof file entry.
+
+- **When to use:** When the reader needs to see how the model changes a real update, decision, memo, review, workflow, or artifact.
+- **What it should explain:** How the thinking changes actual operator output.
+- **What to avoid:** One long dense quote, fake case-study metrics, or examples that cannot be scanned on mobile.
+
+### H. Conversion / profile moves
+**Examples:** checklist, operating question, follow / profile reason card, soft lead-magnet bridge.
+
+- **When to use:** Final slide or conversion-adjacent slides where the reader needs a behavior shift and reason to continue with the profile.
+- **What it should explain:** The practical habit, next operating question, or category promise.
+- **What to avoid:** Aggressive selling, bait-like CTAs, generic “save this” endings, or product pushes before trust is earned.
+
+## Mobile fit test for visual moves
+Before using any visual move, ask:
+
+1. Can the main idea be understood in a 1-second mobile scan?
+2. Can the argument structure be understood in a 3-second mobile scan?
+3. Are details available for an 8–12 second read without requiring zoom?
+4. Is this visual dense because it is useful, or cramped because it lacks hierarchy?
+5. Does the visual use a recognizable brand system without repeating the same layout formula?

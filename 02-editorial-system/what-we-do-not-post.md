@@ -64,3 +64,21 @@ Reject or reframe the idea if:
 13. The hook gives away the summary instead of creating a reason to continue.
 14. The final slide gives no behavior shift or profile-entry reason.
 15. The post chases clicks while weakening trust.
+
+## Additional visual and framework rejection rules
+Reject or reframe content that uses:
+
+- Dense slides that become cramped on mobile.
+- Slides that require zooming to understand the main point.
+- Over-designed pseudo-consulting templates.
+- First-year MBA slide aesthetics.
+- Generic SaaS carousel cards.
+- Fake paper clutter.
+- Excessive tiny annotations.
+- Aesthetic density without intellectual value.
+- Icons that merely decorate.
+- Muted visual systems that are so tasteful they become forgettable.
+- A new named framework for a one-off idea with no real mechanism or reuse potential.
+- A framework that could appear unchanged on a generic productivity page.
+- Cover slides that explain the entire model instead of creating tension.
+- Evidence labels that sound like internal compliance copy rather than reader-facing credibility.

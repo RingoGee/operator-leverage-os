@@ -115,3 +115,111 @@ Before approving a carousel, ask:
 - The visual changes every slide with no coherent argument path.
 - The hook summarizes the answer instead of creating tension.
 - The final slide has no behavior shift or profile-entry reason.
+
+## Dense vs cramped standard
+Structured high-signal text is allowed. Dense is acceptable when hierarchy is strong. Cramped is not acceptable even if the thinking is good.
+
+A slide may contain more text when it is organized through headings, labels, callouts, matrices, tables, evidence cards, annotations, or “so what?” boxes.
+
+Every slide must preserve:
+
+- One dominant idea.
+- One main visual move.
+- A clear reading path.
+- Mobile legibility.
+- Sufficient whitespace.
+- A visible “so what” or implication when needed.
+
+Reject slides that require the reader to zoom in to understand the main point.
+
+## Mobile visual hierarchy rule
+Every slide must define four zones:
+
+1. **Primary reading zone** — carries the main idea.
+2. **Secondary support zone** — explains, proves, or contrasts the idea.
+3. **Optional annotation zone** — clarifies the interpretation without competing for attention.
+4. **Footer / brand zone** — stays quiet and does not steal attention.
+
+The primary reading zone should be legible in a 1-second scan. The support zone should reveal the structure in a 3-second scan. Annotations and nuance should reward an 8–12 second read.
+
+## Cover-slide restraint rule
+Slide 1 should create tension and curiosity. It should not contain the entire logic of the carousel.
+
+The cover slide should raise the problem, not solve it. It should not already show the full framework, all consequences, and the full answer. Save depth for later slides.
+
+## 8-slide thought-piece role discipline
+For major thought-leadership carousels, use this default standard. This is not a rigid requirement for every lightweight post.
+
+| Slide | Role | Job |
+| --- | --- | --- |
+| 1 | Tension | Create unresolved tension. Do not explain the whole model. The visual should raise the problem, not solve it. |
+| 2 | Diagnosis | Explain why the problem exists structurally using root-cause logic. |
+| 3 | Evidence / example | Build credibility with evidence, example, or mini-case that directly supports the argument. Do not use decorative data. |
+| 4 | Antithesis | Show default vs high-leverage behavior in a memorable and non-insulting way. |
+| 5 | Mechanism | Reveal where value leaks, breaks, decays, or gets misread. This should be the “now I see it” slide. |
+| 6 | Framework / model | Present the reusable model. This should be the most save-worthy slide. |
+| 7 | Application | Show how the model changes a real update, decision, memo, review, or workflow. Prefer structured artifacts over long prose quotes. |
+| 8 | Behavior shift + profile reason | Give a practical operating question or habit and a clear but non-hype profile-entry reason. |
+
+## Application slide structure rules
+Application slides should not rely on one long dense quote.
+
+Prefer structured artifacts:
+
+- Weak update vs proof-converted update.
+- Before/after memo.
+- Decision note.
+- Weekly review card.
+- Proof file entry.
+- Stakeholder update block.
+- Appraisal evidence note.
+
+For strong examples, break the text into:
+
+- Risk / problem.
+- Action taken.
+- Ownership / alignment.
+- Signal / proof.
+- Reuse moment.
+
+## Evidence language rules
+Evidence should build credibility without sounding like internal compliance language.
+
+Use reader-friendly visible labels where possible:
+
+- Illustrative workplace example.
+- Observed pattern.
+- Mini-case.
+- Public example.
+- Research-backed signal.
+- Data point.
+- Benchmark.
+- Field observation.
+
+Internal rule: if evidence is not sourced, do not present it as research or a statistic. Use “not a sourced statistic” as an internal production note, not as prominent slide copy unless necessary.
+
+## Premium visual identity safeguards
+The style should feel like a premium analytical memo, strategic field manual, visual operating manual, or compressed strategy memo with diagrams.
+
+Avoid:
+
+- Over-designed pseudo-consulting templates.
+- First-year MBA slide aesthetics.
+- Generic SaaS carousel cards.
+- Fake paper clutter.
+- Excessive tiny annotations.
+- Aesthetic density without intellectual value.
+- Icons that merely decorate.
+
+## Brand memorability and color distinctiveness
+The visual identity should feel sleek, stylish, classy, grounded, practical, and analytical.
+
+It should not feel boring, generic consulting, generic SaaS, muted to the point of being forgettable, overly corporate, or over-designed.
+
+Each carousel should use:
+
+- A premium neutral base.
+- A strong signature accent.
+- Restrained secondary accents for proof, leakage, decision gates, or ambiguity.
+
+The brand system should be recognizable, but slide layouts should vary based on the argument.

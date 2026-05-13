@@ -70,3 +70,21 @@ Approve an idea only if it passes most of these questions:
 If the idea cannot become a visual argument with diagnosis, mechanism, antithesis, application, and behavior shift, reject or reframe it before writing.
 
 A clean mental model is not enough. The post must help the reader understand why the problem exists and what stronger operators do differently.
+
+## Framework ownability test
+Before approving a mental model or framework, test it against these questions:
+
+1. **Mechanism:** Does it explain why the problem happens?
+2. **Leakage / breakpoint:** Does it show where value is lost, clarity breaks, proof decays, or decisions fail?
+3. **Behavior:** Does it show what strong operators do differently?
+4. **Reuse:** Can the reader apply it across more than one work situation?
+5. **Ownability:** Could this appear on a generic productivity page? If yes, deepen or reject it.
+6. **Naming:** Is the name memorable and specific without becoming gimmicky?
+
+Do not create a named framework for every post. Use:
+
+- **Core frameworks** for reusable IP.
+- **Situational lenses** for lighter problem framing.
+- **Execution tools** for checklists, scorecards, matrices, templates, or prompts that apply a deeper model.
+
+Reject a framework if it only renames common advice or has no mechanism, reuse potential, or behavior shift.

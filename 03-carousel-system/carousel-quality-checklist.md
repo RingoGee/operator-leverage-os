@@ -110,3 +110,44 @@ Score each item from 0 to 2.
 - **0-17:** Reject or reframe.
 
 Generic clean infographics cannot pass. A carousel must earn approval through diagnosis, mechanism, visual reasoning, behavior shift, and performance logic.
+
+## Mobile readability and hierarchy checks
+- [ ] Can the main point be understood on mobile without zooming?
+- [ ] Does the slide have a clear primary reading zone?
+- [ ] Does the slide have a secondary support zone that explains, proves, or contrasts the idea?
+- [ ] Do annotations clarify rather than compete?
+- [ ] Does the footer / brand zone stay quiet?
+- [ ] Is the slide readable in three layers: 1-second main idea, 3-second structure, 8–12 second detail?
+- [ ] Is the density useful rather than cramped?
+- [ ] Is there sufficient whitespace around the main idea and visual move?
+
+## Slide role discipline checks
+- [ ] Slide 1 creates curiosity without over-answering.
+- [ ] Slide 1 does not show the full framework, all consequences, and the full answer.
+- [ ] Slide 2 diagnoses the structural cause.
+- [ ] Slide 3 uses evidence, example, or mini-case that directly supports the argument.
+- [ ] Slide 4 makes the antithesis memorable and non-insulting.
+- [ ] Slide 5 reveals the mechanism: where value leaks, breaks, decays, or gets misread.
+- [ ] Slide 6 is the most save-worthy reusable model or tool.
+- [ ] Slide 7 uses structured artifact logic instead of a long prose quote.
+- [ ] Slide 8 creates profile intent without sounding like an ad.
+
+## Evidence language checks
+- [ ] Evidence is labeled in reader-friendly language.
+- [ ] Unsourced examples are not presented as research or statistics.
+- [ ] “Not a sourced statistic” is kept as an internal production note unless necessary.
+- [ ] Data, examples, and mini-cases directly support the argument.
+
+## Framework ownability checks
+- [ ] **Mechanism test:** the framework explains why the problem happens.
+- [ ] **Leakage / breakpoint test:** the framework shows where value is lost or decisions break.
+- [ ] **Behavior test:** the framework shows what strong operators do differently.
+- [ ] **Reuse test:** the reader can apply it in more than one situation.
+- [ ] **Ownability test:** it could not appear unchanged on a generic productivity page.
+- [ ] **Naming test:** the name is memorable and specific without becoming gimmicky.
+
+## Format and anti-monotony checks
+- [ ] The carousel format matches the idea depth: light, medium, or heavy.
+- [ ] The post does not force a heavy framework memo format when a field note, case lens, or checklist would work better.
+- [ ] The layout system feels recognizable without repeating the same slide formula.
+- [ ] The visual identity uses a premium neutral base plus a distinctive signature accent.

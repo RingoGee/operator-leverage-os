@@ -396,3 +396,78 @@ These are working targets, not guarantees. Over time, compare them against the c
 - **Profile visit rate:** 1.5–3% strong.
 - **Bio click rate:** track internally; early working target is 8–15% of profile visits.
 - **Engagement context:** benchmarks vary heavily by account size, niche, and format, so internal trend matters more than generic benchmarks.
+
+## V. Mobile-readable visual strategy memo standard
+The brand should keep structured high-signal text, but visual density must be controlled for mobile reading.
+
+### Dense vs cramped
+Dense is acceptable when hierarchy is strong. Cramped is not acceptable even if the thinking is good.
+
+A slide may contain more text when the text is structured through:
+
+- Headings.
+- Labels.
+- Callouts.
+- Matrices.
+- Tables.
+- Evidence cards.
+- Annotations.
+- “So what?” boxes.
+
+Every slide must preserve:
+
+- One dominant idea.
+- One main visual move.
+- A clear reading path.
+- Mobile legibility.
+- Sufficient whitespace.
+- A visible “so what” or implication when needed.
+
+Reject slides that require the reader to zoom in to understand the main point.
+
+### Mobile scan hierarchy
+Every slide should be readable in three layers:
+
+1. **1-second scan:** the main idea is clear from the headline and dominant visual.
+2. **3-second scan:** the structure of the argument is clear.
+3. **8–12 second read:** supporting details, annotations, evidence, and nuance are available.
+
+Body text and annotations must be large enough for Instagram mobile reading. Reject slides that look good on desktop but require zooming on mobile.
+
+## W. Framework ownability and scarcity
+Do not create a new named framework for every post. Heavy frameworks should be reserved for ideas with a real mechanism, reusable application, and strong behavior shift.
+
+### Framework quality tests
+A framework must pass:
+
+- **Mechanism test:** does it explain why the problem happens?
+- **Leakage / breakpoint test:** does it show where value is lost or decisions break?
+- **Behavior test:** does it show what strong operators do differently?
+- **Reuse test:** can the reader apply it in more than one situation?
+- **Ownability test:** could this appear on a generic productivity page? If yes, deepen or reject.
+- **Naming test:** does the framework have a memorable, specific name without becoming gimmicky?
+
+### Framework levels
+- **Core frameworks:** reusable intellectual property that can appear repeatedly across posts and products.
+- **Situational lenses:** lighter ways to frame a specific problem without pretending every post needs proprietary IP.
+- **Execution tools:** checklists, scorecards, matrices, templates, or prompts that apply a core framework.
+
+If a post invents a named framework without real mechanism or reuse potential, reject it.
+
+## X. Format portfolio discipline
+Not every carousel should use a heavy framework memo format. The brand needs a portfolio of content formats to avoid monotony across hundreds or thousands of posts.
+
+Format families:
+
+- **Flagship visual memo:** highest depth, higher density, strong argument, save + share objective.
+- **Diagnosis memo:** medium depth, root-cause clarity, save + share objective.
+- **Antithesis map:** medium density, default vs high-leverage contrast, share + comment objective.
+- **Decision tool:** medium density, practical choice logic, save + profile visit objective.
+- **Field note:** lighter density, sharp observation, share + comment objective.
+- **Case lens:** medium density, example-led credibility, save + share objective.
+- **Operator teardown:** heavier density, mechanism and critique, save + profile visit objective.
+- **One-page operating rule:** lighter density, behavior shift, save objective.
+- **Checklist / audit:** medium density, self-diagnosis, save + profile visit objective.
+- **Framework deep dive:** heavier density, reusable model, save + profile visit objective.
+
+A consistent brand system is good. A predictable slide formula is bad. Each post should choose visual density based on the idea: light for field notes, medium for antithesis maps and decision tools, and heavy for flagship visual memos and teardowns.

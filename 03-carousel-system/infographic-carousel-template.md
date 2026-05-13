@@ -217,3 +217,54 @@ Only include this if the paid asset helps the reader implement the free model fa
 - [ ] The final slide includes a behavior shift and profile-entry reason.
 - [ ] AI or other tools are secondary implementation layers.
 - [ ] Any paid bridge is optional and implementation-focused.
+
+## Mobile hierarchy plan
+Define these zones before design:
+
+- **Primary reading zone:** main idea / headline / dominant visual.
+- **Secondary support zone:** proof, contrast, mechanism, or explanation.
+- **Optional annotation zone:** clarifying notes or “so what?” boxes.
+- **Footer / brand zone:** quiet brand marker or profile reason.
+
+Check the slide in three layers:
+
+1. **1-second scan:** main idea is clear.
+2. **3-second scan:** argument structure is clear.
+3. **8–12 second read:** details and nuance are available.
+
+## Application slide artifact plan
+If the carousel includes an application slide, prefer structured artifacts over one long quote.
+
+Choose one artifact:
+
+- Weak update vs proof-converted update.
+- Before/after memo.
+- Decision note.
+- Weekly review card.
+- Proof file entry.
+- Stakeholder update block.
+- Appraisal evidence note.
+
+Break strong examples into:
+
+- Risk / problem:
+- Action taken:
+- Ownership / alignment:
+- Signal / proof:
+- Reuse moment:
+
+## Format family decision
+Choose the format family before drafting so density matches the idea:
+
+- Flagship visual memo.
+- Diagnosis memo.
+- Antithesis map.
+- Decision tool.
+- Field note.
+- Case lens.
+- Operator teardown.
+- One-page operating rule.
+- Checklist / audit.
+- Framework deep dive.
+
+Use light density for field notes, medium density for antithesis maps and decision tools, and heavier density only for flagship visual memos, teardowns, and framework deep dives.
