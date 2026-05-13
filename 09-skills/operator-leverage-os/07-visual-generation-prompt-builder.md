@@ -82,3 +82,18 @@ Final QA language to include:
 
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## Free Value Per Slide final prompt requirements
+Final visual prompts must include a “reader value per slide” control.
+
+Each slide prompt must state:
+
+- what the slide teaches;
+- what practical takeaway it gives;
+- what useful question, filter, rewrite, or lens the reader can use;
+- how the slide avoids looking premium but feeling thin.
+
+Add final tests:
+
+- Would the reader feel they received a useful operating lens for free?
+- If this slide were removed from the carousel, would the reader lose a specific useful idea?

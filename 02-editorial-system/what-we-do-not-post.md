@@ -146,3 +146,21 @@ Do not post:
 - Red/rust used for anything other than risk, leakage, false path, friction, or warning.
 
 Reject outputs that feel either too unrelated to the house style or so templated that the argument disappears.
+
+## Free-value rejection rules
+Reject or rework content that looks valuable but does not give useful reader value.
+
+Do not post:
+
+- visually elegant but low-value slides;
+- slides that only state the obvious;
+- slides that do not give a practical takeaway;
+- frameworks that sound impressive but are not usable;
+- generic startup or fundraising advice;
+- overcompressed jargon;
+- high-level opinions without diagnostic value;
+- carousels that make the reader admire the design but not remember the lesson;
+- slides that only label, decorate, or transition;
+- slides where the reader cannot say what they gained.
+
+Reject any carousel where a smart reader would not save it because it helps them think or act better.

@@ -94,3 +94,15 @@ Final batch QA:
 - Does the batch feel like one publication system?
 - Does each carousel still have a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## Free Value Per Slide batch requirements
+Batch outputs must vary frameworks and visual objects while preserving Brand Identity Lock v1.
+
+Before generating full prompt packages, check value density:
+
+- Does each carousel have a clear free value promise?
+- Does every slide deliver a takeaway, tool, question, diagnostic, rewrite, or practical lens?
+- Are frameworks useful and necessary rather than decorative?
+- Is the batch avoiding many shallow carousels produced quickly?
+
+Guardrail: do not produce a batch that looks polished but feels thin.

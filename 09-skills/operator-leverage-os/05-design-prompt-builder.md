@@ -94,3 +94,18 @@ Final QA:
 
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## Free Value Per Slide design requirements
+Design prompts must organize useful density elegantly.
+
+Every design prompt must specify how layout supports reader value, not just visual polish.
+
+The visual object must teach, diagnose, clarify, compare, filter, rewrite, or help the reader decide.
+
+Design prompts must preserve:
+
+- simple but informative language;
+- plain-language shadows;
+- practical takeaway visibility;
+- one dominant takeaway per dense slide;
+- useful density without clutter.

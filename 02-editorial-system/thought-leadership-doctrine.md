@@ -691,3 +691,149 @@ Final QA:
 
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## AI. Free Value Per Slide doctrine
+Every Operator Leverage OS carousel should feel like a premium free field manual. Each slide should provide a useful thinking tool, not just a decorative visual or transitional statement.
+
+Every slide must give the reader one useful takeaway. A slide should deliver at least one of:
+
+- a diagnostic question;
+- a decision filter;
+- a rewrite rule;
+- a before/after improvement;
+- a mistake to avoid;
+- a practical consequence;
+- a small framework;
+- a checklist;
+- a teardown lens;
+- a mental model;
+- a field note;
+- a rule of thumb;
+- a prompt-like self-audit question;
+- a sharper phrase the reader can reuse.
+
+Principle: **The reader should feel slightly advantaged after every slide.**
+
+Reject slides that only label, decorate, or transition without giving the reader usable value.
+
+## AJ. Unfair Free Advantage standard
+Operator Leverage OS free content should feel valuable enough that readers think:
+
+> “This is the kind of thinking people usually hide inside paid decks, consulting calls, founder office memos, or internal strategy reviews.”
+
+But it must not become overcomplicated.
+
+Rules:
+
+- Give away the mental model.
+- Give away the diagnostic.
+- Give away the operating question.
+- Give away the teardown logic.
+- Keep paid products, if any, for implementation systems, templates, workflows, and repeatable assets.
+- Free content should teach the thinking; paid assets may help implement the thinking.
+
+## AK. Simple but not shallow language rules
+Language should be simple, classy, precise, practical, calm, informed, non-hype, and non-jargon unless translated immediately.
+
+Rules:
+
+- Use plain English first.
+- Use formal terms only after the reader understands the practical meaning.
+- Pair abstract terms with plain-language shadows.
+- Avoid mechanical phrasing.
+- Avoid overcompressed consulting language.
+- Avoid sounding like generic startup advice.
+
+Examples:
+
+- Instead of “allocation readiness,” write “ready to earn investor conviction.”
+- Instead of “traction quality,” write “proof that growth is real, not noisy.”
+- Instead of “capital logic,” write “why this amount, and what it unlocks.”
+- Instead of “proof stack,” write “evidence that removes investor doubt layer by layer.”
+- Instead of “narrative architecture,” write “the structure that helps someone believe the case.”
+
+## AL. Slide-level value design
+Every slide should declare:
+
+- slide role;
+- reader value delivered;
+- practical takeaway;
+- plain-language point;
+- visual object;
+- why the visual object helps;
+- what the reader can do with this slide.
+
+If a slide cannot answer what the reader gained, rewrite it before design.
+
+## AM. Useful density without clutter
+More detail is allowed when it increases value.
+
+Rules:
+
+- Detail is good when it sharpens action, diagnosis, or judgment.
+- Detail is bad when it adds labels without improving understanding.
+- Use tables, grids, ladders, maps, annotations, and checklists to organize density.
+- Never hide weak thinking behind elegant design.
+- If a slide has more content, the layout must make the reading path obvious.
+- Every dense slide should have one dominant takeaway.
+
+## AN. Framework innovation rules
+The system may create new frameworks when needed, but new frameworks must pass:
+
+- **First-principles test:** does it explain why the problem happens?
+- **Practical test:** can the reader use it?
+- **Clarity test:** can it be explained in plain English?
+- **Visual test:** can it be shown intuitively?
+- **Originality test:** does it add a sharper lens than generic advice?
+- **Necessity test:** is a named framework actually needed, or would a plain thesis work better?
+
+Approved framework formats include:
+
+- diagnostic ladder;
+- doubt map;
+- proof stack;
+- decision filter;
+- conversion funnel;
+- leakage map;
+- narrative spine;
+- evidence hierarchy;
+- before/after rewrite;
+- operating checklist;
+- tension matrix;
+- consequence chain;
+- trust loop;
+- belief bridge;
+- attention gate;
+- IC memo reconstruction;
+- assumption stack;
+- proof gap map;
+- compounding loop;
+- retrieval map;
+- signal vs noise filter.
+
+## AO. Reader transformation rule
+Every carousel should move the reader from:
+
+- vague understanding to sharper diagnosis;
+- activity to proof;
+- information to judgment;
+- impressive to believable;
+- scattered thinking to operating model;
+- abstract ambition to practical next action.
+
+Every slide should contribute to that transformation.
+
+## AP. Slides should teach, not merely state
+Reject slides that:
+
+- only make a claim;
+- only repeat the headline visually;
+- use a framework name without teaching the framework;
+- look premium but do not make the reader smarter;
+- require too much interpretation;
+- leave the reader unable to say what they gained.
+
+Final doctrine tests:
+
+- Would the reader feel they received a useful operating lens for free?
+- If this slide were removed from the carousel, would the reader lose a specific useful idea?

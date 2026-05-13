@@ -571,3 +571,34 @@ Final QA:
 
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## Free Value Per Slide visual rule
+Every slide must visually deliver one useful takeaway. The visual object should teach, diagnose, clarify, compare, filter, rewrite, or help the reader decide.
+
+Reject slides that only decorate, label, or transition.
+
+Design should make free value easier to extract:
+
+- Use tables, grids, ladders, maps, annotations, and checklists to organize useful density.
+- Make one dominant takeaway obvious on every dense slide.
+- Use visual hierarchy to show what the reader should read first, understand second, and use third.
+- Never hide weak thinking behind elegant design.
+
+## Simple but informative visual language
+The visual system should support simple, classy, precise language.
+
+Rules:
+
+- Use plain English before formal terms.
+- Pair abstract terms with plain-language shadows.
+- Avoid mechanical or overcompressed consulting labels.
+- Use callouts to create reader advantage, not decoration.
+- Every slide should answer: what can the reader do with this?
+
+## Slide usefulness test
+Before design, ask:
+
+- What does this slide teach?
+- What useful question, rule, filter, rewrite, or lens does it give the reader?
+- Would the reader feel they received a useful operating lens for free?
+- If this slide were removed from the carousel, would the reader lose a specific useful idea?

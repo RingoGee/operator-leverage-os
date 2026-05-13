@@ -132,3 +132,42 @@ Prefer, in this order:
 5. named model only if the model adds clarity.
 
 Reject over-named frameworks, concepts that require too much explanation, or language that sounds smart but does not change action.
+
+## Free Value Per Slide rules
+Every approved mental model carousel must deliver standalone reader value on every slide.
+
+A slide must give the reader one usable takeaway: a diagnostic question, decision filter, rewrite rule, before/after improvement, mistake to avoid, practical consequence, small framework, checklist, teardown lens, mental model, field note, rule of thumb, self-audit question, or reusable phrase.
+
+The reader should feel slightly advantaged after every slide.
+
+## Unfair Free Advantage standard
+Free content should teach the thinking that others often hide inside paid decks, consulting calls, founder office memos, or internal strategy reviews.
+
+Give away:
+
+- the mental model;
+- the diagnostic;
+- the operating question;
+- the teardown logic.
+
+Reserve paid assets for implementation systems, templates, workflows, and repeatable assets.
+
+## Simple but not shallow language rules
+Use plain English first. Formal terms are allowed only after the practical meaning is clear.
+
+Pair abstract terms with plain-language shadows, avoid mechanical phrasing, avoid overcompressed consulting language, and avoid generic startup advice.
+
+## Framework innovation tests
+New frameworks are allowed when they create a sharper lens, but they must pass:
+
+- first-principles test;
+- practical test;
+- clarity test;
+- visual test;
+- originality test;
+- necessity test.
+
+If a named framework is not necessary, use a plain thesis, diagnostic, before/after, or operating question instead.
+
+## Reader transformation test
+Approve the idea only if it moves the reader from vague understanding to sharper diagnosis, activity to proof, information to judgment, impressive to believable, scattered thinking to operating model, or abstract ambition to practical next action.

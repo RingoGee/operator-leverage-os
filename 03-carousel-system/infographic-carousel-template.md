@@ -288,19 +288,42 @@ This is the default arc for important thought-leadership carousels, not a rigid 
 - **Visual move:** Behavior checklist, operating question, profile-entry slide, or “so what?” callout.
 - **Structured text:** One behavior shift plus category promise.
 
+## Free Value Per Slide plan
+Define the free value promise before slide writing.
+
+### Free advantage
+What useful thinking does the reader get for free that would normally sit inside a paid deck, consulting call, founder office memo, or internal strategy review?
+
+TBD
+
+### Slide-level value fields
+For every slide, define:
+
+- Slide role:
+- Reader value delivered:
+- Practical takeaway:
+- Plain-language point:
+- Framework or tool used:
+- Visual object:
+- Why the visual object helps:
+- What the reader can do with this slide:
+- Slide usefulness test: If this slide were removed, what specific useful idea would the reader lose?
+
+TBD
+
 ## Slide-by-slide argument sequence
 Use this section to draft the actual argument flow before writing final slide copy.
 
-| Slide | Argument role | Visual move | Structured text plan | Swipe reason | Notes |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Tension / question | TBD | TBD | TBD | TBD |
-| 2 | First-principles diagnosis | TBD | TBD | TBD | TBD |
-| 3 | Evidence / data / example | TBD | TBD | TBD | TBD |
-| 4 | Antithesis / contrast | TBD | TBD | TBD | TBD |
-| 5 | Hidden mechanism | TBD | TBD | TBD | TBD |
-| 6 | Framework or decision tool | TBD | TBD | TBD | TBD |
-| 7 | Application / worked example | TBD | TBD | TBD | TBD |
-| 8 | Behavior shift + profile reason | TBD | TBD | TBD | TBD |
+| Slide | Argument role | Reader value delivered | Practical takeaway | Plain-language point | Visual move | Swipe reason | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Tension / question | TBD | TBD | TBD | TBD | TBD | TBD |
+| 2 | First-principles diagnosis | TBD | TBD | TBD | TBD | TBD | TBD |
+| 3 | Evidence / data / example | TBD | TBD | TBD | TBD | TBD | TBD |
+| 4 | Antithesis / contrast | TBD | TBD | TBD | TBD | TBD | TBD |
+| 5 | Hidden mechanism | TBD | TBD | TBD | TBD | TBD | TBD |
+| 6 | Framework or decision tool | TBD | TBD | TBD | TBD | TBD | TBD |
+| 7 | Application / worked example | TBD | TBD | TBD | TBD | TBD | TBD |
+| 8 | Behavior shift + profile reason | TBD | TBD | TBD | TBD | TBD | TBD |
 
 ## Structured text plan
 Use high-signal text. Do not force ultra-minimal copy if context, evidence, contrast, or decision logic is needed.
@@ -355,6 +378,17 @@ Before design, confirm:
 - [ ] Plain-language shadows are included for major framework terms.
 - [ ] This feels like the same publication as other Operator Leverage OS posts, while still having a distinct argument.
 - [ ] A reader would recognize the brand without every carousel using the same template.
+
+## Free value final QA
+- [ ] Every slide delivers standalone reader value.
+- [ ] Every slide gives a takeaway, tool, question, rewrite, diagnostic, or practical lens.
+- [ ] The reader receives useful thinking for free.
+- [ ] Language is simple but not shallow.
+- [ ] Useful density is organized without clutter.
+- [ ] Abstract terms are translated into plain English.
+- [ ] Any new framework is necessary, useful, and first-principles based.
+- [ ] Would the reader feel they received a useful operating lens for free?
+- [ ] If any slide were removed, the reader would lose a specific useful idea.
 
 ## Final check before design
 - [ ] The carousel starts with tension, not a tool.

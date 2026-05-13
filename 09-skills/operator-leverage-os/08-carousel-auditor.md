@@ -105,3 +105,21 @@ Final audit questions:
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
 - Is the balance right: same brand, different argument?
+
+## Free Value Per Slide audit
+Audit whether each slide gives useful standalone reader value.
+
+For every slide, rate:
+
+- useful takeaway;
+- practical lens;
+- action or judgment improvement;
+- plain-language clarity;
+- useful density without clutter.
+
+Reject carousels that look good but feel thin.
+
+Final audit questions:
+
+- Would the reader feel they received a useful operating lens for free?
+- If this slide were removed from the carousel, would the reader lose a specific useful idea?

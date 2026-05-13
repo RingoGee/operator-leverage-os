@@ -7,6 +7,19 @@ This checklist follows `02-editorial-system/thought-leadership-doctrine.md`. A g
 
 ## Pass/fail checklist
 
+### Free Value Per Slide
+- [ ] Does every slide deliver standalone reader value?
+- [ ] Does every slide give a takeaway, tool, question, or practical lens?
+- [ ] Does the reader feel they received useful thinking for free?
+- [ ] Would the reader feel they received a useful operating lens for free?
+- [ ] If this slide were removed from the carousel, would the reader lose a specific useful idea?
+- [ ] Is the language simple but not shallow?
+- [ ] Is the slide informative without being cluttered?
+- [ ] Are abstract terms translated into plain English?
+- [ ] Is any new framework necessary and useful?
+- [ ] Does the carousel teach a first-principles explanation, not just a polished opinion?
+- [ ] Would a smart reader save this because it helps them think or act better?
+
 ### Brand Identity Lock v1
 - [ ] The carousel uses the locked Operator Leverage OS visual identity.
 - [ ] Palette stays inside Warm Ivory / Soft Paper White, Deep Charcoal / Near Black, Dark Forest Green, Slate Blue, Proof Orange / Controlled Amber, Muted Red / Rust, and Deep Green.
@@ -96,6 +109,15 @@ This checklist follows `02-editorial-system/thought-leadership-doctrine.md`. A g
 
 ## Red flags: reject or rework
 Reject or rework the carousel if:
+
+- A slide looks elegant but delivers low reader value.
+- A slide only states the obvious.
+- A slide does not give a practical takeaway.
+- A framework sounds impressive but is not usable.
+- The language is generic startup/fundraising advice.
+- The slide uses overcompressed jargon.
+- The carousel makes the reader admire the design but not remember the lesson.
+- The carousel gives high-level opinions without diagnostic value.
 
 - The palette shifts randomly from the locked brand system.
 - Typography personality changes from post to post.
@@ -208,6 +230,14 @@ Generic clean infographics cannot pass. A carousel must earn approval through di
 - [ ] Is the practical consequence explicit?
 - [ ] Can the reader summarize the carousel in one sentence?
 - [ ] Is the carousel useful even without admiring the design?
+
+## Framework innovation checks
+- [ ] **First-principles test:** the framework explains why the problem happens.
+- [ ] **Practical test:** the reader can use it.
+- [ ] **Clarity test:** it can be explained in plain English.
+- [ ] **Visual test:** it can be shown intuitively.
+- [ ] **Originality test:** it adds a sharper lens than generic advice.
+- [ ] **Necessity test:** a named framework is actually needed; a plain thesis would not work better.
 
 ## Framework ownability checks
 - [ ] **Mechanism test:** the framework explains why the problem happens.

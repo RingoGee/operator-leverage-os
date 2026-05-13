@@ -456,3 +456,102 @@ Before selecting a visual object, ask:
 - Does it stay inside the same Operator Leverage OS publication style?
 - Is it distinct enough for this argument without becoming a new visual identity?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## High-value framework objects
+Use these when a carousel needs to feel like a premium free field manual, not just a polished visual.
+
+### Investor doubt map
+- **When to use:** Fundraising, investor updates, diligence, board materials, or capital narrative content.
+- **What it explains:** Which unanswered questions are blocking investor conviction.
+- **How it creates reader value:** Helps the reader audit a deck or update by doubt removed, not slides completed.
+- **What to avoid:** Do not turn it into a generic objections list without decision context.
+
+### Proof removal machine
+- **When to use:** When a piece needs to show how evidence removes uncertainty step by step.
+- **What it explains:** How raw claims become believable proof.
+- **How it creates reader value:** Gives readers a repeatable way to convert claims into evidence-backed communication.
+- **What to avoid:** Avoid mechanical factory visuals that feel cold or overcomplicated.
+
+### Belief bridge
+- **When to use:** When a reader must move a stakeholder from interest to conviction.
+- **What it explains:** The gap between what the audience currently believes and what they must believe next.
+- **How it creates reader value:** Clarifies what communication must prove before action happens.
+- **What to avoid:** Do not use it as a vague “journey” metaphor.
+
+### Decision memo trail
+- **When to use:** Executive updates, founder office memos, investor memos, or strategy recommendations.
+- **What it explains:** How observations become a decision-ready trail.
+- **How it creates reader value:** Helps the reader structure proof, context, implication, and recommendation.
+- **What to avoid:** Do not make it look like a document archive without a decision path.
+
+### IC committee memory map
+- **When to use:** Venture, investment committee, fundraising, or internal approval content.
+- **What it explains:** What a decision group needs to remember and defend after the meeting.
+- **How it creates reader value:** Shows founders what must be memorable, not just impressive.
+- **What to avoid:** Do not overclaim how investment committees work without sourcing or caveats.
+
+### Evidence hierarchy
+- **When to use:** Research-backed content, investor proof, performance updates, or strategic claims.
+- **What it explains:** Which evidence is strongest, weakest, or only directional.
+- **How it creates reader value:** Helps readers stop treating all proof points as equal.
+- **What to avoid:** Do not create false precision or fake scoring.
+
+### Claim-to-proof ladder
+- **When to use:** When a slide needs to turn a broad claim into evidence-backed belief.
+- **What it explains:** The steps from claim → signal → evidence → implication.
+- **How it creates reader value:** Gives the reader a rewrite pattern for stronger communication.
+- **What to avoid:** Avoid adding too many rungs or abstract labels.
+
+### Narrative-to-conviction pipeline
+- **When to use:** Fundraising decks, strategy narratives, leadership communication, or stakeholder persuasion.
+- **What it explains:** How narrative becomes believable enough for action.
+- **How it creates reader value:** Helps readers diagnose where a story loses conviction.
+- **What to avoid:** Avoid generic funnel visuals without specific proof stages.
+
+### Uncertainty reduction loop
+- **When to use:** Diligence, decision-making, research, or operator communication content.
+- **What it explains:** How each proof point should reduce a specific uncertainty.
+- **How it creates reader value:** Helps readers decide what evidence to add next.
+- **What to avoid:** Do not make it a decorative circular process.
+
+### Follow-up question loop
+- **When to use:** Investor updates, board updates, sales decks, stakeholder memos, or unclear communication diagnosis.
+- **What it explains:** Why unclear proof creates repeated follow-up questions.
+- **How it creates reader value:** Helps readers identify what their current asset failed to answer.
+- **What to avoid:** Do not blame the reader; show the communication gap.
+
+### Signal quality matrix
+- **When to use:** Traction, growth, hiring, performance, or evidence interpretation content.
+- **What it explains:** The difference between noisy activity and reliable signal.
+- **How it creates reader value:** Gives readers a judgment filter for interpreting metrics or examples.
+- **What to avoid:** Avoid generic 2x2 axes that do not change the decision.
+
+### Capital allocation filter
+- **When to use:** Fundraising, investor communication, budgeting, prioritization, or capital strategy.
+- **What it explains:** Why some opportunities become fundable and others stay merely interesting.
+- **How it creates reader value:** Helps readers connect proof quality to allocation decisions.
+- **What to avoid:** Do not imply capital decisions are simple or automatic.
+
+### Proof gap audit
+- **When to use:** Deck reviews, investor updates, performance reviews, or project visibility content.
+- **What it explains:** The missing proof between what someone claims and what the audience needs to believe.
+- **How it creates reader value:** Gives readers a self-audit tool they can use immediately.
+- **What to avoid:** Avoid making the audit feel punitive or overly complex.
+
+### Before/after rewrite anatomy
+- **When to use:** Communication improvement, investor narrative, executive updates, positioning, or stakeholder messaging.
+- **What it explains:** What changed between weak and strong language.
+- **How it creates reader value:** Gives readers a reusable rewrite pattern.
+- **What to avoid:** Do not make the “after” sound like jargon or fake precision.
+
+### Traction proof grid
+- **When to use:** Startup growth, GTM, investor updates, or performance proof content.
+- **What it explains:** Whether traction is activity, signal, repeatability, or proof.
+- **How it creates reader value:** Helps readers present growth as evidence, not noise.
+- **What to avoid:** Do not treat all metrics as equally meaningful.
+
+### “What this slide proves” annotation system
+- **When to use:** Dense carousels, evidence slides, teardown slides, or framework slides.
+- **What it explains:** The exact useful point a slide contributes to the argument.
+- **How it creates reader value:** Makes every slide's purpose explicit and reduces interpretation cost.
+- **What to avoid:** Do not over-annotate or state the obvious.

@@ -119,3 +119,20 @@ Final QA:
 
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## Free Value Per Slide trend-package requirements
+Trend-based content must turn research into useful reader advantage, not trend commentary.
+
+Each trend package must teach action, diagnosis, or judgment.
+
+Require:
+
+- free value promise;
+- reader value delivered per slide;
+- simple but informative language;
+- plain-language shadows;
+- useful density without clutter;
+- framework necessity test;
+- first-principles framework innovation only where needed.
+
+Guardrail: reject “market update” posts that do not teach action, diagnosis, or judgment.

@@ -84,3 +84,10 @@ Guardrails:
 - Do not move chrome positions.
 - Do not create a new visual identity for a single carousel.
 - Vary slide composition, visual object, and argument structure instead.
+
+## Free Value Per Slide execution requirements
+Prompt packs must preserve the free-value-per-slide doctrine.
+
+Every slide prompt should include what the slide teaches, diagnoses, clarifies, or helps the reader do.
+
+Guardrail: do not create empty premium-looking slides. A polished slide with no useful takeaway fails.

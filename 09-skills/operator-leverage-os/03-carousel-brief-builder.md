@@ -111,3 +111,17 @@ The brief must state:
 - Plain-language shadows for major framework terms.
 
 Guardrail: visual variation must happen through slide archetype, visual metaphor, framework intensity, evidence treatment, or diagram type — not through a new palette, typography personality, chrome system, or surface style.
+
+## Free Value Per Slide requirements
+Every brief must define the free value promise of the carousel.
+
+Briefs must include:
+
+- the unfair free advantage: what useful thinking the reader receives for free;
+- slide-level reader value notes;
+- practical takeaway for each slide;
+- plain-language shadows for abstract terms;
+- the framework or tool used on each slide, if any;
+- a slide usefulness test: if this slide were removed, what specific useful idea would the reader lose?
+
+Reject brief directions that produce thin, transitional, or merely decorative slides.

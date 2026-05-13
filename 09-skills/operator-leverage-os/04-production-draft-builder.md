@@ -98,3 +98,16 @@ Final QA:
 
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
+
+## Free Value Per Slide requirements
+Every production draft slide must state what the reader gains.
+
+For each slide, include:
+
+- reader value delivered;
+- practical takeaway;
+- plain-language point;
+- what the slide teaches or helps the reader do;
+- how useful density is organized without clutter.
+
+Reject thin, transitional, or merely decorative slides before moving to design prompting.
