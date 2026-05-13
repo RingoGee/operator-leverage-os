@@ -12,3 +12,9 @@ Use this repo as the operating base for the brand.
 
 ## Rule of thumb
 If an idea sounds like a tool tutorial, convert it into a thinking framework first.
+
+## Codex skills
+Reusable Codex workflow instructions live in `09-skills/README.md`. Use them when you want Codex to run a specific repeatable workflow, such as research scanning, idea generation, carousel brief creation, visual output auditing, analytics review, or product bridge review.
+
+## Research bank
+Use `08-research-bank/` for source logs, claim banks, example banks, and research-to-content mapping before turning research into topic ideas or carousel briefs.
