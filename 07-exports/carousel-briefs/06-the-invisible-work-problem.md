@@ -72,20 +72,20 @@ The Proof Conversion Funnel:
 3. **Connected to outcome** — the work is linked to a business, team, customer, stakeholder, or process result.
 4. **Verified by signal** — the claim is supported by a metric, message, artifact, before/after change, decision, or stakeholder response.
 5. **Stored as proof** — the evidence is placed somewhere it can be retrieved.
-6. **Reused for leverage** — the proof is used in updates, reviews, decisions, handoffs, case studies, or product thinking.
+6. **Reused for leverage** — the proof is reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
 
 ## Applied example
-A growth operator improves onboarding drop-off by coordinating customer notes, product fixes, and lifecycle emails.
+An operator uses the weekly stakeholder review to show how invisible coordination reduced escalation risk.
 
-- **Weak version:** “Worked on onboarding improvements.”
-- **Proof-converted version:** “Reduced the handoff gap between signup and activation by mapping the top three drop-off reasons, coordinating two product fixes, updating the welcome sequence, and capturing before/after activation signals.”
+- **Weak update:** “Worked on reducing customer escalations this week.”
+- **Proof-converted update:** “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.”
 
-The second version is not louder. It is easier to verify.
+The second version is not louder. It is easier to verify, remember, and reuse.
 
 ## Behavior shift
-Before reporting work, ask:
+Before your next update, ask:
 
-> What proof did this create?
+> What proof did this work create?
 
 Then capture one proof signal weekly:
 
@@ -96,7 +96,7 @@ Then capture one proof signal weekly:
 - Where can it be reused later?
 
 ## Profile-entry reason
-More visual operating systems for people doing work that needs to be seen, remembered, and reused.
+More operator leverage systems for people turning invisible work into visible proof.
 
 ## Optional bio-click bridge
 Do not force a bio-click bridge in the main carousel.
@@ -118,21 +118,21 @@ Do not force a bio-click bridge in the main carousel.
 ## Slide-by-slide argument sequence
 | Slide | Argument role | Visual move | Structured text plan | Swipe reason | Notes |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Tension / question | Tension visual | “Useful work does not disappear because it is small. It disappears because it is not converted into proof.” | Creates a status threat and unresolved explanation. | Do not summarize the full funnel yet. |
+| 1 | Tension / question | Tension visual | “The work that gets remembered is not always the work that mattered most. It is the work that became proof.” | Creates a stronger status threat and unresolved explanation. | Do not summarize the full funnel yet. |
 | 2 | First-principles diagnosis | Root-cause map | “Organizations do not remember effort. They remember proof, decisions, outcomes, and evidence that can be reused.” | Explains why the problem exists. | Show weak organizational memory and limited attention. |
 | 3 | Evidence / data / example | Evidence card / mini-case | Two operators, same project: memory-based review vs proof trail review. Mark as example-based evidence. | Grounds the claim without fake statistics. | Make it concrete, not academic. |
 | 4 | Antithesis / contrast | Antithesis table | Default operator vs high-leverage operator. | Creates shareability through recognition. | Keep tone respectful. |
 | 5 | Hidden mechanism | Leakage map / waterfall | Work loses value when not captured, connected, verified, stored, or reused. | Reveals the mechanism behind invisible work. | This is the “aha” slide. |
-| 6 | Framework or decision tool | Funnel model | The Proof Conversion Funnel: work done → captured → connected → verified → stored → reused. | Gives a reusable model worth saving. | Show value narrowing unless proof is converted. |
-| 7 | Application / worked example | Worked example / proof trail | Onboarding improvement example: activity statement vs proof-converted statement. | Shows how the model changes real work communication. | Keep it specific but not too detailed. |
-| 8 | Behavior shift + profile reason | Behavior checklist / profile-entry slide | “Before reporting work, ask: What proof did this create?” + category promise. | Converts insight into habit and profile visit. | Keep Proof Stack out except optional future note if needed. |
+| 6 | Framework or decision tool | Funnel model | The Proof Conversion Funnel: work done → captured → connected → verified → stored → reused. Add reuse moments as annotation. | Gives a reusable model worth saving. | Show value narrowing unless proof is converted. |
+| 7 | Application / worked example | Worked example / proof trail | Weekly stakeholder update example: weak update vs proof-converted update. | Shows how the model changes real work communication. | Keep it specific but not too detailed. |
+| 8 | Behavior shift + profile reason | Behavior checklist / profile-entry slide | “Before your next update, ask: what proof did this work create?” + category promise. | Converts insight into habit and profile visit. | Keep Proof Stack out except optional future note if needed. |
 
 ## Structured text plan
 - **Slide-level text style:** Structured, memo-like, high-signal text with short headings, labels, and compact explanations.
 - **Key labels:** Effort, proof, outcome, signal, memory, evidence trail, leverage, reusable.
 - **Evidence wording:** “Example-based evidence: same project, different proof trail.”
 - **Antithesis wording:** “Default operator” vs “High-leverage operator.”
-- **Behavior-shift wording:** “Before reporting work, ask: What proof did this create?”
+- **Behavior-shift wording:** “Before your next update, ask: what proof did this work create?”
 - **Text to avoid:** “Just work smarter,” “document everything,” “hack your appraisal,” “use AI to prove your work,” and any invented statistic.
 
 ## Visual moves by slide

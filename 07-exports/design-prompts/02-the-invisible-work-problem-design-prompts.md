@@ -12,6 +12,8 @@ The central argument:
 
 > Useful work does not disappear because it is small. It disappears because it is not converted into proof.
 
+Slide 1 should express this with sharper stopping power: the work that gets remembered is not always the work that mattered most; it is the work that became proof.
+
 The visual system should show how work loses value when it is not captured, connected to outcomes, verified by signals, stored as proof, and reused for leverage.
 
 Use different visual moves across slides:
@@ -63,10 +65,10 @@ Use structured text. Do not over-optimize for ultra-minimal text. The text shoul
 
 ## Slide-by-slide visual directions
 ### Slide 1: Tension / question
-- **Visual direction:** Show useful work fading before it reaches a review, update, or decision room.
-- **Layout:** Split field. Left side shows real work artifacts; right side shows weak memory or faint stakeholder recall.
-- **Key visual cue:** Value trail fading unless converted into proof.
-- **Text hierarchy:** Large tension headline, one supporting line, one small annotation.
+- **Visual direction:** Show the gap between work that mattered and work that got remembered.
+- **Layout:** Split field. Left side shows meaningful work artifacts; right side shows the smaller subset that became proof and reached stakeholder memory.
+- **Key visual cue:** Remembered work is the work that became proof.
+- **Text hierarchy:** Large status-threat headline, one tension line, one small annotation.
 - **Avoid:** Generic laptop illustration, motivational quote, or full funnel reveal.
 
 ### Slide 2: First-principles diagnosis
@@ -102,12 +104,13 @@ Use structured text. Do not over-optimize for ultra-minimal text. The text shoul
 - **Layout:** Funnel or staged conversion system with six stages: Work done, Captured, Connected to outcome, Verified by signal, Stored as proof, Reused for leverage.
 - **Key visual cue:** Proof quality increases as work moves through the funnel.
 - **Add stage questions:** What moved? Where is it recorded? What outcome changed? What signal supports it? Where can it be retrieved? Where will it create leverage?
+- **Reuse annotation:** Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
 - **Avoid:** Making it look like a sales funnel or reducing it to a generic three-step chain.
 
 ### Slide 7: Application / worked example
 - **Visual direction:** Before/after update plus proof trail.
-- **Layout:** Left panel: weak activity update. Right panel: proof-converted update with highlighted components. Bottom strip: note → artifact → signal → update → review.
-- **Key visual cue:** The same work becomes more useful when proof is attached.
+- **Layout:** Left panel: weak weekly update. Right panel: proof-converted stakeholder update with highlighted components. Bottom strip: note → artifact → signal → update → review.
+- **Key visual cue:** The same work becomes more useful when proof is attached and reused in a review moment.
 - **Text hierarchy:** Clear before/after labels with highlighted proof elements.
 - **Avoid:** Invented metrics, inflated impact language, or AI tool references.
 
@@ -115,7 +118,7 @@ Use structured text. Do not over-optimize for ultra-minimal text. The text shoul
 - **Visual direction:** Memo-style behavior checklist and profile-entry slide.
 - **Layout:** Central operating question, five small checklist items, one low-pressure profile-entry line.
 - **Key visual cue:** The reader leaves with a weekly operating habit.
-- **Profile-entry line:** “More visual operating systems for people doing work that needs to be seen, remembered, and reused.”
+- **Profile-entry line:** “More operator leverage systems for people turning invisible work into visible proof.”
 - **Avoid:** Hard selling, payment references, product CTA, or generic “save this” ending only.
 
 ## Evidence slide direction
@@ -153,21 +156,22 @@ Use the six-stage model:
 5. Stored as proof
 6. Reused for leverage
 
-The funnel should communicate that value leaks when stages are skipped and leverage increases when proof is reusable.
+The funnel should communicate that value leaks when stages are skipped and leverage increases when proof is reusable. Keep the reuse layer concrete: weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
 
 ## Application slide direction
-The application slide should show how proof conversion changes an actual operator update.
+The application slide should show how proof conversion changes an actual weekly stakeholder update.
 
 Do not create fake results. Use a qualitative before/after:
 
-- Weak: “Worked on onboarding improvements.”
-- Stronger: “Reduced the handoff gap between signup and activation by mapping the top three drop-off reasons, coordinating two product fixes, updating the welcome sequence, and capturing before/after activation signals.”
+- Weak: “Worked on reducing customer escalations this week.”
+- Stronger: “Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.”
 
 Highlight the structure inside the stronger update:
 
-- Problem
-- Action
-- Outcome direction
+- Risk or problem
+- Actions taken
+- Ownership alignment
+- Process gaps closed
 - Signal
 
 ## Final profile-entry slide direction
@@ -175,11 +179,11 @@ The final slide must combine behavior shift and profile-entry reason.
 
 The core behavior shift:
 
-> Before reporting work, ask: What proof did this create?
+> Before your next update, ask: what proof did this work create?
 
 The profile-entry reason:
 
-> More visual operating systems for people doing work that needs to be seen, remembered, and reused.
+> More operator leverage systems for people turning invisible work into visible proof.
 
 Keep the tone calm and category-led. If a future bridge is included, it should be a small optional note, not the main CTA.
 

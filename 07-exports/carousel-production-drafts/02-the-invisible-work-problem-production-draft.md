@@ -5,15 +5,17 @@ This production draft rebuilds the first carousel system around a sharper though
 
 > Useful work does not disappear because it is small. It disappears because it is not converted into proof.
 
+Slide 1 sharpens that thesis into a stronger stopping-power claim: the work that gets remembered is not always the work that mattered most; it is the work that became proof.
+
 This is not a designed slide file. It is a structured production direction for an 8-slide Instagram carousel.
 
 ## Performance logic
 - **Primary action objective:** Save + share.
-- **Stopping-power mechanism:** Status threat for capable operators whose work is useful but not remembered.
+- **Stopping-power mechanism:** Status threat for capable operators: the work that gets remembered may not be the work that mattered most, but the work that became proof.
 - **Swipe-through logic:** Each slide reveals a deeper layer: tension → cause → example → contrast → mechanism → framework → application → behavior shift.
 - **Save trigger:** The Proof Conversion Funnel and weekly proof question are reusable.
 - **Share trigger:** The antithesis names a common workplace frustration without blaming the reader.
-- **Profile-entry trigger:** The final slide points to more visual operating systems for people whose work needs to be seen, remembered, and reused.
+- **Profile-entry trigger:** The final slide points to more operator leverage systems for people turning invisible work into visible proof.
 - **Optional bio-click bridge:** Intentionally soft. This may later connect to an Invisible Work Audit or Proof Stack waitlist, but the carousel should not sell directly.
 
 ## Slide 1: Tension / question
@@ -21,14 +23,14 @@ This is not a designed slide file. It is a structured production direction for a
 Tension / question
 
 ### Slide objective
-Stop the right reader by naming a status-relevant workplace problem: useful work can disappear if it is not converted into proof.
+Stop the right reader with a status threat: remembered work is not always the work that mattered most; it is the work that became proof.
 
 ### Structured slide text direction
 **Headline:**
-Useful work does not disappear because it is small.
+The work that gets remembered is not always the work that mattered most.
 
 **Tension line:**
-It disappears because it is not converted into proof.
+It is the work that became proof.
 
 **Small annotation:**
 Invisible work is usually a proof problem, not an effort problem.
@@ -37,11 +39,11 @@ Invisible work is usually a proof problem, not an effort problem.
 Tension visual
 
 ### Visual layout direction
-Show a piece of “work done” fading before it reaches a review, update, or decision room. Use a split visual:
+Show the gap between work that mattered and work that got remembered. Use a split visual:
 
-- Left: work exists as effort, notes, meetings, decisions, fixes.
-- Right: stakeholder memory only sees a faint trace.
-- Add a small label: “Value lost before it becomes evidence.”
+- Left: meaningful work exists as effort, notes, meetings, decisions, fixes, and coordination.
+- Right: only the smaller subset that became proof reaches stakeholder memory.
+- Add a small label: “Remembered work is work that became evidence.”
 
 ### What this slide adds that the previous slide did not
 This is the opening slide. It creates the central tension and reframes invisible work as a proof-conversion issue.
@@ -230,6 +232,9 @@ The Proof Conversion Funnel
 **Funnel stages:**
 Work done → Captured → Connected to outcome → Verified by signal → Stored as proof → Reused for leverage
 
+**Reuse annotation:**
+Reused in weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
+
 **Operating note:**
 The goal is not to brag more. The goal is to make useful work easier to verify.
 
@@ -246,7 +251,7 @@ Use a funnel or staged conversion system. Each stage should show the conversion 
 5. **Stored:** Where can it be retrieved?
 6. **Reused:** Where will it create leverage?
 
-Show that proof gets stronger as it moves through the funnel.
+Show that proof gets stronger as it moves through the funnel. Keep reuse moments as compact support text: weekly updates, stakeholder reviews, appraisal narratives, decision memos, handoffs, and case studies.
 
 ### What this slide adds that the previous slide did not
 It turns the hidden mechanism into a practical framework the reader can reuse.
@@ -261,17 +266,17 @@ It turns the hidden mechanism into a practical framework the reader can reuse.
 Application / worked example
 
 ### Slide objective
-Show how the Proof Conversion Funnel changes a real operator update.
+Show how the Proof Conversion Funnel changes a weekly stakeholder update.
 
 ### Structured slide text direction
 **Headline:**
-What proof conversion sounds like at work.
+What proof conversion sounds like in a weekly review.
 
 **Weak update:**
-“Worked on onboarding improvements.”
+“Worked on reducing customer escalations this week.”
 
 **Proof-converted update:**
-“Reduced the handoff gap between signup and activation by mapping the top three drop-off reasons, coordinating two product fixes, updating the welcome sequence, and capturing before/after activation signals.”
+“Reduced repeat escalation risk by identifying the top 3 recurring handoff gaps, aligning support and product on ownership, closing 2 process gaps, and capturing before/after escalation signals for next week’s review.”
 
 **So what:**
 Same work. More reusable proof.
@@ -282,12 +287,12 @@ Worked example / proof trail
 ### Visual layout direction
 Create a before/after communication panel:
 
-- Left: one vague activity statement.
-- Right: proof-converted statement with highlighted pieces: problem, action, outcome, signal.
+- Left: one vague weekly activity statement.
+- Right: proof-converted stakeholder update with highlighted pieces: risk, handoff gaps, ownership alignment, process gaps closed, before/after signals.
 - Beneath the right side, show a small proof trail: note → artifact → signal → update → review.
 
 ### What this slide adds that the previous slide did not
-It demonstrates how the framework changes actual workplace communication.
+It demonstrates how the framework changes actual workplace communication in a stakeholder update or weekly review.
 
 ### What to avoid
 - Do not turn the example into a fake case study with invented metrics.
@@ -303,10 +308,10 @@ Leave the reader with a practical operating question and a reason to visit or fo
 
 ### Structured slide text direction
 **Headline:**
-Before reporting work, ask:
+Before your next update, ask:
 
 **Core question:**
-What proof did this create?
+What proof did this work create?
 
 **Weekly proof check:**
 - What changed?
@@ -316,7 +321,7 @@ What proof did this create?
 - Where can it be reused later?
 
 **Profile-entry line:**
-More visual operating systems for people doing work that needs to be seen, remembered, and reused.
+More operator leverage systems for people turning invisible work into visible proof.
 
 ### Visual move
 Behavior checklist / profile-entry slide
