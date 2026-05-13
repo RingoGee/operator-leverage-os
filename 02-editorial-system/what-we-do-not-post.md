@@ -1,7 +1,9 @@
 # What We Do Not Post
 
 ## Purpose of this file
-Use this file as a hard rejection list. If an idea falls into one of these categories, reject it or reframe it into an operator mental model.
+Use this file as a hard rejection list. If an idea falls into one of these categories, reject it or reframe it into an argument-led operator mental model.
+
+This file follows `02-editorial-system/thought-leadership-doctrine.md`. The brand should not produce generic clean content. It should produce evidence-backed, first-principles, high-context operator thinking.
 
 ## Hard rejection list
 Do not post:
@@ -13,11 +15,24 @@ Do not post:
 - Motivation-only posts
 - Generic productivity hacks
 - Tool tutorials with no mental model
-- Text-heavy listicles
+- Text-heavy listicles with no argument
+- Ultra-minimal slides that look clean but say little
 - Founder hustle content
 - Corporate jargon without operator utility
 - Trend commentary with no decision principle
 - Income, speed, or outcome claims without proof
+- Generic frameworks that only rename common sense
+- Visuals that repeat the headline without adding analysis
+- One-dimensional advice with no antithesis
+- Carousels that prescribe before diagnosing
+- Frameworks with no mechanism
+- Repetitive slides using the same visual with different wording
+- Consulting-style visuals used decoratively without real thinking
+- Evidence slides with random or unrelated statistics
+- Low-context carousels that look premium but say little
+- Hooks that summarize instead of creating tension
+- Carousels with no profile-entry reason
+- Carousels optimized for clicks at the expense of thinking quality
 
 ## Reframe examples
 | Reject this | Reframe as |
@@ -28,6 +43,8 @@ Do not post:
 | Wake up at 5 AM to win | The weekly control panel: how to reduce recurring decisions without adding grind |
 | Best productivity apps for managers | The visibility panel: how managers turn work into proof and stakeholder clarity |
 | Use this tool to automate reports | The MIS decision layer: what a report must clarify before any tool matters |
+| Work → Impact → Proof | Why work loses value when it is not captured, connected to outcomes, verified by signals, stored as proof, and reused in decisions |
+| Here are 5 dashboard tips | Why dashboards fail when they track information without clarifying which decision should change |
 
 ## Editorial rejection test
 Reject or reframe the idea if:
@@ -36,6 +53,14 @@ Reject or reframe the idea if:
 2. The post could belong to any AI automation page.
 3. The post promises shortcuts instead of teaching leverage.
 4. The idea has no hidden thinking flaw.
-5. The advice cannot become a visual object.
-6. The post would attract prompt collectors instead of serious operators.
-7. The content motivates but does not improve thinking, communication, decisions, or systems.
+5. The idea has no first-principles diagnosis.
+6. The advice prescribes before it explains why the problem exists.
+7. The framework labels common sense instead of explaining a mechanism.
+8. The visual is decorative rather than analytical.
+9. The evidence is vague, invented, unrelated, or used as decoration.
+10. The antithesis is missing.
+11. The content motivates but does not improve thinking, communication, decisions, or systems.
+12. The post would attract prompt collectors instead of serious operators.
+13. The hook gives away the summary instead of creating a reason to continue.
+14. The final slide gives no behavior shift or profile-entry reason.
+15. The post chases clicks while weakening trust.

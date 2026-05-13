@@ -25,11 +25,13 @@ A single chain or pipeline showing:
 
 Use the same chain throughout the carousel. Each slide should reveal, repair, or apply one part of the chain rather than switching to unrelated visuals.
 
+Cover/title direction should be problem-led, with **Work-to-Impact Chain** kept as the model name. Direction: “Useful work is easy to miss.” This is a direction for the cover, not final polished slide copy.
+
 ## 5. Slide-by-slide production draft
 
 ### Slide 1: Problem frame
 - **Slide role:** Show the audience's familiar problem: they are doing work, but the value is scattered and hard to explain.
-- **Minimal slide text:** Useful work often disappears into scattered updates.
+- **Minimal slide text:** Useful work is easy to miss.
 - **Visual layout direction:** Show several loose work fragments around a central operator: tasks, reports, follow-ups, meetings, and fixes.
 - **Visual object notes:** The chain is not connected yet. This slide should feel like disconnected pieces before the system appears.
 - **Design emphasis:** Messy inputs, low clarity, no obvious value path.
@@ -53,56 +55,58 @@ Use the same chain throughout the carousel. Each slide should reveal, repair, or
 
 ### Slide 4: Full chain explanation
 - **Slide role:** Explain what each part of the chain means using labels, not paragraphs.
-- **Minimal slide text:** Work done. Output. Outcome. Proof. Leverage.
+- **Minimal slide text:** Did → Shipped → Changed → Proved → Unlocked.
 - **Visual layout direction:** Keep the same chain and add short labels under each stage.
-- **Visual object notes:** Each stage should have one plain-language prompt:
-  - Work done: What did you do?
-  - Output: What changed in the work artifact?
-  - Outcome: What changed for the team or stakeholder?
-  - Proof: What evidence shows it?
-  - Leverage: What decision, trust, or opportunity did it create?
+- **Visual object notes:** Visible labels should be only 1-2 words each: **Did → Shipped → Changed → Proved → Unlocked**. Keep the longer prompts in production notes only:
+  - Did: What did you do?
+  - Shipped: What changed in the work artifact?
+  - Changed: What changed for the team or stakeholder?
+  - Proved: What evidence shows it?
+  - Unlocked: What decision, trust, or opportunity did it create?
 - **Design emphasis:** The chain should carry the explanation without needing a long caption.
 - **What not to do:** Do not turn the slide into a dense worksheet.
 
 ### Slide 5: Applied example
 - **Slide role:** Show one realistic example moving through the chain.
-- **Minimal slide text:** Example: reporting cleanup → clearer decisions.
-- **Visual layout direction:** Run one example through the same chain.
+- **Minimal slide text:** Example: lead handover → cleaner follow-up.
+- **Visual layout direction:** Run one stakeholder/update example through the same chain.
 - **Visual object notes:** Example flow:
-  - Work done: Cleaned the reporting process
-  - Output: Fewer errors and clearer weekly report
-  - Outcome: Stakeholders reviewed faster
-  - Proof: Fewer clarification loops
-  - Leverage: More trust in the operator's judgment
+  - Did: Cleaned up the lead handover process
+  - Shipped: New handover tracker
+  - Changed: Fewer stale leads
+  - Proved: Follow-up gaps reduced from repeated clarifications to one clear weekly review
+  - Unlocked: Stronger stakeholder trust and cleaner performance evidence
 - **Design emphasis:** Before/after clarity without over-explaining.
 - **What not to do:** Do not write a full case study. Keep it as a simple operator example.
 
 ### Slide 6: Behavior shift
 - **Slide role:** Show the practical shift from tracking activity to capturing proof.
-- **Minimal slide text:** Do not just track activity. Capture proof.
+- **Minimal slide text:** Visibility is the benefit. Proof is the system.
 - **Visual layout direction:** Split screen: Activity list on the left, Work-to-Impact Chain on the right.
 - **Visual object notes:** The right side should look calmer and more decision-ready.
 - **Design emphasis:** Shift from scattered work to structured proof.
 - **What not to do:** Do not imply people should brag more. The point is structured evidence, not self-promotion.
 
 ### Slide 7: Save / apply / soft bridge
-- **Slide role:** Give the reader a practical next action and softly connect the idea to Proof Stack.
+- **Slide role:** Give the reader one practical application step. Proof Stack should stay off the main slide CTA unless used as a small optional caption/sidebar note.
 - **Minimal slide text:** Use the chain before your next update.
 - **Visual layout direction:** Show the chain as a compact reusable template.
-- **Visual object notes:** Add a small “future asset” note for Proof Stack only if it stays secondary.
+- **Visual object notes:** Keep the slide application-led. If Proof Stack is referenced, keep it secondary and clearly future-facing.
 - **Design emphasis:** Save-worthy, useful, calm.
-- **What not to do:** Do not make the slide a hard sales pitch. Do not imply Proof Stack already exists as a finished product.
+- **What not to do:** Do not make Proof Stack the main CTA. Do not make the slide a sales pitch. Do not imply Proof Stack already exists as a finished product.
 
-## 6. Caption draft
+## 6. Caption draft / direction
+This is caption direction, not final caption copy. Keep it concise, non-hype, and tool-free.
+
 Useful work is easy to miss when it stays trapped as tasks, updates, and outputs.
 
 The operator move is to connect the chain:
 
 Work done → Output → Outcome → Proof → Leverage
 
-That is how scattered work becomes visible impact.
+That is how scattered work becomes visible proof.
 
-Use this before your next update: do not just list what you did. Show what changed, what proves it, and what leverage it created.
+Use this before your next update: do not just list what you did. Show what changed, what proves it, and what it unlocked.
 
 Thoughtful CTA: Which part of this chain is usually missing in your work updates?
 
@@ -111,7 +115,7 @@ Proof Stack should be framed softly as a future implementation asset for turning
 
 Suggested bridge direction:
 - The free carousel teaches the Work-to-Impact Chain.
-- Proof Stack would help implement the chain through an Evidence Bank, Work-to-Impact Chain, Weekly Signal Panel, short implementation guide, and optional workflow-attached prompt system.
+- Proof Stack would help implement the chain through an Evidence Bank, Work-to-Impact Chain, Weekly Signal Panel, short implementation guide, and optional workflow-attached prompt system. It should appear only as an optional caption/sidebar note at this stage, not as the main slide CTA.
 - Do not present Proof Stack as already built unless the repo later confirms it exists.
 - Do not position Proof Stack as a prompt pack or tool workflow.
 
