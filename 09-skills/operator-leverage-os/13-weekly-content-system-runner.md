@@ -20,8 +20,14 @@ Use when the user asks to plan or run the weekly content system.
 - `04-content-bank/topic-bank.csv`
 - `04-content-bank/first-30-posts.md`
 - `08-research-bank/README.md`
+- `08-research-bank/source-log.csv`
+- `08-research-bank/claim-bank.csv`
+- `08-research-bank/example-bank.csv`
 - `08-research-bank/research-to-content-map.md`
 - `06-analytics/analytics-review-template.md`
+- `06-analytics/post-performance-tracker.csv`
+- `05-products/product-ladder.md`
+- `05-products/paid-product-ideas.md`
 - `09-skills/operator-leverage-os/01-research-scan.md`
 - `09-skills/operator-leverage-os/02-idea-generator.md`
 - `09-skills/operator-leverage-os/03-carousel-brief-builder.md`

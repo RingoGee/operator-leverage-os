@@ -54,6 +54,9 @@ Read only the files needed for the identified workflow:
 - `09-skills/operator-leverage-os/12-trend-to-carousel-pack-runner.md`
 - `09-skills/operator-leverage-os/13-weekly-content-system-runner.md`
 - `08-research-bank/README.md`
+- `08-research-bank/source-log.csv`
+- `08-research-bank/claim-bank.csv`
+- `08-research-bank/example-bank.csv`
 - `08-research-bank/research-to-content-map.md`
 - `04-content-bank/topic-bank.csv`
 - `06-analytics/analytics-review-template.md`
