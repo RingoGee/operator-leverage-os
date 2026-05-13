@@ -83,9 +83,7 @@ An operator uses the weekly stakeholder review to show how invisible coordinatio
 The second version is not louder. It is easier to verify, remember, and reuse.
 
 ## Behavior shift
-Before your next update, ask:
-
-> What proof did this work create?
+Before your next update, ask: what proof did this work create?
 
 Then capture one proof signal weekly:
 

@@ -10,9 +10,12 @@ Design this carousel as a visual strategy memo, not a generic infographic carous
 
 The central argument:
 
-> Useful work does not disappear because it is small. It disappears because it is not converted into proof.
+> Useful work disappears when it is not converted into reusable proof.
 
-Slide 1 should express this with sharper stopping power: the work that gets remembered is not always the work that mattered most; it is the work that became proof.
+Slide 1 should use this explicit slide text block:
+
+- **Headline:** The work that gets remembered is not always the work that mattered most.
+- **Tension line:** It is the work that became proof.
 
 The visual system should show how work loses value when it is not captured, connected to outcomes, verified by signals, stored as proof, and reused for leverage.
 

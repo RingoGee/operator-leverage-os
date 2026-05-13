@@ -3,9 +3,9 @@
 ## Purpose
 This production draft rebuilds the first carousel system around a sharper thought-leadership argument:
 
-> Useful work does not disappear because it is small. It disappears because it is not converted into proof.
+> Useful work disappears when it is not converted into reusable proof.
 
-Slide 1 sharpens that thesis into a stronger stopping-power claim: the work that gets remembered is not always the work that mattered most; it is the work that became proof.
+Slide 1 expresses that thesis as a stronger stopping-power claim: the work that gets remembered is not always the work that mattered most; it is the work that became proof.
 
 This is not a designed slide file. It is a structured production direction for an 8-slide Instagram carousel.
 
@@ -307,11 +307,8 @@ Behavior shift + profile reason
 Leave the reader with a practical operating question and a reason to visit or follow the profile.
 
 ### Structured slide text direction
-**Headline:**
-Before your next update, ask:
-
-**Core question:**
-What proof did this work create?
+**Core behavior shift:**
+Before your next update, ask: what proof did this work create?
 
 **Weekly proof check:**
 - What changed?
