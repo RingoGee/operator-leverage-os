@@ -82,3 +82,30 @@ Reject or reframe content that uses:
 - A framework that could appear unchanged on a generic productivity page.
 - Cover slides that explain the entire model instead of creating tension.
 - Evidence labels that sound like internal compliance copy rather than reader-facing credibility.
+
+## System-level visual rejection rules
+Reject or rework any carousel that has system-level visual polish but weak discipline.
+
+Do not post decks with:
+
+- Drifting header/footer alignment.
+- Inconsistent memo/page numbering.
+- Footer elements that move, resize, or change baseline without a defined format reason.
+- Top-left brand lines or top-right lockups that shift slide-to-slide.
+- Safe margins that are respected on some slides and broken on others.
+- Every slide using the same huge headline treatment.
+- The same “big headline + cards + footer” structure repeated across the full deck.
+- Diagrams that are just boxed lists.
+- Root-cause maps that list causes without causal insight.
+- Generic funnels with no conversion logic.
+- Leakage maps that do not visually show loss.
+- Decision matrices that do not help the reader judge what to do.
+- Heavy framework treatment for lightweight ideas.
+- A new named framework created for a small observation.
+- Visual systems that are tasteful but forgettable.
+- Proof, leakage, or decision icons used decoratively.
+- Pseudo-consulting slides that look rigorous but say little.
+- Generic business-process graphics that could belong to any brand.
+- Premium beige layouts with no distinctive Operator Leverage OS grammar.
+- Noisy orange layouts where every important word is highlighted.
+- Diagrams that are visually clear but intellectually shallow.

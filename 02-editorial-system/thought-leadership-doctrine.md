@@ -471,3 +471,114 @@ Format families:
 - **Framework deep dive:** heavier density, reusable model, save + profile visit objective.
 
 A consistent brand system is good. A predictable slide formula is bad. Each post should choose visual density based on the idea: light for field notes, medium for antithesis maps and decision tools, and heavy for flagship visual memos and teardowns.
+
+## Y. Locked chrome, hierarchy, and ownability standard
+Every Operator Leverage OS carousel needs a stable slide chrome system before it needs more visual effects.
+
+Locked chrome includes the top-left brand line, top-right brand lockup or logo area, memo / issue number, slide number, footer brand line, footer code / memo marker, safe margins, baseline grid, and content-safe area.
+
+Chrome rules:
+
+- Header and footer alignment must remain fixed across slides.
+- Page numbering must use one convention across the full deck.
+- Memo numbering must not randomly change from slide to slide.
+- Footer elements must align to the same baseline and margins.
+- Brand lockups should not shift, resize, or visually rebalance slide-to-slide unless a deliberate format variant is defined.
+- Content may vary; chrome should stay stable.
+- Chrome should support the field-manual feel without competing with content.
+
+The brand should feel sleek, stylish, classy, grounded, practical, analytical, and sharp. It should not feel like generic consulting, boring beige, generic SaaS, a finance newsletter template, over-designed pseudo-consulting, corporate training material, or a noisy orange tech brand.
+
+Ownability comes from consistent visual grammar, not just color. Use a premium neutral base with proof-orange / electric amber as a selective signature accent. Use slate blue for evidence and analysis, muted red only for leakage/loss, and green only for verified proof or successful conversion.
+
+Do not make every important word orange. Do not make every slide visually loud.
+
+## Z. Composition archetypes and dominance discipline
+Future carousels should use a library of composition archetypes, not one fixed slide formula.
+
+Approved archetypes:
+
+1. **Tension Split** — large tension headline, two opposing zones, central gap/conflict marker, one small annotation.
+2. **Root-Cause System Map** — diagnostic headline, central problem node, 3–5 cause nodes, one consequence or “so what” line.
+3. **Mini-Case Panel** — short case title, one or two comparison cards, evidence trail / mini-example, bottom insight.
+4. **Antithesis Table** — two columns, 3–5 contrast rows, one bottom principle.
+5. **Leakage / Breakpoint Map** — path, waterfall, ladder, or staged breakdown with leak/break markers and retained/lost value indication.
+6. **Framework Gate Model** — named model, 4–7 stages/gates, conversion logic, one save-worthy “so what” line.
+7. **Artifact Transformation** — weak artifact on one side, transformed artifact on the other, structured fields, annotation showing what changed.
+8. **Behavior Checklist / Profile Bridge** — one behavior question, short checklist or audit, clear non-hype profile/category reason.
+9. **Field Note** — sharp observation, brief explanation, single visual mark or small diagram, one operating implication.
+10. **Decision Matrix** — 2x2 or scored grid, axis labels, interpretation notes, action guidance.
+
+Every slide should declare its dominant element before design begins: headline, framework, table, artifact, case, checklist, or diagram.
+
+Reject slides where the headline is huge but the visual does the real work in tiny text; the diagram is meant to be saved but is visually secondary; or too many elements compete for dominance.
+
+## AA. Headline hierarchy rules
+Big headlines are a tool, not a house style.
+
+Headline modes:
+
+- **Hero headline:** Use for Slide 1, major behavior shifts, or strong contrarian claims. Limit to 1–2 slides per carousel.
+- **Analytical headline:** Use for diagnosis, framework, and mechanism slides. Strong but not oversized; leaves room for the model to become hero.
+- **Model-led title:** Use when the diagram/framework should dominate. Smaller title; model occupies primary visual authority.
+- **Case-led title:** Use when the example or evidence should dominate. Clear but not oversized.
+- **Utility title:** Use when the application/checklist is the hero. Practical and direct.
+
+Not every slide should use a giant headline. If the model is the main value, the model should become the hero. If the artifact is the main value, the artifact should dominate. Big type should create rhythm, not monotony. Use orange emphasis selectively, not on every slide.
+
+## AB. Framework intensity and anti-monotony rules
+Not every post should become a heavy framework memo.
+
+Intensity levels:
+
+1. **Level 1 — Field Note:** one sharp observation, light visual, low-medium density.
+2. **Level 2 — Antithesis / Contrast:** default vs better behavior, medium density, share-oriented.
+3. **Level 3 — Decision Tool:** matrix, checklist, scorecard, decision tree, medium-high density, save-oriented.
+4. **Level 4 — Flagship Visual Memo:** full argument arc with evidence, antithesis, mechanism, framework, and application; high density but mobile-readable.
+5. **Level 5 — Operator Teardown:** deep breakdown of a workflow, company behavior, memo, update, pitch, or system; high density; use sparingly.
+
+Rules:
+
+- Heavy frameworks should be reserved for ideas with real mechanism and reuse potential.
+- Do not create a new named framework for every post.
+- Reuse core frameworks across contexts.
+- Use lighter situational lenses for narrower posts.
+- Use field notes to avoid feed fatigue.
+- A consistent brand system is good; identical slide structures across every post are bad.
+- Vary slide archetypes based on the argument.
+- Do not use the same “big headline + cards + footer” structure on every slide.
+- Build a library of reusable visual grammar, not a single fixed template.
+
+## AC. Diagnosis and diagram sharpness standard
+Diagnosis slides should not merely list reasons. They should explain causal structure.
+
+A strong diagnosis slide should answer:
+
+- What constraint causes the problem?
+- What system behavior makes it repeat?
+- What does the reader usually misdiagnose?
+- What changes when the problem is reframed?
+
+Weak diagnosis:
+
+> “Why work gets forgotten: weak memory, limited attention, incomplete evidence.”
+
+Stronger diagnosis:
+
+> “Work gets forgotten when it stays in systems built for coordination, not retrieval.”
+
+> “The problem is not recognition. It is retrieval.”
+
+> “Organizations do not forget randomly. They forget what was never converted into searchable, reusable evidence.”
+
+Diagram rules:
+
+- Diagrams should show relationships, not decorate lists.
+- A leakage map should visually show value being lost.
+- A funnel should show conversion.
+- A decision matrix should create judgment.
+- A root-cause map should show causal structure.
+- A proof trail should show retrievability.
+- A comparison table should sharpen a decision or behavior distinction.
+
+Reject diagrams that are merely boxes connected by arrows, restate the headline, use icons without analytical purpose, look like generic business-process graphics, or are visually clear but intellectually shallow.

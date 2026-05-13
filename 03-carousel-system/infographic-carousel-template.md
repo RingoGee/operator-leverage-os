@@ -268,3 +268,84 @@ Choose the format family before drafting so density matches the idea:
 - Framework deep dive.
 
 Use light density for field notes, medium density for antithesis maps and decision tools, and heavier density only for flagship visual memos, teardowns, and framework deep dives.
+
+## Locked slide chrome plan
+Before design, define the fixed slide chrome. Content can vary by slide, but the chrome should not drift.
+
+- **Top-left brand line:** [same position on every slide]
+- **Top-right brand lockup / logo area:** [same position and scale on every slide]
+- **Memo / issue number:** [same convention across the deck]
+- **Slide number:** [same convention across the deck]
+- **Footer brand line:** [same baseline across the deck]
+- **Footer code / memo marker:** [same baseline and margin across the deck]
+- **Safe margins:** [define top, bottom, left, right margin rules]
+- **Baseline grid:** [define or reference grid]
+- **Content-safe area:** [define area where diagrams, tables, cards, and headlines can live]
+
+Chrome QA:
+
+- [ ] Top-left header is locked.
+- [ ] Top-right brand lockup is aligned.
+- [ ] Slide number is consistent.
+- [ ] Memo number is consistent.
+- [ ] Footer baselines are consistent.
+- [ ] Safe margins are respected.
+- [ ] Brand elements are quiet enough to support, not compete.
+
+## Composition archetype selection
+Choose one archetype per slide so the deck has variety without randomness.
+
+| Archetype | Best use | Structure | Avoid |
+| --- | --- | --- | --- |
+| Tension Split | Slide 1 / provocative openers | Large tension headline, two opposing zones, central gap/conflict marker, one small annotation | Explaining the full framework too early |
+| Root-Cause System Map | Diagnosis slides | Diagnostic headline, central problem node, 3–5 cause nodes, one consequence or “so what” line | Too many arrows or generic cause boxes |
+| Mini-Case Panel | Evidence/example slides | Short case title, one or two comparison cards, evidence trail / mini-example, bottom insight | Internal-sounding evidence labels |
+| Antithesis Table | Default vs high-leverage contrast | Two columns, 3–5 contrast rows, one bottom principle | Moralizing or insulting the audience |
+| Leakage / Breakpoint Map | Hidden mechanism slides | Path, waterfall, ladder, or staged breakdown, leak/break markers, retained/lost value indication | Numbered lists that do not visually express loss |
+| Framework Gate Model | Reusable model slides | Named model, 4–7 stages/gates, clear conversion logic, one save-worthy “so what” line | Generic funnels, generic process charts, or worksheets |
+| Artifact Transformation | Application slides | Weak artifact, transformed artifact, structured fields, annotation showing what changed | Long quote blocks |
+| Behavior Checklist / Profile Bridge | Final slides | One behavior question, short checklist or audit, non-hype profile/category reason | Salesy CTAs or buried profile reasons |
+| Field Note | Lighter posts | Sharp observation, brief explanation, single visual mark or small diagram, one operating implication | Overbuilding small ideas |
+| Decision Matrix | Decision-tool posts | 2x2 or scored grid, axis labels, interpretation notes, action guidance | Generic quadrant naming with no decision value |
+
+## Headline and dominant-element plan
+For each slide, define the headline mode and dominant element before writing production copy.
+
+Headline modes:
+
+- **Hero headline:** Slide 1, major behavior shift, or strong contrarian claim. Use on 1–2 slides max.
+- **Analytical headline:** Diagnosis, framework, and mechanism slides. Strong but not oversized.
+- **Model-led title:** Use when the model should dominate.
+- **Case-led title:** Use when the evidence/example should dominate.
+- **Utility title:** Use when the artifact, checklist, or application is the hero.
+
+Dominant element options:
+
+- Headline
+- Framework
+- Table
+- Artifact
+- Case
+- Checklist
+- Diagram
+
+Reject the slide if the headline is huge but the model, table, artifact, case, checklist, or diagram is the real value in tiny text.
+
+## Framework intensity selection
+Choose the format intensity before building the carousel.
+
+| Level | Format | Use when | Density |
+| --- | --- | --- | --- |
+| 1 | Field Note | One sharp observation needs a light visual | Low-medium |
+| 2 | Antithesis / Contrast | The idea is a default vs better behavior distinction | Medium |
+| 3 | Decision Tool | The reader needs a matrix, checklist, scorecard, or decision tree | Medium-high |
+| 4 | Flagship Visual Memo | The idea has evidence, antithesis, mechanism, framework, and application | High but mobile-readable |
+| 5 | Operator Teardown | A workflow, memo, update, pitch, or system needs deep breakdown | High; use sparingly |
+
+Rules:
+
+- Do not use heavy memo treatment for lightweight ideas.
+- Do not create a new named framework for every post.
+- Reuse core frameworks across contexts.
+- Use field notes to avoid feed fatigue.
+- Vary archetypes across the deck while keeping the chrome stable.

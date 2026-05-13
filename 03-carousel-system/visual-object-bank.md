@@ -281,3 +281,136 @@ Before using any visual move, ask:
 3. Are details available for an 8–12 second read without requiring zoom?
 4. Is this visual dense because it is useful, or cramped because it lacks hierarchy?
 5. Does the visual use a recognizable brand system without repeating the same layout formula?
+
+## Signature visual grammar devices
+Use these recurring devices to make Operator Leverage OS recognizable. They must carry meaning, not fill space.
+
+### Proof stamp
+- **Use for:** Verified, reusable, review-ready evidence.
+- **Do not use for:** Any random positive item.
+- **Meaning:** This work has become proof.
+
+### Evidence card
+- **Use for:** Proof artifacts, mini-case details, decision notes, signals, outcomes.
+- **Do not use for:** Decorative card layouts with generic statements.
+- **Meaning:** The claim has retrievable support.
+
+### Decision gate
+- **Use for:** Moments where work passes from information into action or judgment.
+- **Do not use for:** Ordinary process steps with no decision.
+- **Meaning:** A conversion or judgment point exists.
+
+### Leakage marker
+- **Use for:** Value, context, memory, ownership, or signal breakdown.
+- **Do not use for:** General emphasis.
+- **Meaning:** Something is being lost or broken.
+
+### Proof gap
+- **Use for:** Valuable work failing to become remembered evidence.
+- **Do not use for:** Any generic before/after gap.
+- **Meaning:** Work mattered but was not converted into proof.
+
+### Operator note
+- **Use for:** Short practical interpretation.
+- **Do not use for:** Decorative footnotes.
+- **Meaning:** The slide offers an operating implication.
+
+### So-what callout
+- **Use for:** The implication of a slide.
+- **Do not use for:** Repeating the headline.
+- **Meaning:** The reader should understand why the visual matters.
+
+### Retrieval marker
+- **Use for:** Work becoming searchable, reusable, or review-ready.
+- **Do not use for:** Generic storage or archive icons.
+- **Meaning:** Proof can be found and used later.
+
+### Memory decay texture
+- **Use for:** Fading work, lost context, or unstructured effort.
+- **Do not use for:** Background decoration.
+- **Meaning:** The work is losing recall value.
+
+### Conversion path
+- **Use for:** Raw work becoming proof, decision, leverage, or reusable system.
+- **Do not use for:** Decorative arrows.
+- **Meaning:** The visual shows a meaningful transformation.
+
+## Composition archetype library
+Use these composition archetypes to select the right slide structure before choosing a visual object.
+
+### A. Tension Split
+- **Use for:** Slide 1 / provocative openers.
+- **Structure:** Large tension headline; two opposing zones; central gap/conflict marker; one small annotation.
+- **Use when:** The post opens with a contradiction, status threat, or unresolved problem.
+- **Avoid:** Explaining the full framework too early.
+
+### B. Root-Cause System Map
+- **Use for:** Diagnosis slides.
+- **Structure:** Diagnostic headline; central problem node; 3–5 cause nodes; one consequence or “so what” line.
+- **Use when:** Explaining why a problem exists structurally.
+- **Avoid:** Too many arrows or generic cause boxes.
+
+### C. Mini-Case Panel
+- **Use for:** Evidence/example slides.
+- **Structure:** Short case title; one or two comparison cards; evidence trail / mini-example; bottom insight.
+- **Use when:** Illustrating a workplace pattern without pretending it is research.
+- **Avoid:** Internal-sounding evidence labels.
+
+### D. Antithesis Table
+- **Use for:** Default vs high-leverage contrast.
+- **Structure:** Two columns; 3–5 contrast rows; one bottom principle.
+- **Use when:** Showing what strong operators do differently.
+- **Avoid:** Moralizing or insulting the audience.
+
+### E. Leakage / Breakpoint Map
+- **Use for:** Hidden mechanism slides.
+- **Structure:** Path, waterfall, ladder, or staged breakdown; leak/break markers; retained/lost value indication; one “now I see it” insight.
+- **Use when:** Explaining how value decays, leaks, or breaks.
+- **Avoid:** Simple numbered lists that do not visually express loss.
+
+### F. Framework Gate Model
+- **Use for:** Reusable model slides.
+- **Structure:** Named model; 4–7 stages/gates; clear conversion logic; one save-worthy “so what” line.
+- **Use when:** Presenting reusable IP.
+- **Avoid:** Generic funnels, generic process charts, or worksheets.
+
+### G. Artifact Transformation
+- **Use for:** Application slides.
+- **Structure:** Weak artifact on left; transformed artifact on right; structured fields; annotation showing what changed.
+- **Use when:** Showing how the model changes a real update, memo, review, decision, or workflow.
+- **Avoid:** Long quote blocks.
+
+### H. Behavior Checklist / Profile Bridge
+- **Use for:** Final slides.
+- **Structure:** One behavior question; short checklist or audit; clear but non-hype profile/category reason.
+- **Use when:** Ending with a habit and profile-entry logic.
+- **Avoid:** Salesy CTAs or buried profile reasons.
+
+### I. Field Note
+- **Use for:** Lighter posts.
+- **Structure:** Sharp observation; brief explanation; single visual mark or small diagram; one operating implication.
+- **Use when:** The idea does not need a full framework memo.
+- **Avoid:** Overbuilding small ideas.
+
+### J. Decision Matrix
+- **Use for:** Decision-tool posts.
+- **Structure:** 2x2 or scored grid; axis labels; interpretation notes; action guidance.
+- **Use when:** Helping readers judge what to do.
+- **Avoid:** Generic quadrant naming with no decision value.
+
+## Diagram quality rules
+- Diagrams should show relationships, not just decorate lists.
+- A leakage map should visually show value being lost.
+- A funnel should show conversion.
+- A decision matrix should create judgment.
+- A root-cause map should show causal structure.
+- A proof trail should show retrievability.
+- A comparison table should sharpen a decision or behavior distinction.
+
+Reject diagrams that:
+
+- Are merely boxes connected by arrows.
+- Restate the headline.
+- Use icons without analytical purpose.
+- Look like generic business-process graphics.
+- Are visually clear but intellectually shallow.

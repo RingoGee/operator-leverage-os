@@ -223,3 +223,273 @@ Each carousel should use:
 - Restrained secondary accents for proof, leakage, decision gates, or ambiguity.
 
 The brand system should be recognizable, but slide layouts should vary based on the argument.
+
+## Locked slide chrome system
+Every carousel must use a locked slide chrome system. Chrome is the stable frame that makes the deck feel like an Operator Leverage OS field manual rather than a loose set of slides.
+
+Chrome includes:
+
+- Top-left brand line.
+- Top-right brand lockup or logo area.
+- Memo / issue number.
+- Slide number.
+- Footer brand line.
+- Footer code / memo marker.
+- Safe margins.
+- Baseline grid.
+- Content-safe area.
+
+Non-negotiable chrome rules:
+
+- Header and footer alignment must remain fixed across slides.
+- Page numbering must use a consistent convention across the full deck.
+- Memo numbering must not randomly change across slides.
+- Footer elements must align to the same baseline and margins.
+- Brand lockup should not shift, resize, or visually rebalance slide-to-slide unless a deliberate format variant is defined before design begins.
+- Content may vary, but the chrome must remain stable.
+- Slide chrome should support the field-manual feel without competing with content.
+
+### Chrome QA checklist
+- [ ] Is the top-left header locked?
+- [ ] Is the top-right brand lockup aligned?
+- [ ] Is the slide number consistent?
+- [ ] Is the memo number consistent?
+- [ ] Are footer baselines consistent?
+- [ ] Are safe margins respected?
+- [ ] Are brand elements quiet enough?
+
+## Slide composition archetype library
+Use these archetypes to create variety without randomness. A carousel can mix archetypes, but each slide should have a clear composition job.
+
+### A. Tension Split
+- **Use for:** Slide 1 / provocative openers.
+- **Structure:** Large tension headline; two opposing zones; central gap/conflict marker; one small annotation.
+- **Use when:** The post opens with a contradiction, status threat, or unresolved problem.
+- **Avoid:** Explaining the full framework too early.
+
+### B. Root-Cause System Map
+- **Use for:** Diagnosis slides.
+- **Structure:** Diagnostic headline; central problem node; 3–5 cause nodes; one consequence or “so what” line.
+- **Use when:** Explaining why a problem exists structurally.
+- **Avoid:** Too many arrows or generic cause boxes.
+
+### C. Mini-Case Panel
+- **Use for:** Evidence/example slides.
+- **Structure:** Short case title; one or two comparison cards; evidence trail / mini-example; bottom insight.
+- **Use when:** Illustrating a workplace pattern without pretending it is research.
+- **Avoid:** Internal-sounding evidence labels.
+
+### D. Antithesis Table
+- **Use for:** Default vs high-leverage contrast.
+- **Structure:** Two columns; 3–5 contrast rows; one bottom principle.
+- **Use when:** Showing what strong operators do differently.
+- **Avoid:** Moralizing or insulting the audience.
+
+### E. Leakage / Breakpoint Map
+- **Use for:** Hidden mechanism slides.
+- **Structure:** Path, waterfall, ladder, or staged breakdown; leak/break markers; retained/lost value indication; one “now I see it” insight.
+- **Use when:** Explaining how value decays, leaks, or breaks.
+- **Avoid:** Simple numbered lists that do not visually express loss.
+
+### F. Framework Gate Model
+- **Use for:** Reusable model slides.
+- **Structure:** Named model; 4–7 stages/gates; clear conversion logic; one save-worthy “so what” line.
+- **Use when:** Presenting reusable IP.
+- **Avoid:** Generic funnels, generic process charts, or worksheets.
+
+### G. Artifact Transformation
+- **Use for:** Application slides.
+- **Structure:** Weak artifact on left; transformed artifact on right; structured fields; annotation showing what changed.
+- **Use when:** Showing how the model changes a real update, memo, review, decision, or workflow.
+- **Avoid:** Long quote blocks.
+
+### H. Behavior Checklist / Profile Bridge
+- **Use for:** Final slides.
+- **Structure:** One behavior question; short checklist or audit; clear but non-hype profile/category reason.
+- **Use when:** Ending with a habit and profile-entry logic.
+- **Avoid:** Salesy CTAs or buried profile reasons.
+
+### I. Field Note
+- **Use for:** Lighter posts.
+- **Structure:** Sharp observation; brief explanation; single visual mark or small diagram; one operating implication.
+- **Use when:** The idea does not need a full framework memo.
+- **Avoid:** Overbuilding small ideas.
+
+### J. Decision Matrix
+- **Use for:** Decision-tool posts.
+- **Structure:** 2x2 or scored grid; axis labels; interpretation notes; action guidance.
+- **Use when:** Helping readers judge what to do.
+- **Avoid:** Generic quadrant naming with no decision value.
+
+## Signature visual grammar
+Operator Leverage OS should become recognizable through repeated meaningful visual devices, not decoration.
+
+- **Proof stamp:** Use for verified, reusable, review-ready evidence.
+- **Evidence card:** Use for proof artifacts, mini-case details, decision notes, signals, outcomes.
+- **Decision gate:** Use when work passes from information into action or judgment.
+- **Leakage marker:** Use when value, context, memory, ownership, or signal breaks down.
+- **Proof gap:** Use when valuable work fails to become remembered evidence.
+- **Operator note:** Use for short practical interpretation.
+- **So-what callout:** Use for the implication of a slide.
+- **Retrieval marker:** Use when work becomes searchable, reusable, or review-ready.
+- **Memory decay texture:** Use subtly to show fading work, lost context, or unstructured effort.
+- **Conversion path:** Use to show how raw work becomes proof, decision, leverage, or reusable system.
+
+Rules:
+
+- These devices should carry meaning, not decoration.
+- Do not add icons only to fill space.
+- A proof stamp should mean something has become verified/reusable.
+- A leakage marker should only appear where something is lost or broken.
+- A decision gate should indicate a judgment or conversion point.
+- Signature devices should repeat enough to build brand memory, but not overwhelm the slide.
+
+## Headline hierarchy rules
+Large condensed headlines should create rhythm, not become the default structure of every slide.
+
+### A. Hero headline
+- **Use for:** Slide 1, major behavior shift, or strong contrarian claim.
+- **Max use:** 1–2 slides per carousel.
+
+### B. Analytical headline
+- **Use for:** Diagnosis, framework, and mechanism slides.
+- **Style:** Strong but not oversized; leaves room for model to become hero.
+
+### C. Model-led title
+- **Use when:** The diagram/framework should dominate.
+- **Style:** Smaller title; model occupies primary visual authority.
+
+### D. Case-led title
+- **Use when:** Example or evidence should dominate.
+- **Style:** Clear but not oversized.
+
+### E. Utility title
+- **Use when:** Application/checklist is the hero.
+- **Style:** Practical and direct.
+
+Headline rules:
+
+- Not every slide should use a giant headline.
+- If the model is the main value, the model should become the hero.
+- If the artifact is the main value, the artifact should dominate.
+- Big type should create rhythm, not monotony.
+- Use orange emphasis selectively, not on every slide.
+
+## Headline-vs-framework dominance rules
+For each slide, define the dominant element before design starts:
+
+- Headline.
+- Framework.
+- Table.
+- Artifact.
+- Case.
+- Checklist.
+- Diagram.
+
+Some slides should be text-led. Some should be model-led. Some should be artifact-led. Some should be comparison-led.
+
+Reject slides where:
+
+- The headline is huge but the visual does the real work in tiny text.
+- The diagram is meant to be saved but is visually secondary.
+- Too many elements compete for dominance.
+
+## Brand memorability rules
+The brand should feel sleek, stylish, classy, grounded, practical, analytical, and sharp.
+
+It should not feel like generic consulting, boring beige, generic SaaS, a finance newsletter template, over-designed pseudo-consulting, corporate training material, or a noisy orange tech brand.
+
+Brand rules:
+
+- Use a premium neutral base, but always pair it with a distinctive signature accent.
+- Proof-orange / electric amber should be a recognizable brand accent but must be used selectively.
+- Slate blue should support evidence and analysis.
+- Muted red should be reserved for leakage/loss.
+- Green should be reserved for verified proof or successful conversion.
+- Do not make every important word orange.
+- Do not make every slide visually loud.
+- Brand memorability should come from consistent grammar, not just bright color.
+
+## Framework intensity levels
+Not every post should become a heavy framework memo.
+
+### Level 1 — Field Note
+- One sharp observation.
+- Light visual.
+- Low-medium density.
+
+### Level 2 — Antithesis / Contrast
+- Default vs better behavior.
+- Medium density.
+- Share-oriented.
+
+### Level 3 — Decision Tool
+- Matrix, checklist, scorecard, decision tree.
+- Medium-high density.
+- Save-oriented.
+
+### Level 4 — Flagship Visual Memo
+- Full argument arc: evidence, antithesis, mechanism, framework, application.
+- High density, but mobile-readable.
+
+### Level 5 — Operator Teardown
+- Deep breakdown of a workflow, company behavior, memo, update, pitch, or system.
+- High density.
+- Use sparingly.
+
+Intensity rules:
+
+- Heavy frameworks should be reserved for ideas with real mechanism and reuse potential.
+- Do not create a new named framework for every post.
+- Reuse core frameworks across contexts.
+- Use lighter situational lenses for narrower posts.
+- Use field notes to avoid feed fatigue.
+
+## Monotony prevention rules
+- A consistent brand system is good; identical slide structures across every post are bad.
+- Each carousel should choose the right format family before drafting.
+- The deck should vary slide archetypes based on the argument.
+- Do not use the same “big headline + cards + footer” structure on every slide.
+- Do not repeat antithesis tables in every post unless the argument requires contrast.
+- Do not overuse heavy memo aesthetics for lightweight ideas.
+- Build a library of reusable visual grammar, not a single fixed template.
+
+## Diagnosis slide intellectual sharpness rule
+Diagnosis slides should not merely list reasons. They should explain causal structure.
+
+A strong diagnosis slide should answer:
+
+- What constraint causes the problem?
+- What system behavior makes it repeat?
+- What does the reader usually misdiagnose?
+- What changes when the problem is reframed?
+
+Weak:
+
+> “Why work gets forgotten: weak memory, limited attention, incomplete evidence.”
+
+Stronger:
+
+> “Work gets forgotten when it stays in systems built for coordination, not retrieval.”
+
+> “The problem is not recognition. It is retrieval.”
+
+> “Organizations do not forget randomly. They forget what was never converted into searchable, reusable evidence.”
+
+## Diagram quality rules
+Diagrams should show relationships, not just decorate lists.
+
+- A leakage map should visually show value being lost.
+- A funnel should show conversion.
+- A decision matrix should create judgment.
+- A root-cause map should show causal structure.
+- A proof trail should show retrievability.
+- A comparison table should sharpen a decision or behavior distinction.
+
+Reject diagrams that:
+
+- Are merely boxes connected by arrows.
+- Restate the headline.
+- Use icons without analytical purpose.
+- Look like generic business-process graphics.
+- Are visually clear but intellectually shallow.

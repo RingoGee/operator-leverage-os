@@ -151,3 +151,97 @@ Generic clean infographics cannot pass. A carousel must earn approval through di
 - [ ] The post does not force a heavy framework memo format when a field note, case lens, or checklist would work better.
 - [ ] The layout system feels recognizable without repeating the same slide formula.
 - [ ] The visual identity uses a premium neutral base plus a distinctive signature accent.
+
+## Locked slide chrome checks
+- [ ] Is the slide chrome aligned across all slides?
+- [ ] Are header/footer positions fixed?
+- [ ] Is the top-left header locked?
+- [ ] Is the top-right brand lockup aligned?
+- [ ] Is page numbering consistent?
+- [ ] Is memo numbering consistent?
+- [ ] Are footer baselines consistent?
+- [ ] Are safe margins respected?
+- [ ] Are brand elements quiet enough to support the field-manual feel?
+
+## Composition archetype checks
+- [ ] Does each slide use the right composition archetype for its job?
+- [ ] Does the deck vary archetypes without becoming inconsistent?
+- [ ] Is the slide’s dominant element clear: headline, framework, table, artifact, case, checklist, or diagram?
+- [ ] Is the headline size appropriate for the slide role?
+- [ ] If the model is the main value, does the model dominate?
+- [ ] If the artifact is the main value, does the artifact dominate?
+- [ ] Does the slide avoid the same “big headline + cards + footer” structure unless the argument truly requires it?
+
+Approved archetypes to check against:
+
+- [ ] Tension Split — large tension headline, two opposing zones, central gap/conflict marker, one small annotation.
+- [ ] Root-Cause System Map — diagnostic headline, central problem node, 3–5 cause nodes, one consequence or “so what” line.
+- [ ] Mini-Case Panel — short case title, one or two comparison cards, evidence trail / mini-example, bottom insight.
+- [ ] Antithesis Table — two columns, 3–5 contrast rows, one bottom principle.
+- [ ] Leakage / Breakpoint Map — path, waterfall, ladder, or staged breakdown with leak/break markers and retained/lost value indication.
+- [ ] Framework Gate Model — named model, 4–7 stages/gates, clear conversion logic, one save-worthy “so what” line.
+- [ ] Artifact Transformation — weak artifact, transformed artifact, structured fields, annotation showing what changed.
+- [ ] Behavior Checklist / Profile Bridge — behavior question, short checklist/audit, clear non-hype profile/category reason.
+- [ ] Field Note — sharp observation, brief explanation, single visual mark or small diagram, one operating implication.
+- [ ] Decision Matrix — 2x2 or scored grid, axis labels, interpretation notes, action guidance.
+
+## Signature visual grammar checks
+- [ ] Do proof stamps indicate verified, reusable, review-ready evidence?
+- [ ] Do evidence cards hold proof artifacts, mini-case details, decision notes, signals, or outcomes?
+- [ ] Do decision gates indicate a real judgment or conversion point?
+- [ ] Do leakage markers appear only where value, context, memory, ownership, or signal breaks down?
+- [ ] Does the proof gap show valuable work failing to become remembered evidence?
+- [ ] Do operator notes and so-what callouts add interpretation rather than decoration?
+- [ ] Do retrieval markers indicate searchable, reusable, or review-ready work?
+- [ ] Is memory decay texture subtle and meaningful?
+- [ ] Does the conversion path show raw work becoming proof, decision, leverage, or reusable system?
+
+## Brand memorability checks
+- [ ] Does the brand accent feel distinctive but controlled?
+- [ ] Is the slide ownable to Operator Leverage OS?
+- [ ] Would this look generic if the logo were removed?
+- [ ] Does the deck avoid boring consulting beige?
+- [ ] Does proof-orange / electric amber appear selectively, not everywhere?
+- [ ] Is slate blue used for evidence/analysis, muted red for leakage/loss, and green for verified proof/successful conversion?
+- [ ] Does brand memorability come from consistent grammar, not just bright color?
+
+## Framework intensity and anti-monotony checks
+- [ ] Is the format intensity appropriate for the idea?
+- [ ] Is the carousel varied without becoming inconsistent?
+- [ ] Is a heavy framework reserved for an idea with real mechanism and reuse potential?
+- [ ] Does the post avoid creating a new named framework for a small observation?
+- [ ] Does the deck avoid repeating antithesis tables unless the argument requires contrast?
+- [ ] Does the format family prevent feed fatigue across future posts?
+
+## Diagnosis sharpness checks
+- [ ] Does the diagnosis explain causal structure rather than merely listing reasons?
+- [ ] Does the diagnosis identify the constraint causing the problem?
+- [ ] Does the diagnosis explain the system behavior that makes the problem repeat?
+- [ ] Does the diagnosis name what the reader usually misdiagnoses?
+- [ ] Does the diagnosis show what changes when the problem is reframed?
+
+Weak diagnosis to reject:
+
+> “Why work gets forgotten: weak memory, limited attention, incomplete evidence.”
+
+Stronger diagnosis standard:
+
+> “Work gets forgotten when it stays in systems built for coordination, not retrieval.”
+
+> “The problem is not recognition. It is retrieval.”
+
+> “Organizations do not forget randomly. They forget what was never converted into searchable, reusable evidence.”
+
+## Diagram quality checks
+- [ ] Does the diagram show a real relationship?
+- [ ] Does a leakage map visually show value being lost?
+- [ ] Does a funnel show conversion?
+- [ ] Does a decision matrix create judgment?
+- [ ] Does a root-cause map show causal structure?
+- [ ] Does a proof trail show retrievability?
+- [ ] Does a comparison table sharpen a decision or behavior distinction?
+- [ ] Does the diagram avoid being merely boxes connected by arrows?
+- [ ] Does the diagram avoid restating the headline?
+- [ ] Does every icon or marker serve an analytical purpose?
+- [ ] Does the diagram avoid generic business-process graphics?
+- [ ] Is the diagram intellectually sharp, not just visually clear?
