@@ -171,3 +171,28 @@ If a named framework is not necessary, use a plain thesis, diagnostic, before/af
 
 ## Reader transformation test
 Approve the idea only if it moves the reader from vague understanding to sharper diagnosis, activity to proof, information to judgment, impressive to believable, scattered thinking to operating model, or abstract ambition to practical next action.
+
+## Plain-language and narrative continuity rules
+Mental-model content must feel clear before it feels clever.
+
+Rules:
+- Say the simple thing first, then introduce any model name only if it helps.
+- Give every major framework term a plain-language shadow in the format `Formal term → Plain-language meaning`.
+- Use the plain-language version on the slide when it is clearer than the formal term.
+- Explain the problem before naming the framework.
+- Do not create decorative frameworks that rename common sense.
+- Use simple before/after, checklist, or question formats when they make the next action clearer than a named model.
+- Each slide should answer the previous slide’s question and create the next one.
+- Each slide should produce a specific “reader should think” sentence.
+- Bridge lines should reduce effort, not decorate the carousel.
+
+Required narrative spine before writing:
+
+> “This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].”
+
+Final tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

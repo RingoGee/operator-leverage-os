@@ -51,3 +51,19 @@ Use this as a bank of reusable hook patterns, not finished hooks. Hooks should r
 - **When to use:** When the audience is overworking because the system is unclear.
 - **Bad version:** Work harder and stay consistent.
 - **Better version:** More meetings will not fix unclear ownership. You need an operating map.
+
+## Plain-language-first hook rules
+Hooks should create tension in words the reader would actually use.
+
+Rules:
+- Say the simple problem before introducing any framework name.
+- Avoid hooks that sound like internal strategy documentation.
+- Avoid finance/fundraising jargon unless the hook translates it immediately.
+- Do not lead with a decorative framework title when a plain insight is clearer.
+- A smart reader should understand the hook without decoding our terminology.
+
+Hook tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

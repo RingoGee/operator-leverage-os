@@ -837,3 +837,140 @@ Final doctrine tests:
 
 - Would the reader feel they received a useful operating lens for free?
 - If this slide were removed from the carousel, would the reader lose a specific useful idea?
+
+## AQ. Plain Language First doctrine
+Every carousel must use plain English before introducing any formal term, framework label, or strategic abstraction.
+
+Rules:
+- Say the simple thing first.
+- Use formal terms only when they make the idea clearer.
+- Avoid internal-sounding phrases unless immediately translated.
+- Avoid overcompressed consulting language.
+- Avoid finance/fundraising jargon unless the slide explains it plainly.
+- A smart reader should not need to decode the sentence before understanding the point.
+- If a line sounds impressive but not instantly useful, rewrite it.
+- If a reader would not naturally say the phrase in a real conversation, simplify it.
+
+Examples:
+- Instead of “Allocation readiness determines capital conversion,” use “Investors do not just ask if the company is good. They ask if it is ready to earn conviction.”
+- Instead of “Traction quality signals repeatability,” use “Growth is more believable when you can show why it happened and why it can happen again.”
+- Instead of “Narrative architecture must reduce uncertainty,” use “Your story should make investors ask fewer basic follow-up questions.”
+- Instead of “Capital logic clarifies round purpose,” use “Show why you need this money now, and what it will prove next.”
+
+## AR. Direct slide copy standard
+Slide copy should feel like useful spoken insight, not internal strategy documentation.
+
+Rules:
+- Prefer short, direct sentences.
+- Use one clear idea per line.
+- Use active voice.
+- Avoid noun-heavy phrases.
+- Avoid stacked abstractions.
+- Avoid too many named concepts on one slide.
+- Use “this means,” “that is why,” “the useful test,” and “in practice” to make logic explicit.
+- Classy does not mean vague.
+- Premium does not mean distant.
+
+## AS. Plain-language shadow requirement
+Every major framework term must have a plain-language shadow.
+
+Required format:
+
+> Formal term → Plain-language meaning
+
+Examples:
+- Allocation readiness → ready to earn investor conviction
+- Proof stack → the evidence that removes doubt layer by layer
+- Traction quality → proof that growth is real, not noisy
+- Capital logic → why this money, why now, and what it unlocks
+- Narrative spine → the simple line that holds the story together
+- Investor conviction → belief strong enough to keep the conversation moving
+- Diligence trail → the record investors can review and trust later
+
+If the plain-language shadow is clearer than the formal term, use the plain-language version on the slide and keep the formal term in production notes only.
+
+## AT. Connected narrative spine requirement
+Every carousel must define a simple narrative spine before slide writing begins.
+
+Required format:
+
+> “This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].”
+
+Example:
+
+> “This carousel starts with the tension that capital may be available but investor conviction is scarce, shows that most fundraising stories fail because they leave doubts unresolved, then gives a proof stack so founders can make each slide remove one investor doubt.”
+
+If the narrative spine is unclear, do not create the carousel yet.
+
+## AU. Narrative bridge rule
+Every slide must not only connect structurally, but also read like the next natural sentence in the story.
+
+Rules:
+- Each slide should answer the question created by the previous slide.
+- Each slide should create a simple question that the next slide answers.
+- The reader should never feel reset at the start of a new slide.
+- Avoid abrupt jumps from evidence to framework, or from framework to application.
+- Use bridge lines where needed.
+- A bridge line should make the logic explicit without adding clutter.
+
+Approved bridge line types:
+- “That is where most stories break.”
+- “So the useful question becomes:”
+- “This is why the next slide matters.”
+- “The issue is not more information. It is clearer proof.”
+- “Once you see the doubt, the fix becomes simple.”
+- “The next step is to turn the idea into a test.”
+- “Here is what that looks like in practice.”
+- “This is the mistake the framework is built to fix.”
+
+## AV. Reader Should Think rule
+Each slide should create a specific reader thought.
+
+Examples:
+- “I have been making the deck look impressive, not believable.”
+- “My update is reporting activity, not reducing doubt.”
+- “My data room stores files, but does not guide verification.”
+- “This slide needs to answer one investor question.”
+- “If I cannot say what doubt this removes, the slide is weak.”
+
+If the reader thought is vague, the slide is not clear enough.
+
+## AW. No Decorative Frameworks refinement
+Frameworks should only appear when they make the reader’s next action easier.
+
+Reject:
+- frameworks that rename common sense;
+- frameworks that need too much explanation;
+- frameworks that sound more sophisticated than useful;
+- frameworks that do not make the next slide easier to understand;
+- multiple frameworks in one carousel unless they clearly ladder into each other.
+
+A simple before/after, checklist, or question may be better than a named framework.
+
+## AX. Explain Then Name rule
+Do not introduce a framework name before the reader understands the problem it solves.
+
+Sequence:
+1. Show the problem.
+2. Show the consequence.
+3. Show the repeated pattern.
+4. Then name the framework.
+
+Do not start with “The Allocation Proof Stack.” Start with “Every investor-facing slide should remove one doubt.” Then: “That is the Proof Stack.”
+
+## AY. Narrative continuity without filler
+Transitions should not become filler text.
+
+Rules:
+- Use bridge lines only when they reduce reader effort.
+- Do not add generic transition copy.
+- If the slide design already makes the transition clear, no bridge line is needed.
+- Bridge lines should be short and useful.
+- Transitions should feel like logic, not decoration.
+
+Final tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

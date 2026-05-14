@@ -164,3 +164,25 @@ Do not post:
 - slides where the reader cannot say what they gained.
 
 Reject any carousel where a smart reader would not save it because it helps them think or act better.
+
+## Plain-language and narrative rejection rules
+Reject carousel ideas, briefs, drafts, or designs when they contain:
+
+- slides that sound smart but require decoding;
+- jargon-heavy slides without plain-language shadows;
+- carousels where slides feel like separate posts;
+- evidence slides that do not create a clear next question;
+- framework slides that appear before the reader feels the problem;
+- beautiful slides whose point cannot be said plainly;
+- slides that end abruptly without setting up the next idea;
+- premium language that is too vague to act on;
+- frameworks that rename common sense;
+- frameworks that need too much explanation before the reader sees why they matter;
+- transition copy that feels like filler instead of logic.
+
+Final rejection tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

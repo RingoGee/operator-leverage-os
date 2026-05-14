@@ -46,3 +46,18 @@ Use this as a bank of CTA patterns that invite saving, thinking, discussion, dia
 - [ ] The CTA does not make the tool the hero.
 - [ ] The CTA invites saving, thinking, discussion, diagnosis, application, or implementation.
 - [ ] Any paid CTA keeps free teaching separate from paid execution.
+
+## Plain-language CTA rules
+CTAs should continue the narrative instead of sounding like a separate sales block.
+
+Rules:
+- Use direct, helpful language.
+- Name the next behavior the reader should try.
+- Keep paid-asset bridges implementation-led, not hype-led.
+- Do not introduce new jargon on the final slide.
+- The CTA should feel like the natural next step after the carousel’s argument.
+
+CTA tests:
+- Does the next step feel inevitable?
+- Does the CTA read like a useful next action, not a strategy document?
+- Would simpler wording make this more powerful?

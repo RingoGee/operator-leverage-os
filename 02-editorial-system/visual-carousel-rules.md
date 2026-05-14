@@ -602,3 +602,40 @@ Before design, ask:
 - What useful question, rule, filter, rewrite, or lens does it give the reader?
 - Would the reader feel they received a useful operating lens for free?
 - If this slide were removed from the carousel, would the reader lose a specific useful idea?
+
+## Plain-language visual carousel standard
+A visual carousel must make the plain-English point easier to see. It should not make jargon look premium.
+
+Rules:
+- The first visible idea on each slide should be understandable without internal terminology.
+- Formal terms and framework names need plain-language shadows before they appear as slide copy.
+- Visual hierarchy should make the simple point obvious, then show the supporting proof, mechanism, or decision path.
+- Do not let design polish rescue unclear language.
+- A premium slide still needs direct, useful copy.
+
+## Narrative bridge and slide handoff standard
+Every slide should feel like the next natural sentence in the story.
+
+Rules:
+- Each slide answers the question created by the previous slide.
+- Each slide creates a simple question that the next slide answers.
+- The reader should never feel reset at the start of a new slide.
+- Evidence slides must create a clear next question.
+- Framework slides should arrive only after the reader feels the problem.
+- Use bridge lines only when they reduce reader effort.
+- Transitions should feel like logic, not decoration.
+
+Approved bridge line types:
+- “That is where most stories break.”
+- “So the useful question becomes:”
+- “This is why the next slide matters.”
+- “The issue is not more information. It is clearer proof.”
+- “Once you see the doubt, the fix becomes simple.”
+- “The next step is to turn the idea into a test.”
+- “Here is what that looks like in practice.”
+- “This is the mistake the framework is built to fix.”
+
+Slide handoff tests:
+- Does the next slide feel inevitable?
+- Can the reader explain the slide without using our terminology?
+- Did the slide explain the problem before naming the framework?

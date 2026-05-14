@@ -349,3 +349,42 @@ Stronger diagnosis standard:
 - [ ] Does every icon or marker serve an analytical purpose?
 - [ ] Does the diagram avoid generic business-process graphics?
 - [ ] Is the diagram intellectually sharp, not just visually clear?
+
+## Plain-language-first checks
+- [ ] Can the point of each slide be said in plain English?
+- [ ] Does each formal term have a plain-language shadow?
+- [ ] Does the slide copy sound like useful insight, not internal documentation?
+- [ ] Does the reader know what to do or think differently?
+- [ ] Can a smart reader summarize the carousel without using our jargon?
+- [ ] Could a smart reader explain this slide without using our terminology?
+- [ ] Does this slide read like a useful insight, not a strategy document?
+- [ ] Would simpler wording make this more powerful?
+
+## Narrative spine and bridge checks
+- [ ] Does the carousel have one narrative spine?
+- [ ] Is the narrative spine written in this format: “This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift]”?
+- [ ] Does every slide answer the previous slide’s question?
+- [ ] Does every slide create a clear next question?
+- [ ] Does the next slide feel inevitable?
+- [ ] Are bridge lines used only when they reduce friction?
+- [ ] Do transitions feel like logic, not decoration?
+- [ ] Does each slide have a specific “Reader should think” sentence?
+
+## Framework timing and usefulness checks
+- [ ] Does the framework arrive after the problem is felt?
+- [ ] Did we explain the problem before naming the framework?
+- [ ] Does the framework make the reader’s next action easier?
+- [ ] Would a simple before/after, checklist, or question be stronger than a named framework?
+- [ ] Are multiple frameworks avoided unless they clearly ladder into each other?
+
+## Plain-language rejection triggers
+Reject or rework if:
+
+- a slide sounds smart but requires decoding;
+- jargon appears without a plain-language shadow;
+- slides feel like separate posts;
+- an evidence slide does not create a clear next question;
+- a framework appears before the reader feels the problem;
+- a beautiful slide cannot be said plainly;
+- a slide ends abruptly without setting up the next idea;
+- premium language is too vague to act on.

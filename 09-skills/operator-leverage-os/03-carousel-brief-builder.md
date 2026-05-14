@@ -125,3 +125,28 @@ Briefs must include:
 - a slide usefulness test: if this slide were removed, what specific useful idea would the reader lose?
 
 Reject brief directions that produce thin, transitional, or merely decorative slides.
+
+## Plain-language and narrative refinement gate
+Every carousel brief must enforce simple language before clever language.
+
+Required additions to every brief:
+- Simple narrative spine in this format: “This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].”
+- Plain-language shadows for every major term in the format `Formal term → Plain-language meaning`.
+- A “Reader should think” line for every slide.
+- Slide-level previous answer and next question.
+- Bridge logic before moving to production draft.
+
+Briefing rules:
+- Say the simple thing first.
+- Use formal terms only when they make the idea clearer.
+- Explain the problem before naming the framework.
+- Reject decorative frameworks that rename common sense or do not make the next action easier.
+- Bridge lines should be used only when they reduce reader effort.
+- If the narrative spine is unclear, do not create the carousel brief yet.
+
+Final tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

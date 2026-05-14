@@ -51,6 +51,19 @@ Reject or rewrite if the sentence is clever but not plain.
 
 TBD
 
+## Connected narrative spine
+Define this before slide writing begins. If this is unclear, do not create the carousel yet.
+
+Required format:
+
+> “This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].”
+
+Example:
+
+> “This carousel starts with the tension that capital may be available but investor conviction is scarce, shows that most fundraising stories fail because they leave doubts unresolved, then gives a proof stack so founders can make each slide remove one investor doubt.”
+
+TBD
+
 ## Domain context
 For finance, fundraising, investor communication, or investment strategy topics, specify:
 
@@ -311,6 +324,49 @@ For every slide, define:
 
 TBD
 
+## Slide handoff copy fields
+Use these fields for every slide before final slide copy is written. These fields make sure the carousel reads like one connected story, not separate useful posts.
+
+Required fields for each slide:
+
+- Slide point in plain English:
+- Previous slide answer:
+- Question this slide creates:
+- Bridge into next slide:
+- Formal terms used:
+- Plain-language shadows:
+- Sentence to simplify:
+- Reader should think:
+
+Example:
+
+Slide 3:
+- Slide point in plain English: Capital is still moving, but investors are filtering harder.
+- Previous slide answer: This proves the problem is not no capital; it is selective conviction.
+- Question this slide creates: If the market is filtering harder, what should my story do differently?
+- Bridge into next slide: That is why impressive is not enough.
+- Formal terms used: capital concentration
+- Plain-language shadow: more money going to fewer companies
+- Sentence to simplify: TBD
+- Reader should think: “I need to make my company easier to believe, not just more impressive.”
+
+### Slide handoff table
+
+| Slide | Slide point in plain English | Previous slide answer | Question this slide creates | Bridge into next slide | Formal terms used | Plain-language shadows | Sentence to simplify | Reader should think |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | TBD | Opening tension | TBD | TBD | TBD | TBD | TBD | TBD |
+| 2 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| 3 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| 4 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| 5 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| 6 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| 7 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+| 8 | TBD | TBD | Closing behavior shift | Final profile reason | TBD | TBD | TBD | TBD |
+
+Bridge line rule: use a bridge only when it reduces reader effort. If the design already makes the transition clear, no bridge line is needed.
+
+Reader thought rule: if the “Reader should think” line is vague, the slide is not clear enough.
+
 ## Slide-by-slide argument sequence
 Use this section to draft the actual argument flow before writing final slide copy.
 
@@ -541,3 +597,23 @@ Rules:
 - Reuse core frameworks across contexts.
 - Use field notes to avoid feed fatigue.
 - Vary archetypes across the deck while keeping the chrome stable.
+
+## Plain-language, framework, and narrative gates
+Before moving from template to production draft, confirm:
+
+- [ ] Every slide says the simple thing before any formal term.
+- [ ] Every major framework term has a `Formal term → Plain-language meaning` shadow.
+- [ ] If the shadow is clearer than the formal term, the slide uses the plain-language version.
+- [ ] Slide copy uses short, direct, active sentences.
+- [ ] No slide uses noun-heavy, overcompressed, internal-sounding language.
+- [ ] The carousel explains the problem before naming the framework.
+- [ ] No framework is decorative or merely renames common sense.
+- [ ] Every slide answers the previous slide’s question.
+- [ ] Every slide creates a clear next question.
+- [ ] Bridge lines are short, useful, and used only when they reduce reader effort.
+- [ ] Each slide has a specific “Reader should think” sentence.
+- [ ] Could a smart reader explain this slide without using our terminology?
+- [ ] Does this slide read like a useful insight, not a strategy document?
+- [ ] Does the next slide feel inevitable?
+- [ ] Did we explain the problem before naming the framework?
+- [ ] Would simpler wording make this more powerful?
