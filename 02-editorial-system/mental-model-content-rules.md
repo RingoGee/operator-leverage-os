@@ -196,3 +196,75 @@ Final tests:
 - Does the next slide feel inevitable?
 - Did we explain the problem before naming the framework?
 - Would simpler wording make this more powerful?
+
+## Latest language and value doctrine consolidation
+
+### Plain Language First
+Every carousel must use plain English before introducing any formal term, framework label, or strategic abstraction.
+- Say the simple thing first.
+- Use formal terms only when they make the idea clearer.
+- Avoid overcompressed consulting language.
+- Avoid finance/fundraising jargon unless the slide explains it plainly.
+- If a line sounds impressive but not instantly useful, rewrite it.
+
+Use plain alternatives like:
+- “Investors do not just ask if the company is good. They ask if it is ready to earn conviction.”
+- “Growth is more believable when you can show why it happened and why it can happen again.”
+- “Your story should make investors ask fewer basic follow-up questions.”
+- “Show why you need this money now, and what it will prove next.”
+
+### Plain-language shadow requirement
+Every major framework term must have a plain-language shadow in this format: `Formal term → Plain-language meaning`.
+
+Examples:
+- Allocation readiness → ready to earn investor conviction.
+- Proof stack → the evidence that removes doubt layer by layer.
+- Traction quality → proof that growth is real, not noisy.
+- Capital logic → why this money, why now, and what it unlocks.
+- Narrative spine → the simple line that holds the story together.
+- Investor conviction → belief strong enough to keep the conversation moving.
+- Diligence trail → the record investors can review and trust later.
+
+If the plain-language shadow is clearer than the formal term, use the plain-language version on the slide and keep the formal term in production notes only.
+
+### Free Value Per Slide
+Every slide must give the reader one useful takeaway: a diagnostic question, decision filter, rewrite rule, before/after improvement, mistake to avoid, practical consequence, small framework, checklist, teardown lens, mental model, field note, rule of thumb, prompt-like self-audit question, or sharper phrase they can reuse.
+
+The reader should feel slightly advantaged after every slide.
+
+### Unfair Free Advantage
+Free content should feel valuable enough that readers believe the thinking could normally live inside paid decks, consulting calls, founder office memos, or internal strategy reviews. Free content teaches the thinking. Paid products, if any, help implement the thinking.
+
+Reject slides that are visually elegant but low-value, obvious, generic, overcompressed, or remembered for design but not lesson.
+
+### Explain Then Name
+Do not introduce a framework name before the reader understands the problem it solves. Use this order:
+1. Show the problem.
+2. Show the consequence.
+3. Show the repeated pattern.
+4. Then name the framework.
+
+Example: start with “Every investor-facing slide should remove one doubt,” then name “the Proof Stack.”
+
+
+
+## Latest framework and clarity rules
+
+### Expert-reader clarity test
+Every major carousel must answer:
+- What exact business/work situation is this about?
+- Who faces this problem?
+- What is the practical consequence if they ignore it?
+- What does the reader now understand better?
+- What should the reader do differently?
+- Can a domain-aware reader explain the point in one sentence after reading it?
+
+Every carousel must include: “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+
+Finance, fundraising, and investor-communication topics must clearly state founder/operator/investor context, relevant stage or situation, decision implication, and what changes in communication or behavior.
+
+### Useful density without clutter
+More detail is allowed when it sharpens action, diagnosis, or judgment. Detail is bad when it adds labels without improving understanding. Use tables, grids, ladders, maps, annotations, and checklists to organize density. Every dense slide needs one dominant takeaway.
+
+### Framework innovation
+New frameworks are allowed when useful, but they must pass first-principles, practical, clarity, visual, originality, and necessity tests. Approved formats include diagnostic ladder, doubt map, proof stack, decision filter, conversion funnel, leakage map, narrative spine, evidence hierarchy, before/after rewrite, operating checklist, tension matrix, consequence chain, trust loop, belief bridge, attention gate, IC memo reconstruction, assumption stack, proof gap map, compounding loop, retrieval map, and signal vs noise filter.

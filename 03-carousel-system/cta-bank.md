@@ -61,3 +61,7 @@ CTA tests:
 - Does the next step feel inevitable?
 - Does the CTA read like a useful next action, not a strategy document?
 - Would simpler wording make this more powerful?
+
+## Current CTA guardrails
+
+CTAs must preserve the free/paid boundary. Free content teaches the thinking; paid products, if any, help implement the thinking. A CTA should point to the next useful action, saved reference, or optional implementation asset without turning the carousel into a sales page.

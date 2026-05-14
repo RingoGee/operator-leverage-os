@@ -186,3 +186,13 @@ Final rejection tests:
 - Does the next slide feel inevitable?
 - Did we explain the problem before naming the framework?
 - Would simpler wording make this more powerful?
+
+## Latest rejection rules
+
+Reject or rework content that breaks any of these current system rules:
+- Brand Identity Lock v1: do not invent new visual identities for each carousel.
+- Free Value Per Slide: do not publish slides that look premium but give no useful takeaway.
+- Unfair Free Advantage: do not make free content feel thin, generic, or merely promotional.
+- Minimum Mobile Readability Rule and Mobile Text Hierarchy Rule: do not require zooming to understand the main idea.
+- Slide-to-Slide Narrative Continuity Rule, Reader Question Chain Rule, One Carousel, One Argument Rule, Narrative Bridge Rule, and Connected Narrative Spine: do not publish carousels that feel like disconnected facts.
+- Plain Language First, Plain-language shadow, and Explain Then Name: do not lead with jargon or named frameworks before the reader understands the problem.

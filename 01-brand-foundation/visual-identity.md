@@ -260,3 +260,38 @@ Visual continuity tests:
 - Does the design answer the previous slide’s question?
 - Does the visual object make the plain-English point easier to understand?
 - Does the carousel feel connected, not like separate polished posts?
+
+## Latest carousel system consolidation
+
+### Brand Identity Lock v1 operating rule
+The working rule is: **same brand identity, different slide structures and narrative devices**.
+
+Locked across carousels:
+- Palette family: Warm Ivory / Soft Paper White, Deep Charcoal / Near Black, Dark Forest Green, Slate Blue, Proof Orange / Controlled Amber, Muted Red / Rust, and Deep Green.
+- Type pairing: display serif for major conceptual headlines, clean modern sans-serif for body, labels, diagrams, notes, source lines, captions, and interface-like elements, with optional mono-style treatment only for small source tags, memo codes, or field-manual markers.
+- Chrome placement: stable top-left label, stable top-right slide number, optional memo/category label, bottom-left Operator Leverage OS mark or label, optional footer source/caveat line, consistent safe margins, and consistent baseline alignment.
+- Spacing discipline, diagram-led clarity, premium editorial feel, and mobile readability standards.
+
+Flexible by carousel:
+- Slide archetype, visual metaphor, framework depth, information density, evidence treatment, diagram type, headline tone, and single-post accent emphasis.
+
+Design must not invent a new visual identity for each carousel. Operator Leverage OS should feel like a premium visual operating manual: editorial, practical, calm, structured, high-signal, and expert-readable.
+
+### Minimum Mobile Readability Rule
+Every carousel must be designed for Instagram mobile reading.
+- Essential text must never be microcopy.
+- The smallest meaningful text must be comfortably readable on a phone.
+- Footnotes, caveats, memo codes, source notes, and chrome may be smaller, but they must not carry the main argument.
+- If a reader must zoom to understand a label, that label is too small or the slide is overloaded.
+- Body text must be visibly larger than source/chrome text.
+- Diagram labels must be large enough to read without zooming.
+- Mobile readability beats decorative density.
+
+### Mobile Text Hierarchy Rule
+Every slide must use a clear four-level text hierarchy:
+1. Level 1 — main idea / headline.
+2. Level 2 — support line / core explanation.
+3. Level 3 — framework labels / table rows / diagram labels.
+4. Level 4 — optional source / caveat / chrome / memo code.
+
+Level 1 and Level 2 must be instantly readable. Level 3 must be readable without zoom. Level 4 must remain minimal and non-essential. Dense slides should use fewer larger blocks, not many tiny fragments.

@@ -388,3 +388,22 @@ Reject or rework if:
 - a beautiful slide cannot be said plainly;
 - a slide ends abruptly without setting up the next idea;
 - premium language is too vague to act on.
+
+## Current production-readiness checklist
+
+- [ ] Brand Identity Lock v1 is applied: same brand identity, different slide structures and narrative devices.
+- [ ] Free Value Per Slide is clear: every slide gives one useful takeaway.
+- [ ] Unfair Free Advantage is present: the free thinking feels valuable enough for a memo, consulting call, or paid deck.
+- [ ] Expert-reader clarity passes: situation, audience, consequence, new understanding, behavior shift, and one-sentence point are clear.
+- [ ] Minimum Mobile Readability Rule passes: essential text is readable on Instagram without zoom.
+- [ ] Mobile Text Hierarchy Rule passes: Level 1, Level 2, Level 3, and Level 4 text roles are clear.
+- [ ] Slide-to-Slide Narrative Continuity Rule passes: every slide answers or advances the previous slide.
+- [ ] Reader Question Chain Rule passes: every slide has a reader question.
+- [ ] One Carousel, One Argument Rule passes: slides cannot be shuffled without weakening the story.
+- [ ] Narrative Bridge Rule passes: transitions feel like the next natural sentence.
+- [ ] Connected Narrative Spine is written before slide copy.
+- [ ] Plain Language First passes: simple wording comes before formal terms.
+- [ ] Plain-language shadow exists for every major framework term.
+- [ ] Explain Then Name passes: the problem is understood before the framework is named.
+- [ ] Useful density is organized without clutter.
+- [ ] Any new framework passes first-principles, practical, clarity, visual, originality, and necessity tests.

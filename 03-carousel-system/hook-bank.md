@@ -67,3 +67,7 @@ Hook tests:
 - Does this slide read like a useful insight, not a strategy document?
 - Did we explain the problem before naming the framework?
 - Would simpler wording make this more powerful?
+
+## Current hook guardrails
+
+Hooks must support Plain Language First and One Carousel, One Argument Rule. A good hook names the business/work tension in plain English, implies the practical consequence, and opens the Connected Narrative Spine. Avoid hooks that sound clever but do not tell the reader what situation the carousel helps them understand.
