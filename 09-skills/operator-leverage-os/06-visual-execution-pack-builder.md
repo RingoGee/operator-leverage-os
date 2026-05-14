@@ -91,3 +91,21 @@ Prompt packs must preserve the free-value-per-slide doctrine.
 Every slide prompt should include what the slide teaches, diagnoses, clarifies, or helps the reader do.
 
 Guardrail: do not create empty premium-looking slides. A polished slide with no useful takeaway fails.
+
+## Plain-language and narrative execution guardrails
+Visual execution packs must preserve simple language and bridge logic from the brief and production draft.
+
+Rules:
+- Keep the plain-English slide point visible in the execution plan.
+- Preserve the narrative spine and slide handoffs.
+- Include formal term → plain-language shadow notes where any jargon appears.
+- Guard against prompts that create visually strong but disconnected slides.
+- Use bridge lines only when they reduce reader effort.
+- Ensure each slide’s visual decision supports the “Reader should think” line.
+- Do not let visual polish hide overformal or unclear copy.
+
+Execution QA:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?

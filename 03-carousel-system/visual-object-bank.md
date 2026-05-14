@@ -555,3 +555,18 @@ Use these when a carousel needs to feel like a premium free field manual, not ju
 - **What it explains:** The exact useful point a slide contributes to the argument.
 - **How it creates reader value:** Makes every slide's purpose explicit and reduces interpretation cost.
 - **What to avoid:** Do not over-annotate or state the obvious.
+
+## Plain-language and narrative fit rules for visual objects
+Choose visual objects because they make the next reader thought easier, not because they look sophisticated.
+
+Rules:
+- The object must clarify the plain-English slide point.
+- The object must support the carousel’s narrative spine.
+- The object must help one slide hand off naturally to the next.
+- Do not use a named framework object if a before/after, checklist, or question would make the action clearer.
+- Do not use visually strong objects that create disconnected slides.
+
+Visual object tests:
+- Does the next slide feel inevitable?
+- Can the reader explain the visual without using our terminology?
+- Does the object explain the problem before naming the framework?

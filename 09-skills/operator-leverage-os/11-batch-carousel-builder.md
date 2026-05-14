@@ -106,3 +106,26 @@ Before generating full prompt packages, check value density:
 - Is the batch avoiding many shallow carousels produced quickly?
 
 Guardrail: do not produce a batch that looks polished but feels thin.
+
+## Batch plain-language and narrative spine gate
+Fast batches must not produce jargon-heavy or disconnected decks.
+
+Before any batch item becomes a brief, require:
+- One simple narrative spine.
+- Plain-language shadows for major terms.
+- A clear reader thought for each planned slide.
+- Previous-answer / next-question logic for the slide sequence.
+- Framework names only after the problem and repeated pattern are clear.
+
+Batch rejection rules:
+- Reject ideas that only sound premium because they use abstract language.
+- Reject batches where slides could be shuffled without losing meaning.
+- Reject decorative frameworks that rename common sense.
+- Slow down or reduce batch size if the plain-language and narrative-spine checks cannot be completed.
+
+Final tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

@@ -111,3 +111,37 @@ For each slide, include:
 - how useful density is organized without clutter.
 
 Reject thin, transitional, or merely decorative slides before moving to design prompting.
+
+## Plain-language production draft requirements
+Production drafts must use simple, direct, classy language. Premium should mean clear and useful, not distant or vague.
+
+For each slide, include:
+- Slide point in plain English.
+- Previous slide answer.
+- Question this slide creates.
+- Bridge into next slide, only if it reduces reader effort.
+- Formal terms used.
+- Plain-language shadows.
+- Sentence to simplify.
+- Reader should think.
+
+Drafting rules:
+- Prefer short, direct sentences.
+- Use one clear idea per line.
+- Use active voice.
+- Avoid noun-heavy phrases, mechanical phrasing, and stacked abstractions.
+- Use “this means,” “that is why,” “the useful test,” and “in practice” when they make the logic clearer.
+- Explain the problem before naming the framework.
+- Do not allow decorative frameworks.
+- Make each slide feel like the next natural step in one argument.
+
+Simplification check:
+- Rewrite any sentence that sounds impressive but is not instantly useful.
+- Rewrite any phrase the reader would not naturally say in a real conversation.
+
+Final tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

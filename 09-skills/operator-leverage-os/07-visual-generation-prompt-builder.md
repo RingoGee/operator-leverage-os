@@ -97,3 +97,33 @@ Add final tests:
 
 - Would the reader feel they received a useful operating lens for free?
 - If this slide were removed from the carousel, would the reader lose a specific useful idea?
+
+## Required plain-language and narrative blocks for final visual prompts
+Every final visual prompt must include a narrative spine block and a slide-level reader-thought block.
+
+Required narrative spine block:
+
+> This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].
+
+Required global language instructions:
+- Use simple, direct, classy language.
+- Do not use jargon unless translated in plain English.
+- Each slide should feel like the next natural step in one argument.
+- Use bridge lines only when they reduce reader effort.
+- Explain the problem before naming the framework.
+
+Required slide-level block:
+- Slide point in plain English:
+- Previous slide answer:
+- Question this slide creates:
+- Bridge into next slide:
+- Formal terms used:
+- Plain-language shadows:
+- Reader should think:
+
+Final prompt tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

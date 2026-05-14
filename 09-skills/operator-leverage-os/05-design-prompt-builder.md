@@ -109,3 +109,21 @@ Design prompts must preserve:
 - practical takeaway visibility;
 - one dominant takeaway per dense slide;
 - useful density without clutter.
+
+## Plain-language and narrative design prompt requirements
+Design prompts must support the story. They should not make unclear copy look premium.
+
+Rules:
+- Require visual hierarchy to make the plain-language point obvious first.
+- Support narrative flow visually from slide to slide.
+- Preserve previous-answer / next-question logic in the design instructions.
+- Use visual handoffs, arrows, sequencing, contrast, or repeated anchors only when they reduce reader effort.
+- Do not let design elevate unclear, overformal, or jargon-heavy copy.
+- Do not introduce a framework visually before the reader understands the problem it solves.
+- Avoid visually strong but disconnected slides.
+
+Prompt checks:
+- Does the next slide feel inevitable?
+- Can the plain-English slide point be understood before the formal label?
+- Does the visual support the reader thought for that slide?
+- Would simpler wording make this more powerful?

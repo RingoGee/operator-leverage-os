@@ -136,3 +136,22 @@ Require:
 - first-principles framework innovation only where needed.
 
 Guardrail: reject “market update” posts that do not teach action, diagnosis, or judgment.
+
+## Trend-to-carousel plain-language translation gate
+Trend-based carousels must translate market language into simple operator implications.
+
+Rules:
+- Do not let trend commentary become abstract, overformal, or finance-jargon-heavy.
+- Explain what the trend means for a founder, operator, investor, or team in plain English.
+- Put formal market language in notes unless it makes the slide clearer.
+- Give every market or framework term a plain-language shadow.
+- Build one narrative spine before creating packages.
+- Make evidence slides create the next practical question.
+- Explain the problem and repeated pattern before naming any framework.
+
+Trend package tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

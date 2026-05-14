@@ -90,3 +90,28 @@ Depends on the requested weekly output depth:
 5. Output depth completed
 6. Product bridge notes, if any
 7. Next action
+
+## Weekly plain-language and narrative connection gates
+Weekly candidates must pass language and story gates before becoming full prompt packages.
+
+Require for each carousel candidate:
+- A simple narrative spine.
+- Plain-language-first framing.
+- Plain-language shadows for major terms.
+- Slide-level previous answer and next question.
+- Bridge into next slide only where it reduces reader effort.
+- A specific “Reader should think” line per slide.
+- Frameworks introduced only after the problem is felt.
+
+Weekly rejection rules:
+- Do not advance candidates that sound smart but require decoding.
+- Do not advance candidates whose slides feel like separate posts.
+- Do not advance candidates where the framework is decorative.
+- Do not advance trend ideas that cannot be translated into simple operator implications.
+
+Final tests:
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Does the next slide feel inevitable?
+- Did we explain the problem before naming the framework?
+- Would simpler wording make this more powerful?

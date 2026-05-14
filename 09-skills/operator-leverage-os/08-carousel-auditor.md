@@ -123,3 +123,40 @@ Final audit questions:
 
 - Would the reader feel they received a useful operating lens for free?
 - If this slide were removed from the carousel, would the reader lose a specific useful idea?
+
+## Language simplicity audit
+Audit whether the carousel can be understood without internal terminology.
+
+Rate 0–2:
+- 0 = jargon-heavy, formal, or requires decoding.
+- 1 = mostly clear but still abstract, mechanical, or noun-heavy.
+- 2 = simple, direct, classy, and instantly useful.
+
+Check:
+- Does every major term have a plain-language shadow?
+- Could a smart reader explain this slide without using our terminology?
+- Does this slide read like a useful insight, not a strategy document?
+- Would simpler wording make this more powerful?
+
+## Narrative connection audit
+Audit whether each slide leads naturally into the next.
+
+Rate 0–2:
+- 0 = slides feel like separate posts.
+- 1 = sequence is logical but transitions still feel abrupt.
+- 2 = each slide answers the previous question and creates the next one.
+
+Check:
+- Does the carousel have one clear narrative spine?
+- Does every slide answer the previous slide’s question?
+- Does every slide create a clear next question?
+- Does the next slide feel inevitable?
+- Are bridge lines used only when they reduce friction?
+
+## Framework timing audit
+Rate whether the framework arrives after the problem is felt.
+
+Check:
+- Did we explain the problem before naming the framework?
+- Is the framework useful, or merely decorative?
+- Would a simple before/after, checklist, or question work better?

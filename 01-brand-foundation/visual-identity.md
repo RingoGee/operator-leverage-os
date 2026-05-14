@@ -243,3 +243,20 @@ Before design or generation, ask:
 - Does this feel like the same publication as other Operator Leverage OS posts, while still having a distinct argument?
 - Would a reader recognize the brand without every carousel using the same template?
 - Does the design reduce interpretation cost for the intended expert reader?
+
+## Visual Support for Plain Language and Narrative Flow
+Design must make the plain-language point obvious before it makes the carousel look impressive.
+
+Rules:
+- The hierarchy should reveal the simple point first, then the supporting proof or framework.
+- Do not let polished design elevate unclear, overformal, or jargon-heavy copy.
+- Each slide should feel like the next natural visual step in one argument.
+- Use arrows, sequence, contrast, and visual handoffs only when they reduce reader effort.
+- If the visual transition already makes the next step clear, do not add a decorative bridge line.
+- A beautiful slide still fails if its point cannot be said plainly.
+
+Visual continuity tests:
+- Does the next slide feel inevitable?
+- Does the design answer the previous slide’s question?
+- Does the visual object make the plain-English point easier to understand?
+- Does the carousel feel connected, not like separate polished posts?
