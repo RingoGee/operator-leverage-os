@@ -617,3 +617,48 @@ Before moving from template to production draft, confirm:
 - [ ] Does the next slide feel inevitable?
 - [ ] Did we explain the problem before naming the framework?
 - [ ] Would simpler wording make this more powerful?
+
+## Current required template fields
+
+### Carousel-level fields
+- One-sentence point: “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+- Domain context.
+- Practical consequence.
+- Expert-reader clarity test.
+- Free value promise.
+- Connected Narrative Spine.
+- Reader Question Chain.
+- Brand Identity Lock applied?
+- Primary accent.
+- Supporting accents and their meaning.
+- Typography hierarchy.
+- Slide chrome requirements.
+- Diagram family.
+- Allowed variation from house style.
+- Plain-language shadows for framework terms.
+- Visual clarity risk.
+
+### Slide-level fields
+- Slide role.
+- Reader value delivered.
+- Practical takeaway.
+- Plain-language point.
+- Framework or tool used.
+- Previous slide connection.
+- Previous slide answer.
+- Reader question answered.
+- Reader question created.
+- Bridge into next slide.
+- Next slide handoff.
+- Narrative function.
+- Value delivered.
+- Transition risk.
+- Mobile readability risk.
+- Smallest meaningful text risk.
+- Visual continuity motif.
+- Formal terms used.
+- Plain-language shadows.
+- Sentence to simplify.
+- Reader should think.
+
+This template enforces Brand Identity Lock v1, Free Value Per Slide, Minimum Mobile Readability Rule, Mobile Text Hierarchy Rule, Slide-to-Slide Narrative Continuity Rule, Reader Question Chain Rule, One Carousel, One Argument Rule, Plain Language First, Narrative Bridge Rule, Connected Narrative Spine, and Explain Then Name.

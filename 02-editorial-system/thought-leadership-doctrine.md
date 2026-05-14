@@ -974,3 +974,69 @@ Final tests:
 - Does the next slide feel inevitable?
 - Did we explain the problem before naming the framework?
 - Would simpler wording make this more powerful?
+
+## Latest narrative coherence doctrine consolidation
+
+### Connected Narrative Spine
+Every carousel must define a simple narrative spine before slide writing begins:
+
+> This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].
+
+If the narrative spine is unclear, do not create the carousel yet.
+
+### One Carousel, One Argument Rule
+A carousel may contain many useful slides, but it must make one coherent argument. Reject if slides are individually good but do not connect, each slide introduces a new idea without continuity, evidence does not feed the next idea, frameworks appear without buildup, application slides feel bolted on, or final slides become generic checklists.
+
+### Slide-to-Slide Narrative Continuity Rule
+Every carousel must feel like one guided argument. Each slide must deliver standalone value, answer or advance the previous slide, and create a natural reason to continue to the next slide. Each slide should end with a soft handoff into the next idea.
+
+Allowed handoff types include implied question, consequence line, next-step cue, transition phrase, visual continuation, repeated motif, problem → mechanism → solution progression, and before/after setup.
+
+### Reader Question Chain Rule
+Every flagship carousel must define the reader question answered by each slide. Default question arc:
+- Slide 1: What is the tension?
+- Slide 2: Why does this happen?
+- Slide 3: Is this actually true?
+- Slide 4: What do people usually get wrong?
+- Slide 5: What is the hidden mechanism?
+- Slide 6: What framework helps me act?
+- Slide 7: What does this look like in practice?
+- Slide 8: What should I do next?
+
+The exact questions can change by topic, but every slide must have a reader question.
+
+### Narrative Bridge Rule
+Every slide must read like the next natural sentence in the story. Each slide should answer the question created by the previous slide and create a simple question the next slide answers.
+
+Approved bridge line types:
+- “That is where most stories break.”
+- “So the useful question becomes:”
+- “This is why the next slide matters.”
+- “The issue is not more information. It is clearer proof.”
+- “Once you see the doubt, the fix becomes simple.”
+- “The next step is to turn the idea into a test.”
+- “Here is what that looks like in practice.”
+- “This is the mistake the framework is built to fix.”
+
+
+
+## Latest framework and clarity rules
+
+### Expert-reader clarity test
+Every major carousel must answer:
+- What exact business/work situation is this about?
+- Who faces this problem?
+- What is the practical consequence if they ignore it?
+- What does the reader now understand better?
+- What should the reader do differently?
+- Can a domain-aware reader explain the point in one sentence after reading it?
+
+Every carousel must include: “This carousel argues that [specific audience] should [shift behavior] because [mechanism/consequence].”
+
+Finance, fundraising, and investor-communication topics must clearly state founder/operator/investor context, relevant stage or situation, decision implication, and what changes in communication or behavior.
+
+### Useful density without clutter
+More detail is allowed when it sharpens action, diagnosis, or judgment. Detail is bad when it adds labels without improving understanding. Use tables, grids, ladders, maps, annotations, and checklists to organize density. Every dense slide needs one dominant takeaway.
+
+### Framework innovation
+New frameworks are allowed when useful, but they must pass first-principles, practical, clarity, visual, originality, and necessity tests. Approved formats include diagnostic ladder, doubt map, proof stack, decision filter, conversion funnel, leakage map, narrative spine, evidence hierarchy, before/after rewrite, operating checklist, tension matrix, consequence chain, trust loop, belief bridge, attention gate, IC memo reconstruction, assumption stack, proof gap map, compounding loop, retrieval map, and signal vs noise filter.

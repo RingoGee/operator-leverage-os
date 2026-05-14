@@ -570,3 +570,7 @@ Visual object tests:
 - Does the next slide feel inevitable?
 - Can the reader explain the visual without using our terminology?
 - Does the object explain the problem before naming the framework?
+
+## Current visual object guardrails
+
+Visual objects must preserve Brand Identity Lock v1: same brand identity, different slide structures and narrative devices. Choose maps, ladders, proof stacks, decision filters, leakage maps, narrative spines, evidence hierarchies, checklists, matrices, loops, and filters only when they clarify the argument. The visual object must support Minimum Mobile Readability Rule, Mobile Text Hierarchy Rule, Visual Continuity Rule, and Free Value Per Slide.

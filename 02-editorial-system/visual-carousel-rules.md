@@ -639,3 +639,83 @@ Slide handoff tests:
 - Does the next slide feel inevitable?
 - Can the reader explain the slide without using our terminology?
 - Did the slide explain the problem before naming the framework?
+
+## Latest carousel system consolidation
+
+### Brand Identity Lock v1 operating rule
+The working rule is: **same brand identity, different slide structures and narrative devices**.
+
+Locked across carousels:
+- Palette family: Warm Ivory / Soft Paper White, Deep Charcoal / Near Black, Dark Forest Green, Slate Blue, Proof Orange / Controlled Amber, Muted Red / Rust, and Deep Green.
+- Type pairing: display serif for major conceptual headlines, clean modern sans-serif for body, labels, diagrams, notes, source lines, captions, and interface-like elements, with optional mono-style treatment only for small source tags, memo codes, or field-manual markers.
+- Chrome placement: stable top-left label, stable top-right slide number, optional memo/category label, bottom-left Operator Leverage OS mark or label, optional footer source/caveat line, consistent safe margins, and consistent baseline alignment.
+- Spacing discipline, diagram-led clarity, premium editorial feel, and mobile readability standards.
+
+Flexible by carousel:
+- Slide archetype, visual metaphor, framework depth, information density, evidence treatment, diagram type, headline tone, and single-post accent emphasis.
+
+Design must not invent a new visual identity for each carousel. Operator Leverage OS should feel like a premium visual operating manual: editorial, practical, calm, structured, high-signal, and expert-readable.
+
+### Minimum Mobile Readability Rule
+Every carousel must be designed for Instagram mobile reading.
+- Essential text must never be microcopy.
+- The smallest meaningful text must be comfortably readable on a phone.
+- Footnotes, caveats, memo codes, source notes, and chrome may be smaller, but they must not carry the main argument.
+- If a reader must zoom to understand a label, that label is too small or the slide is overloaded.
+- Body text must be visibly larger than source/chrome text.
+- Diagram labels must be large enough to read without zooming.
+- Mobile readability beats decorative density.
+
+### Mobile Text Hierarchy Rule
+Every slide must use a clear four-level text hierarchy:
+1. Level 1 — main idea / headline.
+2. Level 2 — support line / core explanation.
+3. Level 3 — framework labels / table rows / diagram labels.
+4. Level 4 — optional source / caveat / chrome / memo code.
+
+Level 1 and Level 2 must be instantly readable. Level 3 must be readable without zoom. Level 4 must remain minimal and non-essential. Dense slides should use fewer larger blocks, not many tiny fragments.
+
+
+
+## Latest narrative coherence doctrine consolidation
+
+### Connected Narrative Spine
+Every carousel must define a simple narrative spine before slide writing begins:
+
+> This carousel starts with [tension], shows [cause/mechanism], then gives [tool/framework], so the reader can [action/behavior shift].
+
+If the narrative spine is unclear, do not create the carousel yet.
+
+### One Carousel, One Argument Rule
+A carousel may contain many useful slides, but it must make one coherent argument. Reject if slides are individually good but do not connect, each slide introduces a new idea without continuity, evidence does not feed the next idea, frameworks appear without buildup, application slides feel bolted on, or final slides become generic checklists.
+
+### Slide-to-Slide Narrative Continuity Rule
+Every carousel must feel like one guided argument. Each slide must deliver standalone value, answer or advance the previous slide, and create a natural reason to continue to the next slide. Each slide should end with a soft handoff into the next idea.
+
+Allowed handoff types include implied question, consequence line, next-step cue, transition phrase, visual continuation, repeated motif, problem → mechanism → solution progression, and before/after setup.
+
+### Reader Question Chain Rule
+Every flagship carousel must define the reader question answered by each slide. Default question arc:
+- Slide 1: What is the tension?
+- Slide 2: Why does this happen?
+- Slide 3: Is this actually true?
+- Slide 4: What do people usually get wrong?
+- Slide 5: What is the hidden mechanism?
+- Slide 6: What framework helps me act?
+- Slide 7: What does this look like in practice?
+- Slide 8: What should I do next?
+
+The exact questions can change by topic, but every slide must have a reader question.
+
+### Narrative Bridge Rule
+Every slide must read like the next natural sentence in the story. Each slide should answer the question created by the previous slide and create a simple question the next slide answers.
+
+Approved bridge line types:
+- “That is where most stories break.”
+- “So the useful question becomes:”
+- “This is why the next slide matters.”
+- “The issue is not more information. It is clearer proof.”
+- “Once you see the doubt, the fix becomes simple.”
+- “The next step is to turn the idea into a test.”
+- “Here is what that looks like in practice.”
+- “This is the mistake the framework is built to fix.”

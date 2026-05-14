@@ -8,7 +8,7 @@ Use after the visual execution pack is approved and the user wants one clean cop
 
 ## Inputs required
 - Approved visual execution pack
-- Target attempt number
+- Confirmation that the output should become the final master prompt
 - Optional feedback from prior visual attempts
 
 ## Source files to read
@@ -18,7 +18,7 @@ Use after the visual execution pack is approved and the user wants one clean cop
 - `03-carousel-system/carousel-quality-checklist.md`
 
 ## Output files to create or update
-- `07-exports/visual-generation-prompts/[number-topic-slug-attempt-master-prompt].md`
+- `07-exports/visual-generation-prompts/##_topic-slug-master-prompt.md`
 
 Prompt file must include:
 
@@ -37,7 +37,7 @@ Prompt file must include:
 
 ## Step-by-step procedure
 1. Read execution pack and source files.
-2. Identify whether this is first attempt, second attempt, final attempt, etc.
+2. Confirm this is the final approved master prompt for the carousel, not an attempt archive.
 3. Build a full copyable prompt.
 4. Make it tool-ready.
 5. Include all slide-specific instructions.
@@ -127,3 +127,24 @@ Final prompt tests:
 - Does the next slide feel inevitable?
 - Did we explain the problem before naming the framework?
 - Would simpler wording make this more powerful?
+
+## Current doctrine checks for this skill
+
+This skill must enforce the latest Operator Leverage OS rules before handing work forward:
+- Brand Identity Lock v1: same brand identity, different slide structures and narrative devices.
+- Expert-reader clarity: exact situation, audience, consequence, one-sentence point, and behavior shift must be clear.
+- Free Value Per Slide and Unfair Free Advantage: every slide must give a useful takeaway that feels worth saving.
+- Useful density without clutter: detail is allowed only when it improves action, diagnosis, or judgment.
+- Framework innovation: named frameworks must pass first-principles, practical, clarity, visual, originality, and necessity tests.
+- Minimum Mobile Readability Rule: essential text must be readable on Instagram without zoom.
+- Mobile Text Hierarchy Rule: use Level 1 headline, Level 2 support, Level 3 labels, and Level 4 non-essential chrome/source text.
+- Slide-to-Slide Narrative Continuity Rule: each slide answers or advances the previous slide and creates a reason to continue.
+- Reader Question Chain Rule: every slide has a reader question.
+- One Carousel, One Argument Rule: the carousel is one guided argument, not disconnected good slides.
+- Visual Continuity Rule: varied archetypes must still share motifs, chrome, palette, typography, and spacing.
+- Plain Language First and Direct Slide Copy: use spoken, useful, plain English before formal terms.
+- Plain-language shadow: every major framework term needs `Formal term → Plain-language meaning`.
+- Narrative Bridge Rule and Connected Narrative Spine: every slide should feel like the next natural sentence in the story.
+- Explain Then Name: show the problem, consequence, and repeated pattern before naming the framework.
+
+Final handoff default: the user should only need `07-exports/visual-generation-prompts/` and `07-exports/post-copy/` for final image generation and publishing. Upstream folders are traceability files.

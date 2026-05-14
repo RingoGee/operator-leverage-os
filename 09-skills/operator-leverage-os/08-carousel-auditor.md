@@ -160,3 +160,24 @@ Check:
 - Did we explain the problem before naming the framework?
 - Is the framework useful, or merely decorative?
 - Would a simple before/after, checklist, or question work better?
+
+## Current doctrine checks for this skill
+
+This skill must enforce the latest Operator Leverage OS rules before handing work forward:
+- Brand Identity Lock v1: same brand identity, different slide structures and narrative devices.
+- Expert-reader clarity: exact situation, audience, consequence, one-sentence point, and behavior shift must be clear.
+- Free Value Per Slide and Unfair Free Advantage: every slide must give a useful takeaway that feels worth saving.
+- Useful density without clutter: detail is allowed only when it improves action, diagnosis, or judgment.
+- Framework innovation: named frameworks must pass first-principles, practical, clarity, visual, originality, and necessity tests.
+- Minimum Mobile Readability Rule: essential text must be readable on Instagram without zoom.
+- Mobile Text Hierarchy Rule: use Level 1 headline, Level 2 support, Level 3 labels, and Level 4 non-essential chrome/source text.
+- Slide-to-Slide Narrative Continuity Rule: each slide answers or advances the previous slide and creates a reason to continue.
+- Reader Question Chain Rule: every slide has a reader question.
+- One Carousel, One Argument Rule: the carousel is one guided argument, not disconnected good slides.
+- Visual Continuity Rule: varied archetypes must still share motifs, chrome, palette, typography, and spacing.
+- Plain Language First and Direct Slide Copy: use spoken, useful, plain English before formal terms.
+- Plain-language shadow: every major framework term needs `Formal term → Plain-language meaning`.
+- Narrative Bridge Rule and Connected Narrative Spine: every slide should feel like the next natural sentence in the story.
+- Explain Then Name: show the problem, consequence, and repeated pattern before naming the framework.
+
+Final handoff default: the user should only need `07-exports/visual-generation-prompts/` and `07-exports/post-copy/` for final image generation and publishing. Upstream folders are traceability files.

@@ -28,3 +28,9 @@ All repo work should remain reviewable through GitHub pull requests. Skills may 
 ## Source-of-truth rule
 
 Before using a skill, Codex should read the source files listed inside that skill. The source files keep the work aligned with the Operator Leverage OS doctrine-first, evidence-backed, visual-strategy-memo direction.
+
+## Current skill-chain rules
+
+All Operator Leverage OS skills must preserve Brand Identity Lock v1, Free Value Per Slide, Unfair Free Advantage, Minimum Mobile Readability Rule, Mobile Text Hierarchy Rule, Slide-to-Slide Narrative Continuity Rule, Reader Question Chain Rule, One Carousel, One Argument Rule, Plain Language First, Plain-language shadow, Narrative Bridge Rule, Connected Narrative Spine, and Explain Then Name.
+
+Final handoff defaults are only `07-exports/visual-generation-prompts/` and `07-exports/post-copy/`. Upstream folders remain traceable working files, not the places a user should need to open for final publishing or image generation.

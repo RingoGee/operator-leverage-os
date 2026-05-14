@@ -49,3 +49,15 @@ Grounded research
 - Visual generation itself is not done inside Codex unless the user later uses an external image/design tool.
 - Free content should remain intellectually complete.
 - Paid product bridges should only appear when they are natural and explicitly relevant.
+
+## Current skill-chain rules
+
+Every skill in this chain must enforce:
+- Brand Identity Lock v1: same brand identity, different slide structures and narrative devices.
+- Free Value Per Slide and Unfair Free Advantage.
+- Expert-reader clarity.
+- Minimum Mobile Readability Rule and Mobile Text Hierarchy Rule.
+- Slide-to-Slide Narrative Continuity Rule, Reader Question Chain Rule, One Carousel, One Argument Rule, Narrative Bridge Rule, and Connected Narrative Spine.
+- Plain Language First, Plain-language shadow, Direct Slide Copy, and Explain Then Name.
+
+Final handoff defaults are `07-exports/visual-generation-prompts/` for the master prompt and `07-exports/post-copy/` for captions, hooks, CTA, hashtags, alt text, source note, and posting notes.
